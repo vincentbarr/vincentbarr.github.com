@@ -2,8 +2,8 @@
 layout: post
 title: "First Post"
 description: ""
-category:
-tags: []
+category: [growth, marketing]
+tags: [bored, mondays]
 ---
 {% include JB/setup %}
 

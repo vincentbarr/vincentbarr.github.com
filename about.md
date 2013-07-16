@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "About"
-description: ""
+title: About
 ---
 {% include JB/setup %}
 #About Vincent Barr

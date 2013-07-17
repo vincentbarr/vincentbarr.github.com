@@ -34,7 +34,7 @@ body {
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
-	
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -55,7 +55,7 @@ h1, h2, h3 {
 h1,h2, h3 {
 	display: block;
 	border-bottom: 1px solid #ccc;
-	padding-bottom: 5px;	
+	padding-bottom: 5px;
 }
 
 h1 {
@@ -159,7 +159,7 @@ code, pre {
 
 pre {
 	padding: 4px 12px;
-  background: #FDFEFB;  
+  background: #FDFEFB;
   border-radius:4px;
   border:1px solid #D7D8C8;
   overflow: auto;
@@ -259,31 +259,10 @@ header li {
 	margin-bottom: 12px;
 	line-height: 1em;
 	padding: 6px 6px 6px 7px;
-
-	background: #AF0011;
-	background: -moz-linear-gradient(top, #AF0011 0%, #820011 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
-  background: -webkit-linear-gradient(top, #AF0011 0%,#820011 100%);
-  background: -o-linear-gradient(top, #AF0011 0%,#820011 100%);
-  background: -ms-linear-gradient(top, #AF0011 0%,#820011 100%);
-  background: linear-gradient(top, #AF0011 0%,#820011 100%);
-  
-	border-radius:4px;
-  border:1px solid #0D0D0D;
-
-	-webkit-box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
-	box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
-	
 }
 
 header li:hover {
 	background: #C3001D;
-	background: -moz-linear-gradient(top, #C3001D 0%, #950119 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
-  background: -webkit-linear-gradient(top, #C3001D 0%,#950119 100%);
-  background: -o-linear-gradient(top, #C3001D 0%,#950119 100%);
-  background: -ms-linear-gradient(top, #C3001D 0%,#950119 100%);
-  background: linear-gradient(top, #C3001D 0%,#950119 100%);
 }
 
 a.buttons {
@@ -325,12 +304,12 @@ footer {
 }
 
 @media print, screen and (max-width: 960px) {
-  
+
   div.wrapper {
     width:auto;
     margin:0;
   }
-  
+
   header, section, footer {
     float:none;
     position:static;
@@ -342,20 +321,20 @@ footer {
 		margin:0 84px 0 50px;
 		padding:0;
 	}
-  
+
   header {
     padding-right:320px;
   }
-  
+
   section {
     padding:20px 84px 20px 50px;
     margin:0 0 20px;
   }
-  
+
   header a small {
     display:inline;
   }
-  
+
   header ul {
     position:absolute;
     right:130px;
@@ -367,7 +346,7 @@ footer {
   body {
     word-wrap:break-word;
   }
-  
+
   header {
     padding:10px 20px 0;
 		margin-right: 0;
@@ -378,25 +357,25 @@ footer {
     margin:0 0 30px;
   }
 
-	footer {		
+	footer {
 		margin: 0 0 0 30px;
 	}
-  
+
   header ul, header p.view {
     position:static;
   }
 }
 
 @media print, screen and (max-width: 480px) {
-  
+
   header ul li.download {
     display:none;
   }
 
-	footer {		
+	footer {
 		margin: 0 0 0 20px;
 	}
-	
+
 	footer a{
 		display:block;
 	}

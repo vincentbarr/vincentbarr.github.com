@@ -4,6 +4,7 @@ title: "First Post"
 description: ""
 category: [growth, marketing]
 tags: [bored, mondays]
+excerpt: Ricky never read write son.
 ---
 {% include JB/setup %}
 

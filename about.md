@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+group: navigation
 ---
 {% include JB/setup %}
 #About Vincent Barr

@@ -262,6 +262,7 @@ header li {
 
 header li:hover {
 	background: #C3001D;
+  color: #FBFAF7 ;
 }
 
 a.buttons {

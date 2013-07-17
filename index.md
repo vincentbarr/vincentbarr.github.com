@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-#I will write about things here. Hopefully, someone (including myself) finds a bit of value in reading them.
+##I will write about things here. Hopefully, someone (including myself) finds a bit of value in reading them.
 
 <ul class="posts">
   {% for post in site.posts %}

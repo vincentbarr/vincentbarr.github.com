@@ -4,7 +4,7 @@ title: About
 ---
 {% include JB/setup %}
 #About Vincent Barr
-[/images/calvin-hobbes-dino.png]
+![Calvin & Hobbes](/images/calvin-hobbes-dino.png)
 
 ##n.
 

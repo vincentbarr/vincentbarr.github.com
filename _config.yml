@@ -10,13 +10,13 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Vincent Barr
-tagline: Curious
+tagline : Curious
 author : Vincent Barr
-  name : Vincent Barr
-  email : vincentvbarr@gmail.com
-  github : vincentbarr
-  twitter : vincentbarr
-  feedburner :
+name: vincent barr
+email : vincentvbarr@gmail.com
+github : vincentbarr
+twitter : vincentbarr
+feedburner :
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt

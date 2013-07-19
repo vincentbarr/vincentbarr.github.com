@@ -1,0 +1,8 @@
+---
+layout: default
+---
+{% include JB/setup %}
+{% include themes/dinky/page.html %}
+{% for post in site.posts %}
+	{{ post.content }}
+{% endfor %}

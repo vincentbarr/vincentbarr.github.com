@@ -2,7 +2,6 @@
 layout: page
 title: Vincent Barr
 header: Vincent Barr
-group: navigation
 ---
 {% include JB/setup %}
 

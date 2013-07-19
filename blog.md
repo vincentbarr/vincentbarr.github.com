@@ -4,6 +4,8 @@ title: Blog
 group: navigation
 ---
 BLOGGO
-{% for post in site.posts %}
-	{{ post.content }}
-{% endfor %}
+<div class="blog-index">
+	{% assign post = site.posts %}
+	  {% assign content = post.content %}
+	  {% include post_detail.html %}
+</div>

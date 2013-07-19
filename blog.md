@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: blog
+title: Blog
 group: navigation
 ---
 BLOGGO

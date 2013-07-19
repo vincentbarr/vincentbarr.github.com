@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About Vincent Barr
+title: About
 group: navigation
+comments: false
 ---
 {% include JB/setup %}
 ![Calvin & Hobbes](/images/calvin-hobbes-dino.png)

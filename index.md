@@ -9,7 +9,7 @@ comments: false
 
 <ul class="posts">
 {% for post in site.posts %}
-<p><a href=" {{ BASE_PATH }} {{ post.url }} "> {{ post.title }}</a>
+<p><a href=" {{ post.url }} "> {{ post.title }}</a>
 {{ post.excerpt }}</p>
 {% endfor %}
 </ul>

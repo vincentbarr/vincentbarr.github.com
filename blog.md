@@ -7,7 +7,7 @@ group: navigation
   <h1>Posts</h1>
   <ul class="posts">
     {% for post in site.posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }}</span></li>
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 </div>

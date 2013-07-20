@@ -2,7 +2,7 @@
 layout: post
 title: "Rubbish Tennis, Anyone?"
 category: [essais]
-exercept: "What an exercise in passive aggression."
+excerpt: "What an exercise in passive aggression."
 ---
 {% include JB/setup %}
 

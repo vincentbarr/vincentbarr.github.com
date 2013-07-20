@@ -2,7 +2,7 @@
 layout: post
 title: "On Comprehension, Persistence, and the Rear Naked Choke"
 category: [essais]
-excerpt: "I'm fascinated by people who do exceptional things, persevere, or become exceptiosn to commonly held beliefs and expectations.""
+excerpt: I'm fascinated by people who do exceptional things, persevere, or become exceptiosn to commonly held beliefs and expectations.
 ---
 {% include JB/setup %}
 

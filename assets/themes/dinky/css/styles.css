@@ -242,6 +242,10 @@ a.header {
 	text-decoration: underline;
 }
 
+a.header:hover {
+  font-weight:bold;
+}
+
 a.name {
 	white-space: nowrap;
 }
@@ -261,7 +265,7 @@ header li {
 }
 
 header li:hover {
-	font-weight:bold;
+
 }
 
 a.buttons {

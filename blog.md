@@ -3,9 +3,11 @@ layout: blog
 title: Blog
 group: navigation
 ---
-BLOGGO
-<div class="blog-index">
-	{% assign post = site.posts %}
-	  {% assign content = post.content %}
-	  {% include post_detail.html %}
+<div id="blog-index">
+  <h1>Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }}</span></li>
+    {% endfor %}
+  </ul>
 </div>

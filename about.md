@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: default
 title: About
 group: navigation
 comments: false
 ---
 {% include JB/setup %}
-![Calvin & Hobbes](/images/calvin-hobbes-dino.png)
+![Calvin & Hobbes](/assets/images/calvin-hobbes-dino.png)
 
 ##n.
 

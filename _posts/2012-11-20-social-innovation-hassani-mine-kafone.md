@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Best Responses to 'You Don't Talk Much'"
+title: "Social Innovation: Hassani's Mine Kafone Makes Seek-and-Detonate Affordable; Why PlayPump Failed"
 category: [essais]
-excerpt: Two ears, one mouth...
+excerpt: A surprisingly attractive mine detonation 'toy' and why  a well-funded PlayPump failed. 
 ---
 
 I commend [GE's Focus Forward Films series](http://focusforwardfilms.com).
@@ -13,11 +13,11 @@ It's giving some truly innovative people the platform to introduce products that
 
 [Product Designer Massoud Hassani's "Mine Kafone](http://massoudhassani.blogspot.com) is profound. It's simple, functional, and addresses a core human need: survival. It's a toy that donates landmines.
 
-####Situation: Landmines in Afghan prevent children and families from roaming freely in their environment.
+**Situation**: Landmines in Afghan prevent children and families from roaming freely in their environment.
 
-####Action: Hassani recalls desert as a playground. Recalls racing "wind toys" with friends as a child. Builds a low-cost (40 euros), easy to assemble, ball-shaped wind toy that detonates landmines.
+**Action**: Hassani recalls desert as a playground. Recalls racing "wind toys" with friends as a child. Builds a low-cost (40 euros), easy to assemble, ball-shaped wind toy that detonates landmines.
 
-####Result: TBD
+**Result**: TBD
 
 <iframe src="http://player.vimeo.com/video/51887079" frameborder="0" width="400" height="300"></iframe>
 

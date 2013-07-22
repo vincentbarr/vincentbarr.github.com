@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Aaron Swartz"
-category: [essais]
+category: essais
 excerpt: Suicide, regardless of an individual's contribution, is a tragedy.
 ---
 {% include JB/setup %}

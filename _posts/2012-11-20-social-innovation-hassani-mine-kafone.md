@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Social Innovation: Hassani's Mine Kafone Makes Seek-and-Detonate Affordable; Why PlayPump Failed"
-category: [essais]
+category: essais
 excerpt: A surprisingly attractive mine detonation 'toy' and why  a well-funded PlayPump failed.
 ---
 {% include JB/setup %}

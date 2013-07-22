@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mock User Acquisition Plan Based on Asana"
-category: [growth]
+category: growth
 excerpt: My final project at the close of Generall Assemb.ly's 10-week User Acquisiton course.
 ---
 {% include JB/setup %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Best Responses to 'You Don't Talk Much'"
-category: essais
+category: [essais]
 excerpt: Two ears, one mouth...
 ---
 {% include JB/setup %}

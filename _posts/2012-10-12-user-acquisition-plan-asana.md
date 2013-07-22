@@ -16,7 +16,7 @@ The plan includes:
 
 Check it out below or over at [Slideshare](http://www.slideshare.net/vincentbarr/mock-user-acquisition-marketing-plan"). Feel free to leave feedback and, if you want a copy, just [email me](mailto:vincentvbarr@gmail.com) and it's yours.
 
-<iframe style="border: none;" src="http://www.slideshare.net/vincentbarr/slideshelf" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="615px" height="470px"></iframe>
+<iframe style="border: none;" src="http://www.slideshare.net/vincentbarr/slideshelf" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="615px" height="470px"> </iframe>
 
 Nods and thanks to instructors [Kate Huyett](https://twitter.com/khuyi)</a> and [Rob Schutz](https://twitter.com/NeverSchutzUp) who lead an awesome course.
 

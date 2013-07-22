@@ -22,7 +22,7 @@ What I found (via web, not via foot, unfortunately):
 
 And, of course, one from the London Police:
 
-![London Police](assets/images/os-gemeos.png)
+![London Police](assets/images/london-police.png)
 
 <br>
 _Photo credit: [Barcelona Street Art](http://www.barcelonastreetart.net/graffiti/graffiti.htm)_

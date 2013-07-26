@@ -10,8 +10,8 @@ Why do it by half?
 
 Why do anything by half?
 
-An adage from Mr. Henry Rollins:
-“Don’t do anything by half. If you love someone, love them with all your soul. When you go to work, work your ass off. When you hate someone, hate them until it hurts.”
+An adage from [Mr. Henry Rollins](http://en.wikipedia.org/wiki/Henry_Rollins):
+>“Don’t do anything by half. If you love someone, love them with >all your soul. When you go to work, work your ass off. When you >hate someone, hate them until it hurts.”
 
 I like this idea. It’s passionate. It’s raw, and it’s flawed.
 

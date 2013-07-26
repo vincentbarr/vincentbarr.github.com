@@ -8,4 +8,4 @@ excerpt: Like so...
 
 Like so:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/EEZgw43GCQ8" frameborder="0" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/EEZgw43GCQ8" frameborder="0"> </iframe>

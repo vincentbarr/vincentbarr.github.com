@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Comprehension, Persistence, and the Rear Naked Choke"
-category: [essais]
+category: essais
 excerpt: I'm fascinated by people who persevere.
 ---
 {% include JB/setup %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Things I Learned This Week"
-category: [essais]
+category: essais
 excerpt: Premeditating evils; if New york's Financial District were a website; Hazel + Exobrain + 90M + Me...
 ---
 {% include JB/setup %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Os Gemeos in Boston, Urban Art from Spain"
-category: [essais]
+category: essais
 excerpt: A surprisingly attractive mine detonation 'toy' and why  a well-funded PlayPump failed.
 ---
 {% include JB/setup %}

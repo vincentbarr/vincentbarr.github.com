@@ -2,7 +2,7 @@
 layout: post
 title: "Os Gemeos in Boston, Urban Art from Spain"
 category: essais
-excerpt: A surprisingly attractive mine detonation 'toy' and why  a well-funded PlayPump failed.
+excerpt: South Station, please whisper in Penn Station's ear. 
 ---
 {% include JB/setup %}
 

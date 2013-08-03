@@ -6,6 +6,8 @@ excerpt: I'm fascinated by people who persevere.
 ---
 {% include JB/setup %}
 
+JEK4YS5T3ZYD
+
 I'm fascinated by people who persevere.
 
 And it really shakes my rattle when I hear a person openly deny and dismiss her ability to pursue the something that, were it not for a range of presumptions, circumstances, or past decisions, she would love to be doing. I recognize the connotation of achievement and careers with my use of the words 'something' and 'doing' in this context, but I'm thinking about this universally, such as learning how to Bachata, remembering how to love someone, or building a **sweet cabin** at the inspiration of [Cabin Porn](http://freecabinporn.com/).

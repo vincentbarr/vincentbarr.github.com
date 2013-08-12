@@ -6,6 +6,8 @@ excerpt: "A Case for All Text Slides."
 ---
 {% include JB/setup %}
 
+9RN44GTSQ6B5
+
 Good PPT presentations use a font no smaller than 1,000px. Great PPT presentations use 1:10 text to image ratio. Legendary PPT presentations present no more than one idea per slide.
 
 This presentation etiquette is something like adding for inches to your sleeves, dimming the lights, and hitting the smoke machine (and a way that makes it smoke more, not less). [\[1\]](#fn1)

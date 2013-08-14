@@ -6,15 +6,15 @@ excerpt: "A Case for Text-Heavy Slides."
 ---
 {% include JB/setup %}
 
-PowerPoint is something of a sexy topic. People really seem to like making PowerPoints, too, almost as much at they like skimming numbered lists.
+People love their PowerPoints. Some even write PowerPoints about PowerPoint, or PowerPoints to help you make more PowerPoints, better PowerPoints.
 
-Many write PowerPoints about PowerPoint. When I query Google for "powerpoint presentation rules," I can choose from 4,200,000 results. Limit this to URLs ending in PPT or PDF and I've got 404,000.
+When I 'Google' "powerpoint presentation rules," I can choose from 4,200,000 results. Limit this to URLs ending in PPT or PDF and I can choose from ~404,000 PowerPoints (or former PowerPoints.
 
-This mass has boiled down to a handful of rules, several we're all familiar with:
+Somehow, out of all this labor, they've evolved into something like this:
 
 >Good PPT presentations use a font no smaller than 1,000px, present no more than on idea per slide, and follow a    >1:10 text-to-image ratio.
 
-Such presentation etiquette, though, is like a magician adding four inches to his sleeves, dimming the lights, and refusing to let you inspect the deck of cards. [\[1\]](#fn1)
+This presentation etiquette is like a magician adding four inches to his sleeves, dimming the lights, and refusing to let you inspect the deck of cards. [\[1\]](#fn1)
 
 Let's look at SlideShare's "Top Presentations of the Day" as featured front and center on its homepage, and then I will explain why this is the work of Blaine - not Tufte - and a real problem.
 

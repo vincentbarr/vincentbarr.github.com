@@ -7,6 +7,8 @@ comments: false
 {% include JB/setup %}
 ![Calvin & Hobbes](/assets/images/calvin-hobbes-dino.png)
 
+**Vincent Barr**
+
 You can reach me at vincentvbarr@gmail.com.
 
 ##n.

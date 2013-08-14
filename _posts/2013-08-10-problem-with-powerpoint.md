@@ -1,46 +1,44 @@
 ---
 layout: post
-title: "The Problem with Lively Presentations and Modern PowerPoints"
+title: "The Problem with Lively Presentations and 'Killer' PowerPoint Slides"
 category: essais
-excerpt: "A Case for All Text Slides."
+excerpt: "A Case for Text-Heavy Slides."
 ---
 {% include JB/setup %}
 
-9RN44GTSQ6B5
+PowerPoint is something of a sexy topic. People really seem to like making PowerPoints, too, almost as much at they like skimming numbered lists.
 
-Good PPT presentations use a font no smaller than 1,000px. Great PPT presentations use 1:10 text to image ratio. Legendary PPT presentations present no more than one idea per slide.
+Many write PowerPoints about PowerPoint. When I query Google for "powerpoint presentation rules," I can choose from 4,200,000 results. Limit this to URLs ending in PPT or PDF and I've got 404,000.
 
-This presentation etiquette is something like adding for inches to your sleeves, dimming the lights, and hitting the smoke machine (and a way that makes it smoke more, not less). [\[1\]](#fn1)
+This mass has boiled down to a handful of rules, several we're all familiar with:
 
-Okay.
+>Good PPT presentations use a font no smaller than 1,000px, present no more than on idea per slide, and follow a    >1:10 text-to-image ratio.
 
-Now, let's look at this in practice vis a vis SlideShare's "Top Presentations of the Day" featured front and center on its homepage.
+Such presentation etiquette, though, is like a magician adding four inches to his sleeves, dimming the lights, and refusing to let you inspect the deck of cards. [\[1\]](#fn1)
+
+Let's look at SlideShare's "Top Presentations of the Day" as featured front and center on its homepage, and then I will explain why this is the work of Blaine - not Tufte - and a real problem.
 
 ![Most popular SlideShare presentations](/assets/images/slideshare-mostpopular.png)
-
-![Cat consumer slide](/assets/images/catslide.png)
 
 ![Jack slide](/assets/images/jack-slide.png)
 
 ![Sonsense slide](/assets/images/nonsenseslide.png)
 
-Now, Blaine, be a good boy and tell us what you did with Tufte.
-
-As a slide is whiddled down to several words and a chart to a one-direction arrow, we, the audience, come to depend more on the speaker, to relay information. Our sensisitivity to body language, tone, and - to a lesser extent - words is heightened. The speaker comes to lean on humor and nonverbal cues and away from insights, evidence, and context .[\[2\]](#fn2)
+As a slide is whiddled down to several words and a chart to a one-direction arrow, we, the audience, come to depend more on the speaker, to relay information. Our sensisitivity to body language, tone, and - to a lesser extent - words is heightened. The speaker comes to lean on humor and nonverbal cues and away from insights, evidence, and context. [\[2\]](#fn2)
 
 Nonverbal behavior is deceiving. It's sleight of hand, and even with good intention it often has an adverse effect. When you add images and remove text, you're only adding only cups to the trick.
 
-Expressive presentation masks quality.
+##Expressive presentation masks quality.
 
-Let's say you deliver two presentations. One is an informative, life-changing finding on X complete with supporting evidence and the debunking of commonly accepted hypotheses. The second is a phony, nonsensical presentation. You deliver both with high energy, humor, and warmth. Now, we, the audience, have no idea which was better. Now, we the audience actually have no idea which was better. We can't tell. We don't know better.
+Let's say you deliver two presentations. One is an informative, life-changing finding on X complete with supporting evidence and the debunking of commonly accepted hypotheses. The second is a phony, nonsensical presentation. You deliver both with high energy, humor, and warmth. Now, we the audience actually have no idea which was better. That means we have no idea which presentation was better. Really. We can't tell.
 
-This phenomenon is explained by the [Dr. Fox Effect](http://en.wikipedia.org/wiki/Dr._Fox_effect). Warm, high energy speakers make it near impossible for attendees to discern the quality (or content coverage) of two very different speeches: one high in content coverage, and one not. When both lectures are delivered in an unexpressive manner, however, the audience can suddenly discern quality, or content coverage.
+This phenomenon is explained by the [Dr. Fox Effect](http://en.wikipedia.org/wiki/Dr._Fox_effect). It states that an audience would not be able to discern the quality of two presentations - one of high quality (high content coverage) and one of of low quality (low content coverage) - when the speaker delivers them with warmth, humor, and high energy. When both lectures are delivered in an unexpressive manner, however, the audience can suddenly discern quality, or identify the presentation that was informative.
 
-In a second experiment, pools of professionals sat through a lecture with an expressive instructor who displayed 'lively demeanor, warmth, and humor' while the content of his presentation consisted of non sequitur, jargon, and contradictions. Each audience - consisting of psychiatrists, psychologists, educators, graduate students - was fooled; they responded to Dr. Fox's lecture with overhwelmingly positive reviews.
+In a second experiment, pools of professionals sat through a lecture with an expressive instructor who displayed 'lively demeanor, warmth, and humor' as he delivered a presentation full of non sequitur, jargon, and contradictions. His audiences, each consisting of psychiatrists, psychologists, educators and graduate students, were all fooled, completely. They gave Dr. Fox's lecture overwhelmingly positive feedback.
 
-So, cut the shit. Stop targeting the lowest common denominator. Keep the details. We care about the important nuances that you tinkered your way into that demand explanation, context, and our attention. Present something that we can ask questions of. Be yourself and we'll listen, I promise.
+So, I ask that we cut the shit. Stop targeting the lowest common denominator. Keep the details and nuances that you found most fascinating and that require context and explanation. Present something that we can ask questions of; that doesn't require dramatic pauses, the [superman pose](http://www.wired.com/wiredscience/2012/05/st_cuddy/), or sad baby faces to communicate an idea and capture our attention.
 
-I came to see you, the scientist, the artist, but not you the magician or children's book illustrator (well, maybe the second).
+Be yourself, and the people that are meant to hear you will listen. I promise.
 
 **Footnotes**
 <a id="fn1">[1]</a>

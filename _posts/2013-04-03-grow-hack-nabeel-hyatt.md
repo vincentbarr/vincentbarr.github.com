@@ -6,8 +6,7 @@ excerpt: Notes
 ---
 {% include JB/setup %}
 
-4\.\3\.13
-[GrowHack Meetup](http://www.meetup.com/growhack/)
+4\.3\.13 [GrowHack Meetup](http://www.meetup.com/growhack/)
 
 **The best way I've seen someone fill in an empty front row before a presentation?**
 Offer free copies of your book. People were practically jumping over chairs - and mind you the book hasn't even been published yet. Good one, [Mattan](https://twitter.com/mattangriffel).

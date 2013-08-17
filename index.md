@@ -7,6 +7,8 @@ comments: false
 
 <h2 style="border: 0">Much like other human beings, I'm a human being.</h2>
 
+<h4>Site is under development. Bare with me.</h2>
+
 ###Recent posts:
 {% for post in site.posts %}
 <ul class="posts">

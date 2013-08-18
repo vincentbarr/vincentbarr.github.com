@@ -38,14 +38,14 @@ This phenomenon is explained by the [Dr. Fox Effect](http://en.wikipedia.org/wik
 
 In a second experiment, pools of professionals sat through a lecture with an expressive instructor who displayed 'lively demeanor, warmth, and humor' as he delivered a presentation full of non sequitur, jargon, and contradictions. His audiences, each consisting of psychiatrists, psychologists, educators and graduate students, were all fooled, completely. They gave Dr. Fox's lecture overwhelmingly positive feedback.
 
-So, I believe the latest PowerPoint etiquette signals problems with the audience, not with the presenter or the presentation. What does it say about us if we require the speaker to bedazzle his presentation with images and play his vocal chords like a piano for us to not label it a snoozefest? Maybe the problem isn't that the speaker isn't much good at keeping our attention, but that we're not much good at giving it. Are we consciously opting for these presentations and saying, 'yes, such presentations styles may very well deceive us but they're just so much more... entertaining!'? What about informing? Must entertainment preclude education?
+Are we consciously saying, 'yes, such presentations styles may very well deceive us but they're just so much more... entertaining!'? Entertainment shouldn't be a prerequisite for education, which is why I believe this PowerPoint etiquette signals a problem with the audience, not the presenter or slide deck. Maybe the problem isn't that the speaker isn't much good at keeping our attention, but that we're not much good at giving it.  
 
-So, I ask that we cut the shit. Stop targeting the lowest common denominator. Keep the details and nuances that you found most fascinating and that require context and explanation. Present something that we can ask questions of; that doesn't require dramatic pauses, the [superman pose](http://www.wired.com/wiredscience/2012/05/st_cuddy/), or sad baby faces to communicate an idea and capture our attention.
+So, let's stop targeting the lowest common denominator. Keep the details and nuances that you found most fascinating and that require context and explanation. Present something that we can ask questions of; that doesn't replace substance with dramatic pauses, the [superman pose](http://www.wired.com/wiredscience/2012/05/st_cuddy/), or pictures of babies. 
 
-Be yourself, and the people that are meant to hear you will listen. I promise.
+Be yourself, and the people that are meant to hear you will listen. I think.   
 
-**Footnotes**
+**Footnotes**  
 <a id="fn1">[1]</a>
-There are exceptions. Elementary, middle, and some high school students likely benefit from this practice (for some period of time).
+There are exceptions. Elementary, middle, and some high school students likely benefit from this practice (for some period of time).  
 <a id="fn2">[2]</a>
 08-14-13: I asked SlideShare how it selects its 'Top Presentations of the Day' via Twitter, but no response as of 08-18-13.

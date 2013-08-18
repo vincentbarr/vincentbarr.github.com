@@ -2,7 +2,7 @@
 layout: post
 title: "Open Source Tech NYC 2013"
 category: growth
-excerpt: Notes
+excerpt: Notes.
 ---
 {% include JB/setup %}
 

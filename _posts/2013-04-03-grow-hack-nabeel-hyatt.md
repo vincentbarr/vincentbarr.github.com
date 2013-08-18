@@ -2,7 +2,7 @@
 layout: post
 title: "GrowHack Meetup with Nabeel Hyatt"
 category: growth
-excerpt: Notes
+excerpt: Notes.
 ---
 {% include JB/setup %}
 

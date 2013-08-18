@@ -28,9 +28,9 @@ Thrilled to wear many hats and work with a smart, focused team as the Online Mar
 
 Current advisor, former Co-Chair of the Mentor Leadership Council & Mentor-Coach at [New York Needs You](www.newyorkneedsyou.org), a non-profit that helps first-generation college students recognize and pursue their professional aspirations, thus closing the opportunity gap.
 
-##Profiles\*
+##Profiles
 
 * INTJ
 * Gallup’s StrengthsFinder 2.0: Competition, Restorative, Command, Focus, Achiever
 
-*_Including the this section at the cost of appearing (or being) obnoxious for the value of meeting potentially interesting, like/unlike-minded people._
+_I included the profiles section at the cost of appearing (or being) obnoxious in exchange for the value of meeting potentially interesting, like/unlike-minded people._

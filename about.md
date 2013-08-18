@@ -7,7 +7,7 @@ comments: false
 {% include JB/setup %}
 ![Calvin & Hobbes](/assets/images/calvin-hobbes-dino.png)
 
-**Vincent Barr**
+#Vincent Barr
 
 You can reach me at vincentvbarr@gmail.com.
 
@@ -33,4 +33,4 @@ Current advisor, former Co-Chair of the Mentor Leadership Council & Mentor-Coach
 * INTJ
 * Gallup’s StrengthsFinder 2.0: Competition, Restorative, Command, Focus, Achiever
 
-_Including the this section at the cost of appearing (or being) obnoxious for the value of meeting potentially interesting, like/unlike-minded people._
+*_Including the this section at the cost of appearing (or being) obnoxious for the value of meeting potentially interesting, like/unlike-minded people._

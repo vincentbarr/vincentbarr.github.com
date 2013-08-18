@@ -33,4 +33,4 @@ Current advisor, former Co-Chair of the Mentor Leadership Council & Mentor-Coach
 * INTJ
 * Gallup’s StrengthsFinder 2.0: Competition, Restorative, Command, Focus, Achiever
 
-_I included the profiles section at the cost of appearing (or being) obnoxious in exchange for the value of meeting potentially interesting, like/unlike-minded people._
+_I included the Profiles section at the cost of appearing (or being) obnoxious in exchange for the value of meeting potentially interesting, like/unlike-minded people._

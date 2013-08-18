@@ -5,8 +5,6 @@ group: navigation
 ---
 {% include JB/setup %}
 
-#Books   
-
 ##Current  
 [Hot Text: Web Writing that Works](http://amzn.to/1ainiZ2) by Lisa & Jonathan Price  
 

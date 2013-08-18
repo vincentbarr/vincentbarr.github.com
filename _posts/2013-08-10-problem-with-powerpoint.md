@@ -6,9 +6,9 @@ excerpt: "A Case for Text-Heavy Slides."
 ---
 {% include JB/setup %}
 
-People love their PowerPoints. Some even write PowerPoints about PowerPoint, or PowerPoints to help you make more PowerPoints, better PowerPoints.
+People love their PowerPoints, so much so they write PowerPoint about PowerPoints.  
 
-When I 'Google' "powerpoint presentation rules," I can choose from 4,200,000 results (limit this to URLs ending in PPT or PDF and it's ~404,000). The etiquette that has evolved from this labor:
+When I 'Google' "powerpoint presentation rules," I can choose from 4,200,000 results (limit this to URLs ending in PPT or PDF and it's ~404,000). The etiquette that has evolved from this labor:  
 
 >Good PPT presentations use a font no smaller than 1,000px, present no more than on idea per slide, and follow a    1:10 text-to-image ratio.
 
@@ -20,13 +20,9 @@ For context, let's take a look at these rules in practice. Slideshare receives ~
 
 ![Jack slide](/assets/images/jack-slide.png)
 
-![Sonsense slide](/assets/images/nonsenseslide.png)
+![Nonsense slide](/assets/images/nonsenseslide.png)
 
->Compiled next are five main lessons relevant to issues common across the industries.
-
-First, concision =! quality. Had Pascal the time would his letters have become sketches of dandelions with captions like 'Grow Your Network?' Who am I to say, but I hope not.
-
-Second, and more important, as a slide is whiddled down to several words and a chart to a one-direction arrow, we, the audience, come to depend more on the speaker to relay information. Our sensisitivity to body language, tone, and - to a lesser extent - words is heightened. The speaker, in turn, comes to lean on humor and nonverbal cues and away from insights, evidence, and context. [\[2\]](#fn2)
+When a slide is widdled down to several words and a chart to a one-direction arrow, we, the audience, come to depend more on the speaker to relay information. Our sensitivity to body language, tone, and - to a lesser extent - words is heightened. The speaker, in turn, comes to lean on humor and nonverbal cues and away from insights, evidence, and context. And, as you can see, concision =! quality. [\[2\]](#fn2)
 
 Nonverbal behavior is deceiving. It's sleight of hand, and even with good intention it often has an adverse effect. When you add images and remove text, you're only adding only cups to the trick.
 
@@ -38,7 +34,7 @@ This phenomenon is explained by the [Dr. Fox Effect](http://en.wikipedia.org/wik
 
 In a second experiment, pools of professionals sat through a lecture with an expressive instructor who displayed 'lively demeanor, warmth, and humor' as he delivered a presentation full of non sequitur, jargon, and contradictions. His audiences, each consisting of psychiatrists, psychologists, educators and graduate students, were all fooled, completely. They gave Dr. Fox's lecture overwhelmingly positive feedback.
 
-Are we consciously saying, 'yes, such presentations styles may very well deceive us but they're just so much more... entertaining!'? Entertainment shouldn't be a prerequisite for education, which is why I believe this PowerPoint etiquette signals a problem with the audience, not the presenter or slide deck. Maybe the problem isn't that the speaker isn't much good at keeping our attention, but that we're not much good at giving it.  
+Are we consciously saying, 'yes, such presentation styles may very well deceive us but they're just so much more... entertaining!'? Entertainment shouldn't be a prerequisite for education, which is why I believe this PowerPoint etiquette signals a problem with the audience, not the presenter or slide deck. Maybe the problem isn't that the speaker isn't much good at keeping our attention, but that we're not much good at giving it.  
 
 So, let's stop targeting the lowest common denominator. Keep the details and nuances that you found most fascinating and that require context and explanation. Present something that we can ask questions of; that doesn't replace substance with dramatic pauses, the [superman pose](http://www.wired.com/wiredscience/2012/05/st_cuddy/), or pictures of babies. 
 

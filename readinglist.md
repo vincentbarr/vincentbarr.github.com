@@ -6,7 +6,7 @@ group: navigation
 {% include JB/setup %}
 
 ##Current  
-[Hot Text: Web Writing that Works](http://amzn.to/1ainiZ2) by Lisa & Jonathan Price  
+[_Hot Text: Web Writing that Works_](http://amzn.to/1ainiZ2) by Lisa & Jonathan Price  
 
 ##Past  
 [_Surely You're Joking, Mr. Feynman!_](http://amzn.to/13vYcyr) by Richard Feynman    

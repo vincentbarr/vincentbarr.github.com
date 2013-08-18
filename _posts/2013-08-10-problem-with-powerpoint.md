@@ -8,15 +8,13 @@ excerpt: "A Case for Text-Heavy Slides."
 
 People love their PowerPoints. Some even write PowerPoints about PowerPoint, or PowerPoints to help you make more PowerPoints, better PowerPoints.
 
-When I 'Google' "powerpoint presentation rules," I can choose from 4,200,000 results. Limit this to URLs ending in PPT or PDF and I can choose from ~404,000 PowerPoints (or former PowerPoints.
+When I 'Google' "powerpoint presentation rules," I can choose from 4,200,000 results (limit this to URLs ending in PPT or PDF and it's ~404,000). The etiquette that has evolved from this labor:
 
-Somehow, out of all this labor, they've evolved into something like this:
+>Good PPT presentations use a font no smaller than 1,000px, present no more than on idea per slide, and follow a    1:10 text-to-image ratio.
 
->Good PPT presentations use a font no smaller than 1,000px, present no more than on idea per slide, and follow a    >1:10 text-to-image ratio.
+This presentation etiquette is like a magician adding four inches to his sleeves, dimming the lights, and refusing to let you inspect the deck of cards. It's a problem, and it's the work of Blaine, not Tufte. [\[1\]](#fn1)
 
-This presentation etiquette is like a magician adding four inches to his sleeves, dimming the lights, and refusing to let you inspect the deck of cards. [\[1\]](#fn1)
-
-Let's take a look through SlideShare's "Top Presentations of the Day" as featured front and center on its homepage, and then I will explain why this is the work of Blaine - not Tufte - and a real problem.
+For context, let's take a look at these rules in practice. Slideshare receives ~60M unique visitors per month. Here are its "Top Presentations of the Day" as featured front and center on its homepage. [\[2\]](#fn2)
 
 ![Most popular SlideShare presentations](/assets/images/slideshare-mostpopular.png)
 
@@ -24,15 +22,11 @@ Let's take a look through SlideShare's "Top Presentations of the Day" as feature
 
 ![Sonsense slide](/assets/images/nonsenseslide.png)
 
-Those were the top five presentations on SlideShare. Slideshare receives roughly 60 million unique visitors per month.
-Just in case:
 >Compiled next are five main lessons relevant to issues common across the industries.
 
-First, concision =! quality. Pascal might have written a shorter letter had he the time, but I'm not sure that letter would become a sketch of a dandelion captioned 'Grow your network.' But, I've been wrong before.
+First, concision =! quality. Had Pascal the time would his letters have become sketches of dandelions with captions like 'Grow Your Network?' Who am I to say, but I hope not.
 
-
-
-Second, as a slide is whiddled down to several words and a chart to a one-direction arrow, we, the audience, come to depend more on the speaker, to relay information. Our sensisitivity to body language, tone, and - to a lesser extent - words is heightened. The speaker comes to lean on humor and nonverbal cues and away from insights, evidence, and context. [\[2\]](#fn2)
+Second, and more important, as a slide is whiddled down to several words and a chart to a one-direction arrow, we, the audience, come to depend more on the speaker to relay information. Our sensisitivity to body language, tone, and - to a lesser extent - words is heightened. The speaker, in turn, comes to lean on humor and nonverbal cues and away from insights, evidence, and context. [\[2\]](#fn2)
 
 Nonverbal behavior is deceiving. It's sleight of hand, and even with good intention it often has an adverse effect. When you add images and remove text, you're only adding only cups to the trick.
 
@@ -44,6 +38,8 @@ This phenomenon is explained by the [Dr. Fox Effect](http://en.wikipedia.org/wik
 
 In a second experiment, pools of professionals sat through a lecture with an expressive instructor who displayed 'lively demeanor, warmth, and humor' as he delivered a presentation full of non sequitur, jargon, and contradictions. His audiences, each consisting of psychiatrists, psychologists, educators and graduate students, were all fooled, completely. They gave Dr. Fox's lecture overwhelmingly positive feedback.
 
+So, I believe the latest PowerPoint etiquette signals problems with the audience, not with the presenter or the presentation. What does it say about us if we require the speaker to bedazzle his presentation with images and play his vocal chords like a piano for us to not label it a snoozefest? Maybe the problem isn't that the speaker isn't much good at keeping our attention, but that we're not much good at giving it. Are we consciously opting for these presentations and saying, 'yes, such presentations styles may very well deceive us but they're just so much more... entertaining!'? What about informing? Must entertainment preclude education?
+
 So, I ask that we cut the shit. Stop targeting the lowest common denominator. Keep the details and nuances that you found most fascinating and that require context and explanation. Present something that we can ask questions of; that doesn't require dramatic pauses, the [superman pose](http://www.wired.com/wiredscience/2012/05/st_cuddy/), or sad baby faces to communicate an idea and capture our attention.
 
 Be yourself, and the people that are meant to hear you will listen. I promise.
@@ -51,3 +47,5 @@ Be yourself, and the people that are meant to hear you will listen. I promise.
 **Footnotes**
 <a id="fn1">[1]</a>
 There are exceptions. Elementary, middle, and some high school students likely benefit from this practice (for some period of time).
+<a id="fn2">[2]</a>
+08-14-13: I asked SlideShare how it selects its 'Top Presentations of the Day' via Twitter, but no response as of 08-18-13.

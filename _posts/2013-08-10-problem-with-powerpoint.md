@@ -22,11 +22,11 @@ For context, let's take a look at these rules in practice. Slideshare receives ~
 
 ![Nonsense slide](/assets/images/nonsenseslide.png)
 
-When a slide is widdled down to several words and a chart to a one-direction arrow, we, the audience, come to depend more on the speaker to relay information. Our sensitivity to body language, tone, and - to a lesser extent - words is heightened. The speaker, in turn, comes to lean on humor and nonverbal cues and away from insights, evidence, and context. And, as you can see, concision =! quality. [\[2\]](#fn2)
+When a slide is widdled down to several words and a chart to a one-direction arrow, we, the audience, come to depend more on the speaker to relay information. Our sensitivity to body language, tone, and - to a lesser extent - words is heightened. The speaker, in turn, comes to lean on humor and nonverbal cues and away from insights, evidence, and context. And, as you can see, concision =! quality.
 
-Nonverbal behavior is deceiving. It's sleight of hand, and even with good intention it often has an adverse effect. When you add images and remove text, you're only adding only cups to the trick.
+Nonverbal behavior is deceiving. It's sleight of hand, and even with good intention it often has an adverse effect. When you add images and remove text, you're only adding only cups to the trick.  
 
-##Expressive presentation masks quality.
+##Expressive presentation masks quality
 
 Let's say you deliver two presentations. One is an informative, life-changing finding on X complete with supporting evidence and the debunking of commonly accepted hypotheses. The second is a phony, nonsensical presentation. You deliver both with high energy, humor, and warmth. Now, we the audience actually have no idea which was better. That means we have no idea which presentation was better. Really. We can't tell.
 

@@ -9,7 +9,7 @@ group: navigation
 
 ##Current
 [_Hot Text: Web Writing that Works_](http://amzn.to/1ainiZ2) by Lisa & Jonathan Price
-[The Art and Science of Java](http://amzn.to/13NpHcf) by Eric Roberts
+[_The Art and Science of Java_](http://amzn.to/13NpHcf) by Eric Roberts
 
 ##Past
 [_Karel The Robot Learns Java_](http://www.stanford.edu/class/cs106a/handouts/karel-the-robot-learns-java.pdf) by Eric Roberts

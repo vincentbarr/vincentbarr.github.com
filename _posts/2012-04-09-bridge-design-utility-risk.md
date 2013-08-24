@@ -14,8 +14,8 @@ Imagine creating a work that can support the wear of tens of people driving tons
 
 Never mind aesthetics. 
 
-![Bridge](/images/assets/bridge1.jpg)  
+![Bridge](/assets/images/bridge1.jpg)  
 
-![Bridge 2](/images/assets/bridge2.jpg)  
+![Bridge 2](/assets/images/bridge2.jpg)  
 
-![Bridge 3](/images/assets/bridge3.jpg)
+![Bridge 3](/assets/images/bridge3.jpg)

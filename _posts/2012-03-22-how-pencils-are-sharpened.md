@@ -6,4 +6,4 @@ excerpt: See for yourself.
 ---
 {% include JB/setup %}
 
-![Pencil sharpening](/images/assets/pencil-sharpening.gif)
+![Pencil sharpening](/assets/images/pencil-sharpening.gif)

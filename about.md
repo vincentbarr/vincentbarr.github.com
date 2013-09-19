@@ -22,7 +22,7 @@ d) Stockpiles midnight oil. Reads McSweeney’s for LOLz. Urbant art enthusiast 
 
 ##Work
 
-Thrilled to wear many hats and work with a smart, focused team as the Online Marketing Manager (and part junior product manager) for [10gen](www.10gen.com), the company behind MongoDB.
+Thrilled to wear many hats and work with a smart, focused team as the Online Marketing Manager (and part product manager) for [MongoDB](www.mongodb.com).
 
 ##Causes
 

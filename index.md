@@ -4,7 +4,9 @@ title: "Vincent Barr"
 comments: false
 ---
 {% include JB/setup %}
-
+<head>
+<meta property="twitter:account_id" content="130719074" />
+</head>
 <h2 style="border: 0">Much like other human beings, I'm a human being.</h2>
 
 <p>Site is under development. Bare with me.</p>

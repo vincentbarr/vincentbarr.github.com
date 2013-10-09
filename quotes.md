@@ -15,10 +15,10 @@ And some quotes are just so damn clever.
 
 Some that I enjoy in some way:    
 
-> "We all have times when we think more effectively, and times when we should not be thinking at all."  
+**"We all have times when we think more effectively, and times when we should not be thinking at all."**  
 
 -Daniel Cohen, Children's Writer  
 
-> "Slow is smooth, and smooth is fast."  
+**"Slow is smooth, and smooth is fast."**  
 
 -Brian Birdwell, Manhattan GMAT Instructor 

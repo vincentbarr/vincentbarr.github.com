@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Undo Chrome's Update That Displays Your Most Visited Sites"
+title: "Fix the Chrome Update That Displays Your Most Visited Sites"
 category: hacks
-excerpt: How to remove most visited sites from new tab in Chrome 30.0.1599.69.
+excerpt: How to remove your most visited sites from appearing in new tabs in Chrome 30.0.1599.69.
 ---
 {% include JB/setup %}
 

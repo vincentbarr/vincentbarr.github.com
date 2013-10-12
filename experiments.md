@@ -47,6 +47,6 @@ Have answers to the following questions:
 ###Progress Log
 Each day, I will check-in and bold the date after reading _all_ the latest post from all four blogs. 
 
-First 10 days: 12 13 14 15 16 17 18 19 20 21  
+First 10 days: **12** 13 14 15 16 17 18 19 20 21  
 Next 10 days: 22 23 24 25 26 27 28 29 30 31  
 Last 10 days: 1 2 3 4 5 6 7 8 9 10  

@@ -24,5 +24,4 @@ And, of course, one from the London Police:
 
 ![London Police](/assets/images/london-police.png)
 
-<br>
-_Photo credit: [Barcelona Street Art](http://www.barcelonastreetart.net/graffiti/graffiti.htm)_
+_Photo credit:_ [Barcelona Street Art](http://www.barcelonastreetart.net/graffiti/graffiti.htm)_

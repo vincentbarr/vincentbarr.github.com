@@ -20,7 +20,6 @@ Check it out below or over at [Slideshare](http://www.slideshare.net/vincentbarr
 
 Nods and thanks to instructors [Kate Huyett](https://twitter.com/khuyi) and [Rob Schutz](https://twitter.com/NeverSchutzUp) who lead an awesome course.
 
-<br>
-**Footnotes**
+_Footnotes_  
 <a id="fn1">[1]</a>
 I am not affiliated with Asana and the plan is purely an exercise.

@@ -43,7 +43,7 @@ That Hassani was born and raised in Afghan eases some of my woes. He understands
 Hassani's prototype will be Coming to MOMA (New York) in March 2013, and he will earn his first solo exhibition at the urbane Galerie Slott in Paris at a result. Well deserved.
 <br>
 
-**Footnotes**
+_Footnotes_  
 
 <a id="fn1">[1]</a>
 Source: [Guardian.co.uk](http://www.guardian.co.uk/commentisfree/2009/nov/24/africa-charity-water-pumps-roundabouts)

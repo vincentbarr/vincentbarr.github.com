@@ -18,6 +18,7 @@ This section is both to document experiments and to increase the likelihood that
 ##Project 1. Read 4 Blogs of Choice Every Day for 30 Days  
 
 ###Purpose
+Learn something.  
 Have answers to the following questions:  
 1. Is there value in following 3 specific bloggers?  
 2. Does this give me any insight into what subscriptions I can remove from my overwhelming list of RSS subscriptions (that I don't even look at)?  
@@ -26,24 +27,24 @@ Have answers to the following questions:
 5. Is this something I should do more of?  
 6. Is reading a blog for 5-7 days each day a good way to evaluate the quality of a feed and my interest in the subject?  
 
-##Assumptions:
+###3Assumptions:
 1. The authors produce thoughtful content  
 2. The authors produce fresh content at least 3 times per week  
 
-##Rules:
+###Rules:
 1. No news/blog aggregation sites  (i.e. Mashable)  
 
-##Start Date:  
+###Start Date:  
 
-##End Date:  
+###End Date:  
 
-##Blogs I will read ever day for 30 days (and yes, I'm doing that thing wher e: 
+###Blogs I will read ever day for 30 days:  
 1. [Occam's Razor by Avinash Kaushik](http://www.kaushik.net/avinash/)
 2. [Moby's Journal](http://www.moby.com/journal)
 3. [Google Analytics Blog](http://analytics.blogspot.com/)
 4. [The Altucher Confidential](http://www.jamesaltucher.com/)
 
-##Progress Log
+###Progress Log
 Each day, I will check-in and bold the date after reading _all_ the latest post from all four blogs. 
 
 First 10 days: 12 13 14 15 16 17 18 19 20 21  

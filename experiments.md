@@ -52,8 +52,12 @@ First 10 days: **12** **13** 14 15 16 17 18 19 20 21
 Next 10 days: 22 23 24 25 26 27 28 29 30 31  
 Last 10 days: 1 2 3 4 5 6 7 8 9 10  
 
-####Notes
-Day 2: 
--Created Applescript to open the four blogs. 
--Run Applescript from hotkey 'CMD + Shift + B'
+####Notes  
+Day 2:  
+-Created Applescript to open the four blogs.  
+-Binded Applescript with hotkey 'CMD + Shift + B'  
 ![Open Four Blogs Script](/assets/images/script-open-blogs.png)
+-Learned that Kaushik reduced his posts from 3x per week to 2x, to once per week, which resulted in higher quality posts and substantial increases in traffic. Go figure. As a result, I'll work through the 'Knowledge' articles I haven't already read each day, and use this space as a place to remind me where I left off (no need for that cognitive overheard, right? guys?)  
+
+Progress on Kauhik.net/avinash/sitemap/  
+-Mobile Marketing and Analytics: Click-to-Call Mobile Ad Campaigns  

@@ -32,7 +32,8 @@ Have answers to the following questions:
 2. The authors produce fresh content at least 3 times per week  
 
 ###Rules:
-1. No news/blog aggregation sites  (i.e. Mashable)  
+1. Read 1 posts from each of the 4 blogs per day (if there is no post for that day, read a previous, unread post)
+2. No news/blog aggregation sites  (i.e. Mashable)  
 
 ###Start Date:  
 
@@ -47,6 +48,12 @@ Have answers to the following questions:
 ###Progress Log
 Each day, I will check-in and bold the date after reading _all_ the latest post from all four blogs. 
 
-First 10 days: **12** 13 14 15 16 17 18 19 20 21  
+First 10 days: **12** **13** 14 15 16 17 18 19 20 21  
 Next 10 days: 22 23 24 25 26 27 28 29 30 31  
 Last 10 days: 1 2 3 4 5 6 7 8 9 10  
+
+####Notes
+Day 2: 
+-Created Applescript to open the four blogs. 
+-Run Applescript from hotkey 'CMD + Shift + B'
+![Open Four Blogs Script](/assets/images/script-open-blogs.png)

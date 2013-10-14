@@ -26,6 +26,7 @@ Have answers to the following questions:
 4. Do I feel I learn and/or retain more about a subject when I read about it daily for 30 days?  
 5. Is this something I should do more of?  
 6. Is reading a blog for 5-7 days each day a good way to evaluate the quality of a feed and my interest in the subject?  
+7. Will this make me a better writer?  (how to measure the quality of one's writing is another experiment entirely)  
 
 ###3Assumptions:
 1. The authors produce thoughtful content  

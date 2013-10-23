@@ -15,6 +15,11 @@ And some quotes are just so damn clever.
 
 Some that I enjoy in some way:    
 
+**"Whenever you say 'I want to be' means first (by definition), 'I am not.' I don't want to be a not."**  
+
+-James Altucher, Entrepeneur and honest 
+
+
 **"We all have times when we think more effectively, and times when we should not be thinking at all."**  
 
 -Daniel Cohen, Children's Writer  

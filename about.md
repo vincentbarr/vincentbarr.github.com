@@ -22,7 +22,7 @@ d) Stockpiles midnight oil. Reads McSweeney’s for LOLz. Urbant art enthusiast 
 
 ##Work
 
-Thrilled to wear many hats and work with a smart, focused team as the Online Marketing Manager (and part product manager) for [MongoDB](www.mongodb.com).
+Thrilled to wear many hats and work with a smart, focused team as the Online Marketing Manager (and part product manager) for [MongoDB](http://www.mongodb.com), an open-source [NoSQL database](http://www.mongodb.com/learn/nosql).
 
 ##Causes
 

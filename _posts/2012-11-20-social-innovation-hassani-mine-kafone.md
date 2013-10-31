@@ -45,4 +45,5 @@ Hassani's prototype will be Coming to MOMA (New York) in March 2013, and he wil
 
 _Footnotes_  
 
-<a id="fn1">[1]</a> [Guardian.co.uk](http://www.guardian.co.uk/commentisfree/2009/nov/24/africa-charity-water-pumps-roundabouts)
+<a id="fn1">[1]</a> 
+<a href="http://www.guardian.co.uk/commentisfree/2009/nov/24/africa-charity-water-pumps-roundabouts">Guardian.co.uk</a>

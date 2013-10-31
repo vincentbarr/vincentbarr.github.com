@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Humble Johnny Depp"
-category: etc
+title: "A Humble Johnny Depp"  
+category: etc  
 excerpt: How a modest Depp responds to being called 'shy' in a 1993 interview. 
 ---
 {% include JB/setup %}

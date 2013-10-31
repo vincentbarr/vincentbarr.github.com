@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dollar Shave Club Nails Shipping Delay Email"
-category: growth
+category: growth  
 excerpt: When demand exceeds supply: a well-written email to DSC customers.
 ---
 {% include JB/setup %}

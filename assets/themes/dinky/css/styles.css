@@ -233,7 +233,7 @@ h1.header, a.header, a.name, header a{
 	color: #c30000;
 }
 
-a.header {
+a.nav {
 	text-decoration: underline;
   font-weight:normal;
 }

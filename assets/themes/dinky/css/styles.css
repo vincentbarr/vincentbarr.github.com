@@ -27,7 +27,7 @@ time, mark, audio, video {
 
 body {
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	color: #232323;
 	background-color: white;
 	margin: 0;
@@ -144,7 +144,6 @@ img {
   margin: 0 auto;
   max-width: 650px;
   margin: 0px 0 0px 0;
-  border: 1px solid #ccc;
 }
 
 

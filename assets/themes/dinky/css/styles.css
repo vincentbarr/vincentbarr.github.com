@@ -30,7 +30,7 @@ body {
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	color: #232323;
-	background-color: #FBFAF7;
+	background-color: white;
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
@@ -203,7 +203,7 @@ td {
 /* Header */
 
 header {
-	background-color: #FBFAF7;
+	background-color: white;
 	color: #c30000;
   width:170px;
   float:left;

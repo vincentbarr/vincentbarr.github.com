@@ -48,7 +48,7 @@ Update: Yes. Sorry, Moby. No go.
 4. [The Altucher Confidential](http://www.jamesaltucher.com/)
 
 ###Progress Log
-Each day, I will check-in and bold the date after reading _all_ the latest post from all four blogs.  
+Each day, I will check-in and bold the date after reading the latest post from all four blogs.  
 
 First 10 days: **12** **13** **14** **15** **16** **17** **18** **19** **20** **21**  
 Next 10 days: **22** **23** **24** **25** **26** **27** **28** **29** **30** **31**  
@@ -59,10 +59,4 @@ Day 2:
 -Created Applescript to open the four blogs.  
 -Binded Applescript with hotkey 'CMD + Shift + B'  
 ![Open Four Blogs Script](/assets/images/script-open-blogs.png)
--Learned that Kaushik reduced his posts from 3x per week to 2x, to once per week, which resulted in higher quality posts and substantial increases in traffic. Go figure. As a result, I'll work through the 'Knowledge' articles I haven't already read each day, and use this space as a place to remind me where I left off (no need for that cognitive overheard, right? guys?)  
-
-Progress on Kauhik.net/avinash/sitemap/  
--Mobile Marketing and Analytics: Click-to-Call Mobile Ad Campaigns  
-
-Day 15: 
-
+-Learned that Kaushik reduced his posts from 3x per week to 2x, to 1x per week, which resulted in higher quality posts and substantial increases in traffic. Go figure. As a result, I'll work through the 'Knowledge' articles I haven't already read each day, and use Evernote to remind me where I left off (no need for that cognitive overheard, right? guys?)  

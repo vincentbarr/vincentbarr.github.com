@@ -8,10 +8,12 @@ group: navigation
 #Reading List
 
 ##Current  
-[_Hot Text: Web Writing that Works_](http://amzn.to/1ainiZ2) by Lisa & Jonathan Price  
-[_The Art and Science of Java_](http://amzn.to/13NpHcf) by Eric Roberts  
+[_The Art of SEO: Mastering Search Engine Optimization (Theory in Practice_](http://goo.gl/juSxvR) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  
+[_Reflections on the Art of Living: A Joseph Campbell Companion_](http://goo.gl/QxwVUC) by Joseph Campbell  
 
 ##Past  
+[_Hot Text: Web Writing that Works_](http://amzn.to/1ainiZ2) by Lisa & Jonathan Price  
+[_The Art and Science of Java_](http://amzn.to/13NpHcf) by Eric Roberts  
 [_Karel The Robot Learns Java_](http://www.stanford.edu/class/cs106a/handouts/karel-the-robot-learns-java.pdf) by Eric Roberts  
 [_Surely You're Joking, Mr. Feynman!_](http://amzn.to/13vYcyr) by Richard Feynman  
 [_Don't Make Me Think!_](http://amzn.to/14Ia9qN) by Steve Krug  

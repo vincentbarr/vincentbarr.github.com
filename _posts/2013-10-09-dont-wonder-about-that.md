@@ -6,7 +6,7 @@ excerpt: Wonder where you left your keys; don't wonder what a person is like.
 ---
 {% include JB/setup %}
 
-When you read a good book, you wonder about the author. When you read about someone who does something you're passionate about really well, you wonder about that person. You probably have questions for them.
+When you read a good book, you wonder about the author. When you read about someone doing the something that you're really interested in, really well, you wonder about that person. You probably have questions for them.  
 
 You wonder what they're really like in person. That's usually where it all stops: with wondering. 
 

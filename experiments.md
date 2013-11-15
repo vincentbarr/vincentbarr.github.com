@@ -20,15 +20,16 @@ This section is both to document experiments and to increase the likelihood that
 ###Purpose
 Learn something.  
 Have answers to the following questions:  
-1. Is there value in following 3 specific bloggers?  
+1. Is there value in following 4 specific bloggers?  
 2. Does this give me any insight into what subscriptions I can remove from my overwhelming list of RSS subscriptions (that I don't even look at)?  
+Update: Yes. Sorry, Moby. No go.  
 3. Is regular readership of a small number of select blogs superior to 'sprawl', or discovering content via social media channels, news aggregators, and newsletters? If so, in what ways?  
 4. Do I feel I learn and/or retain more about a subject when I read about it daily for 30 days?  
 5. Is this something I should do more of?  
 6. Is reading a blog for 5-7 days each day a good way to evaluate the quality of a feed and my interest in the subject?  
 7. Will this make me a better writer?  (how to measure the quality of one's writing is another experiment entirely)  
 
-###3Assumptions:
+###Assumptions:
 1. The authors produce thoughtful content  
 2. The authors produce fresh content at least 3 times per week  
 
@@ -50,8 +51,8 @@ Have answers to the following questions:
 Each day, I will check-in and bold the date after reading _all_ the latest post from all four blogs.  
 
 First 10 days: **12** **13** **14** **15** **16** **17** **18** **19** **20** **21**  
-Next 10 days: **22** **23** **24** **25** **26** **27** 28 29 30 31  
-Last 10 days: 1 2 3 4 5 6 7 8 9 10  
+Next 10 days: **22** **23** **24** **25** **26** **27** **28** **29** **30** **31**  
+Last 10 days: **1** **2** **3** **4** **5** **6** **7** **8** **9** **10**  
 
 ####Notes  
 Day 2:  

@@ -8,7 +8,7 @@ group: navigation
 #Reading List
 
 ##Current  
-[_The Art of SEO: Mastering Search Engine Optimization (Theory in Practice_](http://goo.gl/juSxvR) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  
+[_The Art of SEO: Mastering Search Engine Optimization (Theory in Practice)_](http://goo.gl/juSxvR) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  
 [_Reflections on the Art of Living: A Joseph Campbell Companion_](http://goo.gl/QxwVUC) by Joseph Campbell  
 
 ##Past  

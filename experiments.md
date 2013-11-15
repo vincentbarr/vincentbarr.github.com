@@ -15,7 +15,7 @@ That will suffice for now, as action is better than inaction and I don't have a 
 
 This section is both to document experiments and to increase the likelihood that they're completed according to plan.  
 
-##Project 1. Read 4 Blogs of Choice Every Day for 30 Days  
+##Project #0: Read 4 Blogs of Choice Every Day for 30 Days  
 
 ###Purpose
 Learn something.  

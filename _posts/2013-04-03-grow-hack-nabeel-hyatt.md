@@ -6,7 +6,7 @@ excerpt: Notes.
 ---
 {% include JB/setup %}
 
-04\.3\.13 [GrowHack Meetup with Nabeel Hyatt](http://www.meetup.com/growhack/)
+04\.3\.13 [GrowHack Meetup with Nabeel Hyatt](http://www.meetup.com/growhack/events/104731492/)
 
 **The best way I've seen someone fill in an empty front row before a presentation?**
 Offer free copies of your book. People were practically jumping over chairs - and mind you the book hasn't even been published yet. Good one, [Mattan](https://twitter.com/mattangriffel).

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "GrowHack Meetup with Nabeel Hyatt"
+title: "GrowHack Meetup with Ankur Nagpal"
 category: growth
 excerpt: Notes.
 ---
 {% include JB/setup %}
 
-06\.11\.13 [GrowHack Meetup with Ankur Nagpal](http://www.meetup.com/growhack/)
+06\.11\.13 [GrowHack Meetup with Ankur Nagpal](http://www.meetup.com/growhack/events/118236402/)
 
 _Listed below are the overarching topics Ankur Nagpal touched on. Examples and explanations are my own and for better comprehension and retention._  
 

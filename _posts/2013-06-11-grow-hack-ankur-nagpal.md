@@ -25,8 +25,8 @@ For example, there were many large and reasonably successful trivia applications
 
 Ankur took one game of the 100s that a certain application provided, tweaked the names a bit, and released 'How Good of a Lover Are You?'. This title in the legacy game was placed alongside 50 or 60 other similar quizzes. However, Ankur's single quiz quickly exceeded the membership of the competitor platform's applications with 50+ games. 
 
-**3. Send your friends a bible verse, and send your friends a hug were hugely popular on Facebook
+**3. Send your friends a bible verse, and send your friends a hug were hugely popular on Facebook**
 
-**4. Leverage events, be reactive  
+**4. Leverage events, be reactive**  
 
 After the tragedy that took place at the Boston Marathon, Tee Spring ran a promotion to help raise money for victims and create shirts for those affected. The result? A lot of users, and some positive brand equity.  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peter Thiel on the Future
+title: "Peter Thiel on the Future"
 category: essais
 excerpt: Peter Thiel's take on a few interesting topics.  
 ---

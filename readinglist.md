@@ -38,6 +38,7 @@ group: navigation
 [_Dracula_](http://amzn.to/13KtVMc) by Bram Stoker  
 [_The First 90 Days: Critical Success Strategies for New Leaders at All Levels_](http://amzn.to/15Xw0nE) by Michael Watkins  
 [_Bit Literacy_](http://amzn.to/16UZNjn) by Mark Hurst  
+[_Everything Burned, Everything Ravaged_](http://amzn.to/1f5vN9I) by Wells Tower  
 [_Tinkers_](http://amzn.to/14s52VQ) by Paul Harding  
 [_Envisioning Information_](http://amzn.to/13wXeY3) by Edward Tufte  
 [_The Memory Book: The Classic Guide to Improving your Memory at Work, at School, and at Play_](http://amzn.to/14s4XBs) by Harry Lorayne & Jerry Lucas  

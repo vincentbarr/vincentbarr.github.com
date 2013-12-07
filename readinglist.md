@@ -28,7 +28,6 @@ group: navigation
 [_Your Customer Creation Equation: Unexpected Website Formulas of The Conversion Scientist_](http://amzn.to/165Hwki) by Brian Massey  
 [_Eloquent JavaScript: A Modern Introduction to Programming_](http://amzn.to/13vZaum) by Marijn Haverbeke  
 [_Marketing Strategy: A Decision Focused Approach_](http://amzn.to/17C2xSV) by Orville Walker  
-[_Inspired: How To Create Products Customers Love_](http://amzn.to/19exJtF) by Marty Cagan  
 [_The Autobiography of Bertrand Russell_](http://amzn.to/14UmPLk) by Bertrand Russell  
 [_Adapt: Why Success Always Starts with Failure_](http://amzn.to/1ailhfc) by Tim Harford  
  [_What He’s Poised to Do_](http://amzn.to/14UmLLE) by Ben Greenman  

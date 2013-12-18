@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Larry Smith on Why You Will Fail, Unless."
-category: essais
-excerpt: Passion: not to be confused with interest.   
+category: essais  
+excerpt: Passion: Not to be confused with interest.
 ---
 {% include JB/setup %}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Pencils Are Sharpened"
-category: etc
+category: etc  
 excerpt: See for yourself.
 ---
 {% include JB/setup %}

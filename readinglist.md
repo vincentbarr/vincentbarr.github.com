@@ -8,10 +8,11 @@ group: navigation
 #Reading List
 
 ##Current  
+[_How to Prove It_](http://amzn.to/198hFLi) by Daniel Velleman  
 [_The Art of SEO: Mastering Search Engine Optimization (Theory in Practice)_](http://goo.gl/juSxvR) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  
-[_Reflections on the Art of Living: A Joseph Campbell Companion_](http://goo.gl/QxwVUC) by Joseph Campbell  
 
 ##Past  
+[_Reflections on the Art of Living: A Joseph Campbell Companion_](http://goo.gl/QxwVUC) by Joseph Campbell    
 [_Hot Text: Web Writing that Works_](http://amzn.to/1ainiZ2) by Lisa & Jonathan Price  
 [_The Art and Science of Java_](http://amzn.to/13NpHcf) by Eric Roberts  
 [_Karel The Robot Learns Java_](http://www.stanford.edu/class/cs106a/handouts/karel-the-robot-learns-java.pdf) by Eric Roberts  

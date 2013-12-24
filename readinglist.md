@@ -12,7 +12,7 @@ group: navigation
 [_The Art of SEO: Mastering Search Engine Optimization (Theory in Practice)_](http://goo.gl/juSxvR) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  
 
 ##Past  
-[_A Mathematician's Lament: How Schools Cheat Us Out of Our Most Fascinating and Imaginative Art Form_](http://amzn.to/198hFLi)  
+[_A Mathematician's Lament: How Schools Cheat Us Out of Our Most Fascinating and Imaginative Art Form_](http://amzn.to/198hFLi) by Paul Lockhart  
 [_Reflections on the Art of Living: A Joseph Campbell Companion_](http://goo.gl/QxwVUC) by Joseph Campbell    
 [_Hot Text: Web Writing that Works_](http://amzn.to/1ainiZ2) by Lisa & Jonathan Price  
 [_The Art and Science of Java_](http://amzn.to/13NpHcf) by Eric Roberts  

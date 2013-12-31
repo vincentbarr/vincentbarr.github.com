@@ -41,7 +41,7 @@ Update: Yes. Sorry, Moby. No go.
 
 ###End Date:  
 
-###Blogs I will read ever day for 30 days:  
+###Blogs I will read everyday for 30 days:  
 1. [Occam's Razor by Avinash Kaushik](http://www.kaushik.net/avinash/)
 2. [Moby's Journal](http://www.moby.com/journal)
 3. [Google Analytics Blog](http://analytics.blogspot.com/)

@@ -67,7 +67,7 @@ This made me realize that I bookmark blogs or add them to my RSS feed too quickl
 
 What Altucher and Avinash did extremely well was stay on track and incorporate information from past posts into their latest content. They're masters at luring you into a well-structured content library wherein current information relies on your understanding of past information, or lateral information, and so on. This is both blessing and curse for curious people. Both blogs typically frame the prior information in a positive way (i.e. recall from PREVIOUS, that you know how to do X; as opposted to, don't bother reading THIS until you've read PREVIOUS), but they still invoked that burning itch of "the more I know, the less I know." And I can't help but scratch.  
 
-In response to the questions I hoped to answer:  
+In response to the questions I hoped to answer:    
 **1. Is there value in following 4 specific bloggers?**    
 Yes. In reading Kaushik consistently, I'm confident I would have a better working vocabulary and understanding of analytics. In reading the Google Analytics blog consistently, I surely wouldn't miss any important product updates. In reading Altucher consistently, I'd smile more, takes things less seriously than I do now (who couldn't?), and feel a whole lot less weird. That guy just makes you feel less weird. In reading Moby consistently - well - I wouldn't.  
 **2. Does this give me any insight into what subscriptions I can remove from my overwhelming list of RSS subscriptions (that I don't even look at)?**    

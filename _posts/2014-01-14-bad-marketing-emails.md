@@ -23,7 +23,7 @@ I love how they joined my first name and last name into one string with all lowe
 
 And doesn't Jess E.'s real, handwritten signature make you feel really special? She really cares about us, guys. A lot.  
 
-Free tip for Fiverr: If you really want push the envelope (ba dum ch), instead of using <firstnamelastname>, try using: <firstnamelastnamee>. 
+Free tip for Fiverr: If you really want push the envelope (ba dum ch), instead of using the <code>|FNAMELASTNAME|.lower|</code> tag, try using: <code>|FIRSTNAMELASTNAMEE|</code>. Or, just to keep it real, change the email address tag to |EMAILL|, or subtract two from your building number when providing your shipping address, or take a year off of your credit card's expiration date when entering billing information, or just turn your computer into a cute, electronic rubber ducky and bring it into the tub with you.  
 
 Trust me,  
 

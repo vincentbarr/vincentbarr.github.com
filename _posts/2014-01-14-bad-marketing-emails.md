@@ -11,7 +11,8 @@ I've gotten in the habit of collecting great emails. Ramit Sethi's subject lines
 Along the way, I've decided to start saving some of the real junk that I come across, as well.  
 With the great stuff, you can simply subscribe to the newsletter and relive your experience each time; with the true crap, however, timing is often a factor (as improvement is inevitable, right?). 
 
-Index:
+**_Index:_**
+
 1. Sincere Insincerity (Fiverr)  
 
 ###1. Sincere insincerity (Fiverr)  

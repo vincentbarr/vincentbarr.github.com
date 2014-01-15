@@ -11,7 +11,7 @@ I've gotten in the habit of collecting great emails. Ramit Sethi's subject lines
 Along the way, I've decided to start saving some of the real junk that I come across, as well.  
 With the great stuff, you can simply subscribe to the newsletter and relive your experience each time; with the true crap, however, timing is often a factor (as improvement is inevitable, right?). 
 
-**_Index:_**
+**_Index:_**  
 
 1. Sincere Insincerity (Fiverr)  
 
@@ -24,11 +24,11 @@ I love how they joined my first name and last name into one string with all lowe
 
 And doesn't Jess E.'s real, handwritten signature make you feel really special? She really cares about us, guys. A lot.  
 
-Free tip for Fiverr: If you really want push the envelope (ba dum ch), instead of using the <code>|FNAMELASTNAME|.lower|</code> tag, try using: <code>|FIRSTNAMELASTNAMEE|</code>. Or, just to keep it real, change the email address tag to |EMAILL|, or subtract two from your building number when providing your shipping address, or take a year off of your credit card's expiration date when entering billing information, or just turn your computer into a cute, electronic rubber ducky and bring it into the tub with you.  
+Free tip for Fiverr: If you really want push the envelope (ba dum ch), instead of using the <code>|FNAMELASTNAME|.lower|</code> tag, try using: <code>|FIRSTNAMELASTNAMEE|</code>. Or, just to keep it real, change the email address tag to |EMAILL|, or subtract two from your building number when providing your shipping address, or take a year off of your credit card's expiration date when entering billing information, or just turn your computer into a cute, electronic rubber ducky and bring it into the tub with you, squeeze it, give it a bill, make it quack, etc.     
 
 Trust me,  
 
-[vincentbarr.Signatuure]
+<code>[vincentbarr.Signatuure]</code>
 
 ![The opening of a terrible Fiverr email](/assets/images/bad-fiverr-email1.png)  
 

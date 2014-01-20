@@ -22,6 +22,10 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
+/* Mailchimp Form */
+#mce-EMAIL {
+  width: 160px
+}
 
 /* Base text styles */
 

@@ -12,6 +12,7 @@ comments: false
 <p>Site is under development. Bare with me.</p>
 
 ###Recent posts:
+
 {% for post in site.posts %}
 <ul class="posts">
 <p><h3><a href=" {{ post.url }} ">{{ post.title }}</a></h3>

@@ -2,7 +2,7 @@
 layout: post
 title: "A Collection of Terrible Marketing Emails with Explanations"
 category: essais
-excerpt: Scanned Ink Signature
+excerpt: More ... 
 ---
 {% include JB/setup %}
 
@@ -13,7 +13,7 @@ With the great stuff, you can simply subscribe to the newsletter and relive your
 
 **_Index:_**  
 
-1. Sincere Insincerity (Fiverr)  
+1. Sincere insincerity (Fiverr)  
 
 ###1. Sincere insincerity (Fiverr)  
 Fiverr is a marketplace where people can offer and purchase a range of small services for $5. Cool concept.  

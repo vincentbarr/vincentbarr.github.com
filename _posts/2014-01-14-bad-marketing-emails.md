@@ -2,7 +2,7 @@
 layout: post
 title: "A Collection of Terrible Marketing Emails with Explanations"
 category: essais
-excerpt: More ... 
+excerpt: A demonstration of terrible design, copy, or both.
 ---
 {% include JB/setup %}
 

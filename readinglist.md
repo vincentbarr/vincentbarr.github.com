@@ -8,11 +8,13 @@ group: navigation
 #Reading List
 
 ##Current  
-[_Beyond Good and Evil_](http://amzn.to/1e7pv9b) by Friederich Nietzsche  
+
+[Nonviolent Communication: A Language of Life](http://amzn.to/1g0C1ck) by Marshall Rosenberg  
 [_How to Prove It_](http://amzn.to/198hFLi) by Daniel Velleman  
 [_The Art of SEO: Mastering Search Engine Optimization (Theory in Practice)_](http://goo.gl/juSxvR) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  
 
 ##Past  
+[_Beyond Good and Evil_](http://amzn.to/1e7pv9b) by Friederich Nietzsche  
 [_The Tropic of Cancer_](http://amzn.to/1mluDbC) by Henry Miller
 [_A Mathematician's Lament: How Schools Cheat Us Out of Our Most Fascinating and Imaginative Art Form_](http://amzn.to/198hFLi) by Paul Lockhart  
 [_Reflections on the Art of Living: A Joseph Campbell Companion_](http://goo.gl/QxwVUC) by Joseph Campbell    

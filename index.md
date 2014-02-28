@@ -20,4 +20,4 @@ comments: false
 </ul>
 {% endfor %}
 
-_This site is a work in progress, built on Jekyll & hosted on [GitHub](https://github.com/vincentbarr/vincentbarr.github.com)._
+_This site is a work in progress. I've built it on Jekyll & it's hosted on [GitHub](https://github.com/vincentbarr/vincentbarr.github.com)._

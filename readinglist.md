@@ -8,12 +8,12 @@ group: navigation
 #Reading List
 
 ##Current  
-
-[Nonviolent Communication: A Language of Life](http://amzn.to/1g0C1ck) by Marshall Rosenberg  
+[_The Effective Executive: The Definitive Guide to Getting Things Done_](http://amzn.to/1hnUekJ) by Peter Drucker  
 [_How to Prove It_](http://amzn.to/198hFLi) by Daniel Velleman  
-[_The Art of SEO: Mastering Search Engine Optimization (Theory in Practice)_](http://goo.gl/juSxvR) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  
+[_The Art of SEO: Mastering Search Engine Optimization (Theory in Practice)_](http://amzn.to/1ksAkFg) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  
 
 ##Past  
+[Nonviolent Communication: A Language of Life](http://amzn.to/1g0C1ck) by Marshall Rosenberg  
 [_Beyond Good and Evil_](http://amzn.to/1e7pv9b) by Friederich Nietzsche  
 [_The Tropic of Cancer_](http://amzn.to/1mluDbC) by Henry Miller
 [_A Mathematician's Lament: How Schools Cheat Us Out of Our Most Fascinating and Imaginative Art Form_](http://amzn.to/198hFLi) by Paul Lockhart  
@@ -33,6 +33,7 @@ group: navigation
 [_The Road Less Traveled: A New Psychology of Love, Traditional Values and Spiritual Growth_](http://amzn.to/15wNzdV) by M. Scott Peck  
 [_Your Customer Creation Equation: Unexpected Website Formulas of The Conversion Scientist_](http://amzn.to/165Hwki) by Brian Massey  
 [_Eloquent JavaScript: A Modern Introduction to Programming_](http://amzn.to/13vZaum) by Marijn Haverbeke  
+[_The World According to Garp_](http://amzn.to/1dHrpLv) by John Irving  
 [_Marketing Strategy: A Decision Focused Approach_](http://amzn.to/17C2xSV) by Orville Walker  
 [_The Autobiography of Bertrand Russell_](http://amzn.to/14UmPLk) by Bertrand Russell  
 [_Adapt: Why Success Always Starts with Failure_](http://amzn.to/1ailhfc) by Tim Harford  
@@ -40,17 +41,26 @@ group: navigation
 [_The Candles of Your Eyes_](http://amzn.to/13wXuWN) by James Purdy  
 [_Strategic Project Management Made Simple: Practical Tools for Leaders and Teams_](http://amzn.to/14s5frV) by Terry Schmidt  
 [_How to Live: Or A Life of Montaigne in One Question and Twenty Attempts at an Answer_](http://amzn.to/13wXo1u) by Sarah Bakewell  
+[_Getting Things Done: The Art of Stress-Free Productivity](http://amzn.to/1ksAyfn) by David Allen  
 [_The Elements of Style_](http://amzn.to/17C2g2o) by William Strunk & E.B. White  
 [_Dracula_](http://amzn.to/13KtVMc) by Bram Stoker  
 [_The First 90 Days: Critical Success Strategies for New Leaders at All Levels_](http://amzn.to/15Xw0nE) by Michael Watkins  
+[_The Doors of Perception and Heaven and Hell_](http://amzn.to/1eDDRLQ) by Aldous Huxley  
 [_Bit Literacy_](http://amzn.to/16UZNjn) by Mark Hurst  
 [_Everything Burned, Everything Ravaged_](http://amzn.to/1f5vN9I) by Wells Tower  
 [_Tinkers_](http://amzn.to/14s52VQ) by Paul Harding  
 [_Envisioning Information_](http://amzn.to/13wXeY3) by Edward Tufte  
+[_DMT: The Spirit Molecule: A Doctor's Revolutionary Research into the Biology of Near-Death and Mystical Experiences_](http://amzn.to/1fvcqUG) by Rick Strassman   
+[_Invisible Man_](http://amzn.to/1et8po7) by Ralph Ellison  
 [_The Memory Book: The Classic Guide to Improving your Memory at Work, at School, and at Play_](http://amzn.to/14s4XBs) by Harry Lorayne & Jerry Lucas  
+[_Native Son_](http://amzn.to/1fvcDHh) by Richard Wright  
 [_Last Exit to Brooklyn_](http://amzn.to/14s4SO2) by Hubert Selby Jr.  
 [_The Art of War_](http://amzn.to/13wX6Yo) by Sun Tzu  
 [_The Ten-Day MBA: A Step-By-Step Guide to Mastering The Skills Taught in America’s Top Business Schools_](http://amzn.to/13KtFg8) by Steven Silbiger  
+[_Savage Inequalities: Children in America's Schools_](http://amzn.to/1hnW5Gk) by Jonathan Kozol
 [_The McKinsey Way_](http://amzn.to/13wX56R) by Ethan Rasiel  
+[_Ishmael: An Adventure of the Mind and Spirit_](http://amzn.to/1fvckMM) by Daniel Quinn  
+[_Island_](http://amzn.to/NBjuc0) by Aldous Huxley  
+[_A Brave New World_](http://amzn.to/1fvcweP) by Aldous Huxley  
 
 Yes, these are affiliate links. No, that is not the reason for this section; but, an afterthought. 

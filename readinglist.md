@@ -8,11 +8,11 @@ group: navigation
 #Reading List
 
 ##Current  
-[The Effective Executive: The Definitive Guide to Getting Things Done](http://amzn.to/1hnUekJ) by Peter Drucker  
 [How to Prove It](http://amzn.to/198hFLi) by Daniel Velleman  
 [The Art of SEO: Mastering Search Engine Optimization (Theory in Practice)](http://amzn.to/1ksAkFg) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  
 
 ##Past  
+[The Effective Executive: The Definitive Guide to Getting Things Done](http://amzn.to/1hnUekJ) by Peter Drucker  
 [Nonviolent Communication: A Language of Life](http://amzn.to/1g0C1ck) by Marshall Rosenberg  
 [Beyond Good and Evil](http://amzn.to/1e7pv9b) by Friederich Nietzsche  
 [The Tropic of Cancer](http://amzn.to/1mluDbC) by Henry Miller  

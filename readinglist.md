@@ -9,9 +9,9 @@ group: navigation
 
 ##Current  
 [The Art of SEO: Mastering Search Engine Optimization (Theory in Practice)](http://amzn.to/1ksAkFg) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  
-[How to Win Every Argument: The Use and Abuse of Logic](http://amzn.to/1iRiRVy) by Madsen Pirie  
 
 ##Past  
+[How to Win Every Argument: The Use and Abuse of Logic](http://amzn.to/1iRiRVy) by Madsen Pirie  
 [The Prince](http://amzn.to/1hqJlRa) by Niccolo Machiavelli  
 [Where Are You Going, Where Have You Been?: Selected Early Short Stories](http://amzn.to/1hqyO8z) by Joyce Carol Oates  
 [The Effective Executive: The Definitive Guide to Getting Things Done](http://amzn.to/1hnUekJ) by Peter Drucker  

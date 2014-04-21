@@ -11,6 +11,7 @@ group: navigation
 [The Art of SEO: Mastering Search Engine Optimization (Theory in Practice)](http://amzn.to/1ksAkFg) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  
 
 ##Past  
+[Games People Play: The Basic Handbook to Transactional Analysis](http://amzn.to/1joCvak) by Eric Berne  
 [How to Win Every Argument: The Use and Abuse of Logic](http://amzn.to/1iRiRVy) by Madsen Pirie  
 [The Prince](http://amzn.to/1hqJlRa) by Niccolo Machiavelli  
 [Where Are You Going, Where Have You Been?: Selected Early Short Stories](http://amzn.to/1hqyO8z) by Joyce Carol Oates  

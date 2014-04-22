@@ -9,7 +9,7 @@ comments: false
 </head>
 <h2 style="border: 0">Much like other human beings, I'm a human being.</h2>
 
-<p>Site is under development. Bear with me.</p>
+<p>Site is under development. <img src="/assets/images/bear.png"> with me.</p>
 
 ###Recent posts:
 

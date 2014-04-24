@@ -8,7 +8,7 @@ group: navigation
 #Reading List
 
 ##Current  
-[Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application](http://amzn.to/1lI6LQh)  
+[Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application](http://amzn.to/1lI6LQh) by Jason Fried  
 [The Art of SEO: Mastering Search Engine Optimization (Theory in Practice)](http://amzn.to/1ksAkFg) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  
 
 ##Past  

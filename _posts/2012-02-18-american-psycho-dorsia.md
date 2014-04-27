@@ -18,3 +18,5 @@ But seriously, check this out:
 
 [Dorsia on Facebook](http://www.facebook.com/pages/Dorsia/55984183346)  
 [Dorsia on Yelp](http://www.yelp.com/biz/dorsia-new-york)  
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

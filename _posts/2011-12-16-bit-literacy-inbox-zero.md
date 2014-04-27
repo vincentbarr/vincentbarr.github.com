@@ -16,3 +16,5 @@ It was a first – and as the book suggests – it’s a powerful feeling, albei
 _That wall is awfully... white?  Should I paint it?_  
 
 His system to manage the “bits” is simple and effective, as it should be.
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

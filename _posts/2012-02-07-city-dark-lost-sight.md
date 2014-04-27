@@ -14,3 +14,5 @@ Just learned of [THE CITY DARK](http://www.thecitydark.com), and just missed the
 ![City Dark cityscape](/assets/images/city-dark-cityscape.png)  
 
 Fingers crossed it comes back around to NYC.  
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

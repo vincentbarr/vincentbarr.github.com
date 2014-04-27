@@ -22,3 +22,5 @@ A few rules from Email Charter:
 >CC’s are like mating bunnies. For every recipient you add, you are dramatically multiplying total response time. Not to be done lightly.  
 
 CC’s are like mating bunnies. For every recipient you add, you are dramatically multiplying total response time. Not to be done lightly.  
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

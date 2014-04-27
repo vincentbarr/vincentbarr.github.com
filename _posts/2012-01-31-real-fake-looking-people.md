@@ -12,3 +12,5 @@ Such a cool approach to installation art: painting people on people.
 ![Alexa Meade Installation 1](/assets/images/alexa-meade-1.png)  
 
 ![Alexa Meade Installation 2](/assets/images/alexa-meade-2.png)  
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

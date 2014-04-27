@@ -21,3 +21,5 @@ The 'multi-arm bandit' problem: sticking with what you like can lead to naiveté
 Focused on WTR (walk-through rate), not CTR. People vote with their feet.
 
 What does it take to be a good data scientist? Really good probability skills, being able to reason about the world in a world where events happen randomly.
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

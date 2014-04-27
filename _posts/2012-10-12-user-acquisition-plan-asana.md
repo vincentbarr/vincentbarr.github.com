@@ -23,3 +23,5 @@ Nods and thanks to instructors [Kate Huyett](https://twitter.com/khuyi) and [
 _Footnotes_  
 <a id="fn1">[1]</a>
 I am not affiliated with Asana and the plan is purely an exercise.
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

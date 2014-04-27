@@ -35,3 +35,5 @@ In response to NY Mag's question, 'How’d you get into the sunglass business?':
 **"Slow is smooth, and smooth is fast."**  
 
 -Brian Birdwell, Manhattan GMAT Instructor 
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

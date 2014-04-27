@@ -15,3 +15,5 @@ Highlights:
 * [Unroll.Me](https://unroll.me) is awesome. It gives you quick, total control over your newsletter subscriptions. You decide what gets delivered and when. Clean inbox.  
 * [Engagio](http://blog.engag.io) is a good tool for people that engage with online content a lot. It collects your posts, then displays all unique responses in one place so you don’t have to revisit each blog that you posted on to comment.  
 * [Squarespace](http://www.squarespace.com) will be the reason my website will look half decent (as soon as v6 releases). Future tense, remember. Many ridiculous features coming – autosizing images, super interactive pages, universal templating, etc.  
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

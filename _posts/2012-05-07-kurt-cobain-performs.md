@@ -22,4 +22,4 @@ When asked to lip sync, Kobain responds by turning on the mic and making noise.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/dLT-I_OsjNw" frameborder="0"> </iframe>
 
-
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

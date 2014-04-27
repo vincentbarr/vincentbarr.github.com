@@ -33,3 +33,5 @@ Trust me,
 ![The opening of a terrible Fiverr email](/assets/images/bad-fiverr-email1.png)  
 
 ![The closing of a terrible Fiverr email](/assets/images/bad-fiverr-email2.png)  
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

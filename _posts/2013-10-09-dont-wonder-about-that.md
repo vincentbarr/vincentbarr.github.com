@@ -27,3 +27,5 @@ He's got a point.
 _Footnotes_  
 <a id="fn1">[1]</a>  
 I would have cited the author and post, but this was pulled from a batch of screenshots with no such information. If you know who wrote it, please let me know and I'll add their information.  
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

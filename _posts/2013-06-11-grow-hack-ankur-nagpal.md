@@ -30,3 +30,5 @@ Ankur took one game of the 100s that a certain application provided, tweaked the
 **4. Leverage events, be reactive**  
 
 After the tragedy that took place at the Boston Marathon, Tee Spring ran a promotion to help raise money for victims and create shirts for those affected. The result? A lot of users, and some positive brand equity.  
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

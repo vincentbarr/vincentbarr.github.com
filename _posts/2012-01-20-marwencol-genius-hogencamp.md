@@ -27,3 +27,5 @@ I think it’s fascinating. I see “Marwencol” as master story-telling, as th
 
 ![Jacqueline, Svetlana, and Anna head toward the Church to save me from the Nazis](/assets/images/marwencol-women.jpg)  
 _"Jacqueline, Svetlana, and Anna head toward the Church to save me from the Nazis"_
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

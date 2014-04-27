@@ -7,3 +7,5 @@ excerpt: See for yourself.
 {% include JB/setup %}
 
 ![Pencil sharpening](/assets/images/pencil-sharpening.gif)
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

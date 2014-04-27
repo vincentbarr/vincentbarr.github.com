@@ -17,3 +17,5 @@ In no particular order, a handful of things that I learned this week:
 4.  **Neil Patel’s Quick Sprout blog is [one of the best online marketing resources](http://www.quicksprout.com/).** I read almost every article, in full, that he publishes. [ConversionXL](http://www.conversionxl.com) is also good for conversion rate optimization, a/b testing, and the like.
 
 5.  **[Hazel](http://www.noodlesoft.com/hazel.php) + [Exobrain](https://www.exobrain.co) + 90M + me =** improved information naming, sorting, storage, and syncing across all of my devices.
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

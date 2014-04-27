@@ -21,3 +21,5 @@ _Footnotes_
 [^1] Ms. Podgorski originally denid my request to write on Kevin Mitnick. After a series of tries, I ultimately had to pitch my case to the vice principal and state that it was _really_ on his capturer, Tsutomu Shimomura. They had a more difficult time arguing with that, and I was allowed to write the Mitnick-centric paper.  
 
 [^2] _Takedown_ is largely perceived as factually incorrect, rumor-ridden, egotistical, and simply an opportunity for Shimomura to take center stage and demonize hackers.  
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

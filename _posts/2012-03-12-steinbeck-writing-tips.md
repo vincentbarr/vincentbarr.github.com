@@ -25,3 +25,5 @@ There's a place and time for unconscious creation, and staging it prior to any e
 > Forget your generalized audience. In the first place, the nameless, faceless audience will scare you to death and in the second place, unlike the theater, it doesn't exist. In writing, your audienceis one single reader. I have found that sometimes it helps to pick out one person - a real person you know or an imagined person and write to that person.   
 
 I'm still deciding on who those people are. I also believe it changes from post to post. But, perhaps, I am writing to a person that I have not yet met. I like the sound of that.  
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

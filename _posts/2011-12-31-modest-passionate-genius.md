@@ -13,3 +13,4 @@ On the Nobel Prize:
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/Fzg1CU8t9nw" frameborder="0"> </iframe>
 
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

@@ -17,3 +17,5 @@ Design-thinking requires you to understand just enough of a problem to begin ask
 The hardest problems that I have had to solve have a common set of properties that aren't very surprising: grey, unclear parameters, and ambivalence - progress that might feel like 'better' but could actually be 'worse.' I like these sorts of challenges.  
 
 Asking the right questions questions of not just others, but also myself is something that I am trying to do more. _What am I about to do? Why am I about to do it?_ If I can’t figure out why I am doing something, then I try not to do it. I say try because there are those things that we're aware of doing, that we don't want to do, and yet we do them anyway. They're called habits.  
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

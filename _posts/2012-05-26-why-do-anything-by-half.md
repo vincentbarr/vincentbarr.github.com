@@ -24,3 +24,5 @@ He wasn't doing fucking nothing by half.
 He continued for the full 2-hours like a hunted man with an elaborate secret, telling anyone that wouone that he would tell to anyone who would listen. Henry appeared to measure his time not against an 18-hour work-life slice, but against the entire cake, his lifespan. He wasn’t counting the number of minutes left before the end of his performance, or the number of days until his next vacation. No, he was counting the number of hours, minutes, and seconds left for him to communicate, to connect with other human beings, period.
 
 131,040 hours, 25 minutes, and 13 seconds; 131,040 hours, 25 minutes, and 12 seconds, 131,040 hours, 25 minutes, and 11 sec-
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

@@ -27,3 +27,5 @@ Google managed to sneak frequently visited sites back into Chrome. If you're lik
 **6. That's better**
 
 ![Chrome Homepage After](/assets/images/chrome-homepage-after.png)
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

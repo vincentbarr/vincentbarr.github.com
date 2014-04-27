@@ -25,3 +25,5 @@ A perfect summation of both the cause of my insomnia and the reason I do not fig
 
 >Ever since then, I have attacked each thing that I do not understand until I understand it.
 Comprehension is critical to doing anything meaningful. In my experience, I cannot attribute meaning to a pursuit if I do not understand why exactly I am doing it - and how could I?
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>

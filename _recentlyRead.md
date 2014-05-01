@@ -14,4 +14,7 @@ group: navigation
 
 [Three laws of branding: Neuroscientific foundations of effective brand building](http://www.palgrave-journals.com/bm/journal/v16/n3/full/2550139a.html)
 
+[Lowest Possible Jeopardy Score](http://www.datagenetics.com/blog/april32014/index.html)
+
 <a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+

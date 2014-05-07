@@ -18,6 +18,8 @@ group: navigation
 
 [The Pointlessness of Unplugging](http://www.newyorker.com/online/blogs/culture/2014/03/the-pointlessness-of-unplugging.html)
 
+[Unless I Hear Differently](http://unlessiheardifferently.com/)
+
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
 

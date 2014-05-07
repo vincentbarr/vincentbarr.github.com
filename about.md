@@ -26,7 +26,7 @@ Thrilled to wear many hats and work with a smart, focused team as the Online Mar
 
 ##Causes
 
-Current advisor, former Co-Chair of the Mentor Leadership Council & Mentor-Coach at [New York Needs You](www.newyorkneedsyou.org), a non-profit that helps first-generation college students recognize and pursue their professional aspirations, thus closing the opportunity gap.
+Current advisor, former Co-Chair of the Mentor Leadership Council & Mentor-Coach at [New York Needs You](http://www.newyorkneedsyou.org), a non-profit that helps first-generation college students recognize and pursue their professional aspirations, thus closing the opportunity gap.
 
 ##Profiles
 

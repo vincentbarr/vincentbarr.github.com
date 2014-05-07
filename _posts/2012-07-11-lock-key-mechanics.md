@@ -8,6 +8,6 @@ excerpt: Take a look.
 
 Like so:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/QiYIYXEX9Ko" frameborder="0" </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/QiYIYXEX9Ko" frameborder="0"> </iframe>
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

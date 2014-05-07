@@ -84,4 +84,4 @@ Yes. Possibly overkill.
 **7. Will this make me a better writer? (how to measure the quality of one's writing is another experiment entirely)**    
 Yes, especially for the web. You begin to learn how authors bait you to come back to their site, to dig deeper, or to engage with (comment, share, or express my sentiment on a social platform) their content. You begin to see the importance of ledes, headlines, quotes from others, diagrams, and figures - depending on the type of content. Altucher's lure is his vulnerability and lack of censorship. It's like he writes down the most embarassing things he could discuss, and then proceeds to discuss them. And Kaushik's lure is the scarcity of his level of expertise. The knowledge he has just doesn't seem available elsewhere.  
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

@@ -21,6 +21,4 @@ group: navigation
 [Unless I Hear Differently](http://unlessiheardifferently.com/)
 
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
-
-
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

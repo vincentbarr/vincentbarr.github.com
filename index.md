@@ -22,4 +22,4 @@ comments: false
 
 _This site is a work in progress. I've built it on Jekyll & it's hosted on [GitHub](https://github.com/vincentbarr/vincentbarr.github.com)._
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

@@ -17,4 +17,4 @@ _That wall is awfully... white?  Should I paint it?_
 
 His system to manage the “bits” is simple and effective, as it should be.
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

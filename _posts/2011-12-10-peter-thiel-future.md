@@ -12,4 +12,4 @@ Equally interesting are the revelations about his personal life gleaned through 
 
 Peter Thiel is in my “Top 3 people I would like to have a coffee with… at 3am” list, right alongside Sean Parker.  
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

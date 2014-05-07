@@ -79,4 +79,4 @@ group: navigation
 [A Brave New World](http://amzn.to/1fvcweP) by Aldous Huxley  
 
 Yes, these are affiliate links. No, that is not the reason for this section; but, an afterthought. 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

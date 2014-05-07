@@ -36,4 +36,4 @@ In response to NY Mag's question, 'How’d you get into the sunglass business?':
 
 -Brian Birdwell, Manhattan GMAT Instructor 
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

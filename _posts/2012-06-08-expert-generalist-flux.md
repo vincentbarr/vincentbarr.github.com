@@ -24,4 +24,4 @@ And I have a few questions:
 * Do individuals within this group share a set of common traits?  
 * What really causes a person to under-perform, particularly in an area in which they will later make tremendous contributions? – lack of interest, poor sleep, seasons of Dexter?  
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

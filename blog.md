@@ -9,3 +9,5 @@ group: navigation
       <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endfor %}
 </div>
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

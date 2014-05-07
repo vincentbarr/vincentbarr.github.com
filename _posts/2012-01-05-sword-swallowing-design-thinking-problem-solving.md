@@ -18,4 +18,4 @@ The hardest problems that I have had to solve have a common set of properties th
 
 Asking the right questions questions of not just others, but also myself is something that I am trying to do more. _What am I about to do? Why am I about to do it?_ If I can’t figure out why I am doing something, then I try not to do it. I say try because there are those things that we're aware of doing, that we don't want to do, and yet we do them anyway. They're called habits.  
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

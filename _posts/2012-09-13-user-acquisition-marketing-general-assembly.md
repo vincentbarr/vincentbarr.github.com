@@ -32,4 +32,4 @@ Footnotes
 <a id="fn1">[1]</a> A discussion could be had about the goal of presentations in general. Are they to inform, inspire, or announce? Or are they to bridge the gap between what an attendee would interpret if he/she read the slides on paper and what the presenter intends to communicate? Or? Goes on…
 
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

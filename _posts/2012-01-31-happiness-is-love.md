@@ -11,4 +11,4 @@ Two researchers, Angus Deaton and Daniel Kahneman, [prove why hapiness does not 
 
 Also, less-wealthy people exhibited more gratification than did the wealthier population for the same luxury chocolate.  
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

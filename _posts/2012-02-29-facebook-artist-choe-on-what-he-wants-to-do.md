@@ -25,4 +25,4 @@ A revealing interview into Choe's checkered background and values with Barbara W
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/MtazR6Iu2yE" frameborder="0"> </iframe>
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

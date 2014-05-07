@@ -8,4 +8,4 @@ excerpt: See for yourself.
 
 ![Pencil sharpening](/assets/images/pencil-sharpening.gif)
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

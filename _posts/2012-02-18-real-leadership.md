@@ -20,4 +20,4 @@ That’s the work of the fog machine.
 
 Jim Collins [_Level 5 Leadership: The Triumph of Humility and Fierce Resolve_](http://jakehuber.files.wordpress.com/2013/01/7-level-5-leadership-the-triumph-of-humility-and-fierce-resolve.pdf) is why I still touch the hot oven. While it’s not a blog, it’s a read that should not be chopped-up or condensed for 10-second consumption. It absolutely my favorite read on leadership – what it is, and what it may not be.
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

@@ -14,4 +14,4 @@ The process of meeting roommates was an interesting one, and I'm not sure I care
 ![Nudist Roommmate](/assets/images/roommate-nudist.png)
 ![Model Roommmate Part 1](/assets/images/roommate-model.png)
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

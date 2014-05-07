@@ -15,4 +15,4 @@ Just learned of [THE CITY DARK](http://www.thecitydark.com), and just missed the
 
 Fingers crossed it comes back around to NYC.  
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

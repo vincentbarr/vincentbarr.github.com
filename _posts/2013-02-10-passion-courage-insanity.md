@@ -22,4 +22,4 @@ After a life of taking risks without any safety net, Dan died at age 35 doing a 
 For more on Dan and his pre-ascent rituals, read [The Precipitous World of Dan Osman](http://www.theatlantic.com/magazine/archive/1996/02/the-precipitous-world-of-dan-osman/304382/?single_page=true#).
 
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

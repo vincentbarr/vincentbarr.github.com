@@ -26,4 +26,4 @@ And, of course, one from the London Police:
 
 _Photo credit_: [Barcelona Street Art](http://www.barcelonastreetart.net/graffiti/graffiti.htm)
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

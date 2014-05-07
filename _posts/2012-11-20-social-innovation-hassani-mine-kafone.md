@@ -49,4 +49,4 @@ Footnotes
 <a id="fn1">[1]</a> 
 <a href="http://www.guardian.co.uk/commentisfree/2009/nov/24/africa-charity-water-pumps-roundabouts">Guardian.co.uk</a>
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

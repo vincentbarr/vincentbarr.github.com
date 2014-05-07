@@ -11,4 +11,4 @@ Microsoft has us 80s babies in its crosshairs. Column Five is the agency behind 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/qkM6RJf15cg" frameborder="0"> </iframe>
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

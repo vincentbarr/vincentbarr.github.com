@@ -17,4 +17,4 @@ Sure, this isn’t the Enlightenment and we’re not all men and women of the Re
 
 I can hardly say that such pursuits make the world a better place with any scientific proof (refrained from jumping down a rabbit hole and into a night of Google research on this one), but I do know that they make for more interesting conversations with strangers on the subway train.
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

@@ -48,4 +48,4 @@ Footnotes
 <a id="fn1">[1]</a> There are exceptions. Elementary, middle, and some high school students likely benefit from this practice (for some period of time).  
 <a id="fn2">[2]</a> 08-14-13: I asked SlideShare how it selects its 'Top Presentations of the Day' via Twitter, but no response as of 08-18-13.
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

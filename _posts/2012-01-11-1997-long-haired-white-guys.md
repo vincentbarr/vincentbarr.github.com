@@ -25,4 +25,4 @@ Footnotes
 
 <a id="fn2">[2]</a> _Takedown_ is largely perceived as factually incorrect, rumor-ridden, egotistical, and simply an opportunity for Shimomura to take center stage and demonize hackers.  
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

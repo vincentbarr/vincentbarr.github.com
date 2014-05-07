@@ -20,4 +20,4 @@ If I want 10 more snapshots, then I need to start inviting people. The invites a
 
 What's unique about Acquaintable's referral program is that the reward for referring is provided regardless of fulfillment. In other words, you receive additional credits just for the act of referring others; redemption doesn't increase or decrease your reward. Whether this is intentional or just a temporary limitation to be corrected in their next release, I don't know.  
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

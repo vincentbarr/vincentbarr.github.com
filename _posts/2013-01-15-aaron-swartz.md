@@ -10,4 +10,4 @@ Suicide, regardless of an individual's contribution, is a tragedy. Suicide invok
 
 ![Aaron Swartz](/assets/images/aaron-swartz.png)
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How the pin tumbler Lock Works"
+title: "How the Pin Tumbler Lock Works"
 category: essais
 excerpt: Take a look.
 ---

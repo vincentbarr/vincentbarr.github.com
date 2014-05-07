@@ -14,4 +14,4 @@ I recently discovered the art and design blog [Collosal](http://www.thisiscoloss
 
 ![Artist Rune Guneriussen's Work 3](/assets/images/light-path-3.jpeg)
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

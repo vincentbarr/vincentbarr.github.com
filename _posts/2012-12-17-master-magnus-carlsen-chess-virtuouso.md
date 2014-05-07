@@ -18,4 +18,4 @@ Magnus Carlsen is in this group:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/Qc_v9mTfhC8" frameborder="0"> </iframe>
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

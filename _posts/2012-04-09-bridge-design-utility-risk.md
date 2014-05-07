@@ -20,4 +20,4 @@ Never mind aesthetics.
 
 ![Bridge 3](/assets/images/bridge3.jpg)
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

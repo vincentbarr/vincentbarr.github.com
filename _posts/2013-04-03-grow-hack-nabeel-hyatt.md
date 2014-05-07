@@ -52,4 +52,4 @@ Being good at a lot of things: more than just mastering customer acquisition in 
 
 Investors vary their interest across 3 areas: product (Twitter, no revenue, all product), team, market (TAM: total addressable market)
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

@@ -14,4 +14,4 @@ Two examples:
 
 ![Canal Street Graffiti 2](/assets/images/canal-street-graffiti-2.jpeg)  
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

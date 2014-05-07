@@ -13,4 +13,4 @@ Birch bought back the company he sold for $850M for $1M, then, in this video, de
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/Lm9J8Glk0bE" frameborder="0"> </iframe>
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

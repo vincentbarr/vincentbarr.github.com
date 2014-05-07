@@ -12,4 +12,4 @@ And with that, they just nailed their shipping delay email, too.
 
 ![Dollar Shave Club Email](/assets/images/dollar-shave-club-email.png)
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

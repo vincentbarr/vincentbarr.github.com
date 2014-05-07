@@ -25,4 +25,4 @@ He continued for the full 2-hours like a hunted man with an elaborate secret, te
 
 131,040 hours, 25 minutes, and 13 seconds; 131,040 hours, 25 minutes, and 12 seconds, 131,040 hours, 25 minutes, and 11 sec-
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

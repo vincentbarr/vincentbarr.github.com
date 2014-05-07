@@ -18,4 +18,4 @@ In no particular order, a handful of things that I learned this week:
 
 5.  **[Hazel](http://www.noodlesoft.com/hazel.php) + [Exobrain](https://www.exobrain.co) + 90M + me =** improved information naming, sorting, storage, and syncing across all of my devices.
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

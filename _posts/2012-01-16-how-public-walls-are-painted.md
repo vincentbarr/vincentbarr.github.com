@@ -10,4 +10,4 @@ Walking down Bedford Avenue in Brooklyn, I learned that (at least) some of the i
 
 ![Live painting](/assets/images/live-wall-paint.jpg)
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

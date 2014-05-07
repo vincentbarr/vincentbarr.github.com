@@ -14,4 +14,4 @@ And passion.
 
 Francesco Franchi [_On Visual Storytelling and New Languages in Journalism_](http://vimeo.com/35951116).  
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

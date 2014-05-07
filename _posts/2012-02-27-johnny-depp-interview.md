@@ -14,4 +14,4 @@ Check out the juxtaposition between trained (perhaps obnoxious) extroverts and a
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/vrdr2OLgrrY" frameborder="0"> </iframe>
 
-<a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

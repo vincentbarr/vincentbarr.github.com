@@ -22,9 +22,12 @@ Consider...
 
 This is a neat mental model I found on a quora thread.[\[1\]](#fn1) It was drafted by a gent advising students who were waitlisted/denied to graduate school whether they should email admissions committee members for constructive feedback.
 
-He's got a point.
+He's got a point.  
+<br />
+<br />
+<br />
 
-_Footnotes_  
+Footnotes  
 <a id="fn1">[1]</a>  
 I would have cited the author and post, but this was pulled from a batch of screenshots with no such information. If you know who wrote it, please let me know and I'll add their information.  
 

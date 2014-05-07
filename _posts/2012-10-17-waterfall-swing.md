@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Watefall Swing"
+title: "Waterfall Swing"
 category: essais
 excerpt: I'd like to try this.  
 ---

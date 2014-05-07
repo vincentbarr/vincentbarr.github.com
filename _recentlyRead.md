@@ -16,5 +16,9 @@ group: navigation
 
 [Lowest Possible Jeopardy Score](http://www.datagenetics.com/blog/april32014/index.html)
 
+[The Pointlessness of Unplugging](http://www.newyorker.com/online/blogs/culture/2014/03/the-pointlessness-of-unplugging.html)
+
+
 <a href="https://plus.google.com/+VincentBarr0?rel=author"<a></a>
+
 

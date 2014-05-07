@@ -40,11 +40,12 @@ A creepy example for comparison: if I came into your room with a camera and info
 
 That Hassani was born and raised in Afghan eases some of my woes. He understands his customers. Hopefully, after due diligence and validation, his prototype will gain support to produce and scale.
 
-Hassani's prototype will be Coming to MOMA (New York) in March 2013, and he will earn his first solo exhibition at the urbane Galerie Slott in Paris at a result. Well deserved.
-<br>
+Hassani's prototype will be Coming to MOMA (New York) in March 2013, and he will earn his first solo exhibition at the urbane Galerie Slott in Paris at a result. Well deserved.  
+<br />
+<br />
+<br />
 
-_Footnotes_  
-
+Footnotes  
 <a id="fn1">[1]</a> 
 <a href="http://www.guardian.co.uk/commentisfree/2009/nov/24/africa-charity-water-pumps-roundabouts">Guardian.co.uk</a>
 

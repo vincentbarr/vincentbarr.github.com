@@ -39,9 +39,12 @@ Are we consciously saying, 'yes, such presentation styles may very well deceive 
 
 So, let's stop targeting the lowest common denominator. Keep the details and nuances that you found most fascinating and that require context and explanation. Present something that we can ask questions of; that doesn't replace substance with dramatic pauses, the [superman pose](http://www.wired.com/wiredscience/2012/05/st_cuddy/), or pictures of babies.
 
-Be yourself, and the people that are meant to hear you will listen. I think.
+Be yourself, and the people that are meant to hear you will listen. I think.  
+<br />
+<br />
+<br />
 
-_Footnotes_  
+Footnotes  
 <a id="fn1">[1]</a> There are exceptions. Elementary, middle, and some high school students likely benefit from this practice (for some period of time).  
 <a id="fn2">[2]</a> 08-14-13: I asked SlideShare how it selects its 'Top Presentations of the Day' via Twitter, but no response as of 08-18-13.
 

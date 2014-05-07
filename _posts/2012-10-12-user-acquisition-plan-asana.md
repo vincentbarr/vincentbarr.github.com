@@ -18,9 +18,12 @@ Check it out below or over at [Slideshare](http://www.slideshare.net/vincentbarr
 
 <iframe style="border: none;" src="http://www.slideshare.net/vincentbarr/slideshelf" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="615px" height="470px"> </iframe>
 
-Nods and thanks to instructors [Kate Huyett](https://twitter.com/khuyi) and [Rob Schutz](https://twitter.com/NeverSchutzUp) who lead an awesome course.
+Nods and thanks to instructors [Kate Huyett](https://twitter.com/khuyi) and [Rob Schutz](https://twitter.com/NeverSchutzUp) who lead an awesome course.  
+<br />
+<br />
+<br />
 
-_Footnotes_  
+Footnotes  
 <a id="fn1">[1]</a>
 I am not affiliated with Asana and the plan is purely an exercise.
 

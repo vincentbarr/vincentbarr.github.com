@@ -2,11 +2,9 @@
 layout: post
 title: "On "Workaholics," Work Ethic, and Motivation."
 category: essais
-excerpt: How much of it are using?  
+excerpt: Is blood, sweat, and tears what it's cracked up to be?
 ---
 {% include JB/setup %}
-
-
 
 I’m a believer in ROWE (results oriented work environment). Performance should be measured in terms of results, not the hours it takes to accomplish results. It is peculiar how the number of hours it takes to perform a task -- or the time you arrive in the morning to the time you leave at night -- has a positive correlation with “work ethic” or “dedication.”
 
@@ -16,7 +14,7 @@ Let's pretend [Parkinson's Law](http://en.wikipedia.org/wiki/Parkinson's_law) do
 
 Maybe chefs at restaurants should really slow down their cooking, and FedEx should slow down their shipping – then, and only then, would we know they are getting work down. To hell with productivity.
 
-I like what Jason Fried and David Heinemeir Hansson, founders of 37 Signals, say in their book Rework:
+I like what Jason Fried and David Heinemeir Hansson, founders of 37 Signals, say in their book Rework:  
 > “Workaholics aren’t heroes. They don’t save the day, they just use it up. 
 > The real hero is already home because she figured out a faster way to get things done.”
 

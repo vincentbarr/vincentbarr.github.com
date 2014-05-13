@@ -14,10 +14,10 @@ Imagine creating a work that can support the wear of tens of people driving tons
 
 Never mind aesthetics. 
 
-![Bridge](/assets/images/bridge1.jpg)  
+![Bridge](http://www.vincentbarr.com/assets/images/bridge1.jpg)  
 
-![Bridge 2](/assets/images/bridge2.jpg)  
+![Bridge 2](http://www.vincentbarr.com/assets/images/bridge2.jpg)  
 
-![Bridge 3](/assets/images/bridge3.jpg)
+![Bridge 3](http://www.vincentbarr.com/assets/images/bridge3.jpg)
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

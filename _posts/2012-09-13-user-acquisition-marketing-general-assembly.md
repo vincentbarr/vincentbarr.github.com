@@ -15,7 +15,7 @@ Paul Graham addresses the [difference between presenting and writing expertly](h
 
 What I have enjoyed most about the course is its emphasis on praxis:
 
-![Learning Balance: Theory vs. Practice](/assets/images/learning-balance.png)  
+![Learning Balance: Theory vs. Practice](http://www.vincentbarr.com/assets/images/learning-balance.png)  
 
 For me, this point above is where I learn the details of proper execution without sacrificing an understanding of the big picture. It gives me a certain degree of early “know-how” and is a fair simulation of what I will meet when experimenting with real dollars: challenges to consider, features to configure, and goals to achieve. It’s also not so specific that I couldn’t, say, take the knowledge learned in this class where we focused heavily on B2C application and apply it in a B2B setting.  
 

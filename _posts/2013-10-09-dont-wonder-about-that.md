@@ -18,7 +18,7 @@ That's something I'd like to do a better job of, as I'm now around quite a few p
 
 Consider...
 
-![Email Decision Matrix](/assets/images/email-decision-matrix.png)
+![Email Decision Matrix](http://www.vincentbarr.com/assets/images/email-decision-matrix.png)
 
 This is a neat mental model I found on a quora thread.[\[1\]](#fn1) It was drafted by a gent advising students who were waitlisted/denied to graduate school whether they should email admissions committee members for constructive feedback.
 

@@ -16,11 +16,11 @@ This presentation etiquette is like a magician adding four inches to his sleeves
 
 For context, let's take a look at these rules in practice. Slideshare receives ~60M unique visitors per month. Here are its "Top Presentations of the Day" as featured front and center on its homepage. [\[2\]](#fn2)
 
-![Most popular SlideShare presentations](/assets/images/slideshare-mostpopular.png)
+![Most popular SlideShare presentations](http://www.vincentbarr.com/assets/images/slideshare-mostpopular.png)
 
-![Jack slide](/assets/images/jack-slide.png)
+![Jack slide](http://www.vincentbarr.com/assets/images/jack-slide.png)
 
-![Nonsense slide](/assets/images/nonsenseslide.png)
+![Nonsense slide](http://www.vincentbarr.com/assets/images/nonsenseslide.png)
 
 When a slide is widdled down to several words and a chart to a one-direction arrow, we, the audience, come to depend more on the speaker to relay information. Our sensitivity to body language, tone, and - to a lesser extent - words is heightened. The speaker, in turn, comes to lean on humor and nonverbal cues and away from insights, evidence, and context. And, as you can see, concision =! quality.
 

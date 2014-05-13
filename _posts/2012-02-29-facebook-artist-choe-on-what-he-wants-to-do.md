@@ -8,7 +8,7 @@ excerpt: The graffiti artist, art school dropout, and gambler behind Facebook's 
 
 Back when Facebook wasn’t a household name, Sean Parker & Mark Zuckerberg sought out [artist David Choe](http://davidchoe.com/) to pretty the ol’ office up with spraypaint.
 
-![David Choe](/assets/images/david-choe.png)
+![David Choe](http://www.vincentbarr.com/assets/images/david-choe.png)
 
 Choe opted for equity over pay at the time, stating:
 >"I like to party, I like to gamble."

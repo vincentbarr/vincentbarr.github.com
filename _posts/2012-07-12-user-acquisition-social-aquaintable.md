@@ -13,7 +13,7 @@ What impressed me is their user approach to user acquisition. Referrals were a h
 
 Check out the Acquaintable approach to referrals:  
 
-![Acquaintable Refer-a-friend](/assets/images/acquaintable.png)   
+![Acquaintable Refer-a-friend](http://www.vincentbarr.com/assets/images/acquaintable.png)   
 
 
 If I want 10 more snapshots, then I need to start inviting people. The invites are delivered as direct, personal Facebook messages as opposed to the dreaded event or app invite (and thus notification) that we’ve all become accustomed to ignoring. I think this strategy will yield an above average user-to-referrer rate, as well as an above average recipient-to-lead rate. A direct, personal message feels more authentic to me – not quite as a personal as a word-of-mouth recommendation, but still better than an email referral.  

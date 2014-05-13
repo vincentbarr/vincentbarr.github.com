@@ -11,10 +11,10 @@ But who hasn’t, right? I mean we all just want to fit in...
 
 But seriously, check this out:  
 
-![Dorsia Facebook](/assets/images/dorsia-facebook.png)  
-![Dorsia Facebook](/assets/images/dorsia-yelp-main.png)  
-![Dorsia Facebook](/assets/images/dorsia-yelp-comment.png)  
-![Dorsia Facebook](/assets/images/dorsia-yelp-comment2.png)  
+![Dorsia Facebook 1](http://www.vincentbarr.com/assets/images/dorsia-facebook.png)  
+![Dorsia Facebook 2](http://www.vincentbarr.com/assets/images/dorsia-yelp-main.png)  
+![Dorsia Facebook 3](http://www.vincentbarr.com/assets/images/dorsia-yelp-comment.png)  
+![Dorsia Facebook 4](http://www.vincentbarr.com/assets/images/dorsia-yelp-comment2.png)  
 
 [Dorsia on Facebook](http://www.facebook.com/pages/Dorsia/55984183346)  
 [Dorsia on Yelp](http://www.yelp.com/biz/dorsia-new-york)  

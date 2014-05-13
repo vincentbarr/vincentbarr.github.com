@@ -8,6 +8,6 @@ excerpt: Suicide, regardless of an individual's contribution, is a tragedy.
 
 Suicide, regardless of an individual's contribution, is a tragedy. Suicide invoked or encouraged by dated, disproportionate, and malleable penalties for computer hacking is worse.
 
-![Aaron Swartz](/assets/images/aaron-swartz.png)
+![Aaron Swartz](http://www.vincentbarr.com/assets/images/aaron-swartz.png)
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

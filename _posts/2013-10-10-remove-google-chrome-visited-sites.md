@@ -8,7 +8,7 @@ excerpt: How to remove your most visited sites from appearing in new tabs in Chr
 
 Google managed to sneak frequently visited sites back into Chrome. If you're like me and did away with this, then you're not thrilled with this view.
 
-![Chrome Homepage Before](/assets/images/chrome-homepage-before.png)
+![Chrome Homepage Before](http://www.vincentbarr.com/assets/images/chrome-homepage-before.png)
 
 ##Here's how to remove it:
 
@@ -18,7 +18,7 @@ Google managed to sneak frequently visited sites back into Chrome. If you're lik
 
 **3. Press Cmd + 'F' and look for 'Enable Instant Extended'**
 
-![Extended API](/assets/images/chrome-extended-api.png)
+![Extended API](http://www.vincentbarr.com/assets/images/chrome-extended-api.png)
 
 **4. Disable 'Instant Extended API'**
 
@@ -26,6 +26,6 @@ Google managed to sneak frequently visited sites back into Chrome. If you're lik
 
 **6. That's better**
 
-![Chrome Homepage After](/assets/images/chrome-homepage-after.png)
+![Chrome Homepage After](http://www.vincentbarr.com/assets/images/chrome-homepage-after.png)
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

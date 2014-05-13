@@ -8,10 +8,10 @@ excerpt: Light is important.
 
 I recently discovered the art and design blog [Collosal](http://www.thisiscolossal.com/), as well as [artist Rune Guneriussen](http://www.runeguneriussen.no/).  
 
-![Artist Rune Guneriussen's Work 1](/assets/images/light-path-1.jpeg)
+![Artist Rune Guneriussen's Work 1](http://www.vincentbarr.com/assets/images/light-path-1.jpeg)
 
-![Artist Rune Guneriussen's Work 2](/assets/images/light-path-2.jpeg)
+![Artist Rune Guneriussen's Work 2](http://www.vincentbarr.com/assets/images/light-path-2.jpeg)
 
-![Artist Rune Guneriussen's Work 3](/assets/images/light-path-3.jpeg)
+![Artist Rune Guneriussen's Work 3](http://www.vincentbarr.com/assets/images/light-path-3.jpeg)
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

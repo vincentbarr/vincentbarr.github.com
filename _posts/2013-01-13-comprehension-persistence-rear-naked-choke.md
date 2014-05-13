@@ -15,7 +15,7 @@ John Nunemaker wrote a great post, [_I Have No Talent_](http://railstips.org/blo
 
 I think this is when most people give up - when it sucks. When I first began Brazilian Jiu Jitsu in 2004, I showed up to a random gym in White Plains, New York in mesh shorts that were one (maybe two) sizes too small and a tee-shirt that, apparently, wasn't rip proof (there is a reason for the gis after all). I rolled with the instructor, Sean Alvarez, who applied a rear naked choke so firmly it felt like I had strep throat for the next four days.
 
-![Sean Alvarez](/assets/images/sean-alvarez.jpg)
+![Sean Alvarez](http://www.vincentbarr.com/assets/images/sean-alvarez.jpg)
 
 That sucked. I got whooped, regularly, for the better of 10 months. Practice and progress were camouflaged as pain. When things turned around, when I was able to first submit an opponent, the challenges - my opponents - felt surmountable. Matches felt more like a chess match, less like a mad scramble to survive; they slowed down. Once I knew the science, it became more art, less torture.
 

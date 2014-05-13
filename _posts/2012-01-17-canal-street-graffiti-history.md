@@ -10,8 +10,8 @@ excerpt: See the evidence.
 
 Two examples:  
 
-![Canal Street Graffiti 1](/assets/images/canal-street-graffiti.jpeg)  
+![Canal Street Graffiti 1](http://www.vincentbarr.com/assets/images/canal-street-graffiti.jpeg)  
 
-![Canal Street Graffiti 2](/assets/images/canal-street-graffiti-2.jpeg)  
+![Canal Street Graffiti 2](http://www.vincentbarr.com/assets/images/canal-street-graffiti-2.jpeg)  
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

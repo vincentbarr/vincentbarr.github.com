@@ -9,7 +9,7 @@ excerpt: Making me say things I don't believe just to move ahead.
 They demand your focus and often require a little guesswork ('Is that an 'l' or an 'i'?)
 
 The slippery gatekeepers  
-![UPS CAPTCHA Code Advertisement](/assets/images/ups-captcha-code-ad.jpeg)
+![UPS CAPTCHA Code Advertisement](http://www.vincentbarr.com/assets/images/ups-captcha-code-ad.jpeg)
 
 Writing things down makes you more likely to achieve or believe them. Does the same hold true for typing?  
 

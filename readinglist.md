@@ -8,10 +8,12 @@ group: navigation
 #Reading List
 
 ##Current  
-[Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application](http://amzn.to/1lI6LQh) by Jason Fried  
+
 [The Art of SEO: Mastering Search Engine Optimization (Theory in Practice)](http://amzn.to/1ksAkFg) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  
 
 ##Past  
+[The Bed of Procrustes: Philosophical and Practical Aphorisms](http://amzn.to/1lDQxG9) by Nassim Nicholas Taleb  
+[Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application](http://amzn.to/1lI6LQh) by Jason Fried  
 [Games People Play: The Basic Handbook to Transactional Analysis](http://amzn.to/1joCvak) by Eric Berne  
 [How to Win Every Argument: The Use and Abuse of Logic](http://amzn.to/1iRiRVy) by Madsen Pirie  
 [The Prince](http://amzn.to/1hqJlRa) by Niccolo Machiavelli  

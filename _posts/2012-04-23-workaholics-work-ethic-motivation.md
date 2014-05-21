@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On "Workaholics," Work Ethic, and Motivation."
+title: "On "Workaholics," Work Ethic, and Motivation"
 category: essais
 excerpt: Is blood, sweat, and tears what it's cracked up to be?
 ---

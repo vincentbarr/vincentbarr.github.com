@@ -8,10 +8,10 @@ group: navigation
 #Reading List
 
 ##Current  
-
-[The Art of SEO: Mastering Search Engine Optimization (Theory in Practice)](http://amzn.to/1ksAkFg) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  
+[DOM Scripting: Web Design with JavaScript and the Document Object Model](http://amzn.to/1nJspER) by Jeremy Keith  
 
 ##Past  
+[The Art of SEO: Mastering Search Engine Optimization (Theory in Practice)](http://amzn.to/1ksAkFg) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  
 [The Bed of Procrustes: Philosophical and Practical Aphorisms](http://amzn.to/1lDQxG9) by Nassim Nicholas Taleb  
 [Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application](http://amzn.to/1lI6LQh) by Jason Fried  
 [Games People Play: The Basic Handbook to Transactional Analysis](http://amzn.to/1joCvak) by Eric Berne  

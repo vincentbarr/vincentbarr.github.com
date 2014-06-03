@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bebo Founder's Founder Has a Good Sense of Humor"
-category: media
+category: essais
 excerpt: Bebo Founder delivers an honest, hilarious product video.
 ---
 {% include JB/setup %}

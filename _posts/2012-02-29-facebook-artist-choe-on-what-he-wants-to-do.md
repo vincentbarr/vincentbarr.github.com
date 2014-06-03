@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Choe on Doing What He Wants to Do"
-category: etc
+category: essais
 excerpt: The graffiti artist, art school dropout, and gambler behind Facebook's early office murals.
 ---
 {% include JB/setup %}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Pencils Are Sharpened"
+title: "How Movie Trailers are Painted"
 category: etc
 excerpt: See for yourself.
 ---

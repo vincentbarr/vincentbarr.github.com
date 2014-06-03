@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A List of Adjectives to Remove from Your Marketing Copy."
+title: "A List of Adjectives to Remove from Your Marketing Copy"
 category: growth
 excerpt: Exclusive, award-winning, high-touch and ...
 ---

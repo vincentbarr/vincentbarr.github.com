@@ -20,7 +20,8 @@ This list is a WIP.
 * [integer] out of [integer] [verb] [opinion] (.e.g. 4 out of 4 dentists recommend)  
 * Next-gen  
 
-
 What am I missing? 
 
 Let me know in the comments and I will include your suggestion (given that it's reasonable) and, of course, credit you.
+
+<a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

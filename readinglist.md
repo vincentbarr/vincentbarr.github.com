@@ -8,6 +8,7 @@ group: navigation
 #Reading List
 
 ##Current  
+[Decisive: How to Make Better Choices in Life and work](http://amzn.to/1u3Ldkb) by Chip Heath  
 [DOM Scripting: Web Design with JavaScript and the Document Object Model](http://amzn.to/1nJspER) by Jeremy Keith  
 
 ##Past  

@@ -22,17 +22,33 @@ d) Stockpiles midnight oil. Reads McSweeney’s for LOLz. Urbant art enthusiast 
 
 ##Work
 
-Thrilled to wear many hats and work with a smart, focused team as the Online Marketing Manager (and part product manager) for [MongoDB](http://www.mongodb.com), an open-source [NoSQL database](http://www.mongodb.com/learn/nosql).
+Thrilled to wear many hats and work with a smart, focused team as the Online Marketing Manager (and part product manager) for [MongoDB](http://www.mongodb.com), the company behind the [open-source, NoSQL database](http://www.mongodb.com/nosql-explained).
+
+More to come.  
+
+##Certifications  
+
+Optimizely Platform Certification  
+Google AdWords Advanced Search  
+Google Digital Analytics Fundamentals  
+Google AdWords Advertising Fundamentals  
+
+##Writing  
+[The Deceptively Simple A/B Testing Mistake Quietly Killing Your Conversion Rates](http://unbounce.com/a-b-testing/simple-ab-testing-mistake-thats-killing-conversion-rates/) (Unbounce)  
+[How to Build an A/B Testing Practice in 2 Hours](https://blog.paymill.com/ab-testing-2-hours/)  
+[Mock User Acquisition Campaign for Asana](http://www.slideshare.net/vincentbarr/mock-user-acquisition-marketing-plan)  
+
+More to come.  
 
 ##Causes
 
 Current advisor, former Co-Chair of the Mentor Leadership Council & Mentor-Coach at [New York Needs You](http://www.newyorkneedsyou.org), a non-profit that helps first-generation college students recognize and pursue their professional aspirations, thus closing the opportunity gap.
 
-##Profiles
+##Other
 
 * INTJ
 * Gallup’s StrengthsFinder 2.0: Competition, Restorative, Command, Focus, Achiever
 
-_I included the Profiles section at the cost of appearing (or being) obnoxious in exchange for the value of meeting potentially interesting, like/unlike-minded people._
+_I included the Other section at the cost of appearing (or being) obnoxious in exchange for the value of meeting potentially interesting, like/unlike-minded people._
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

@@ -15,7 +15,7 @@ Consider this Wikipedia entry:
 
 You're picturing black pavement, yellow paint, and no wayfinders (unless we're talking amusement parks). You're imagining a large designated space for storing (rearranging, and camoflauging) cars. 
 
-And so am I. But, Wikipedia happens to be describing The Bermuda Triangle.  
+And so am I. But, Wikipedia happens to be describing the Bermuda Triangle.  
 
 Lucky for me, I've managed to avoid parking lots since moving to New York City 6 years ago. But, I've found a designated storage space that is as disorienting at 1/100th the size of a parking lot.
 

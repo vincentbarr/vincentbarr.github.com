@@ -13,7 +13,7 @@ Consider this Wikipedia entry:
 > percentage of the incidents were spurious, inaccurately reported, or embellished by 
 > later authors.
 
-You're picturing black pavement, yellow paint, and no wayfinders (unless we're talking amusement parks). You're imagining a large designated space for storing (rearranging, and camoflauging) cars. 
+You're picturing black pavement, yellow paint, and no way-finders (unless we're talking amusement parks). You're imagining a large designated space for storing (rearranging, and camouflaging) cars. 
 
 And so am I. But, Wikipedia happens to be describing the Bermuda Triangle.  
 

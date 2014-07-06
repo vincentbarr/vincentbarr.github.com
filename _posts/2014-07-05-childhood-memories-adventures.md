@@ -28,15 +28,14 @@ Please answer in the comments and I'll add them to the post.
 
 ##List of awesome things to do in NYC with a 10-year old nephew
 
-1. Visit or find a day-class at a museum:  
-  1.1  [American Museum of Natural History](http://www.amnh.org/)  
-  1.2  [New York Hall of Science](http://nysci.org/events/)
-*  Visit FAO Schwarz toy store
-*  Plan a day at [Governors Island](http://govisland.com/html/home/home.shtml)
-*  Check out [FIGMENT Festival](http://www.figmentproject.org/), a participatory arts event and exhibition
-*  Wander the LES
-*  People watch and see some break dancing at Union Square (side note: do 10-year-olds people watch?)
-*  Eat at [Ninja New York](http://www.yelp.com/biz/ninja-new-york-new-york)
+*  Tour the [American Museum of Natural History](http://www.amnh.org/)  
+*  Take a day class at the [New York Hall of Science](http://nysci.org/events/)  
+*  Visit FAO Schwarz toy store  
+*  Plan a day at [Governors Island](http://govisland.com/html/home/home.shtml)  
+*  Check out [FIGMENT Festival](http://www.figmentproject.org/), a participatory arts event and exhibition  
+*  Wander the LES  
+*  People watch and see some break dancing at Union Square (side note: do 10-year-olds people watch?)  
+*  Eat at [Ninja New York](http://www.yelp.com/biz/ninja-new-york-new-york)  
 *  Check out the [Art of the Brick](http://www.showclix.com/event/TheArtoftheBrick), a Lego exhibition by Nathan Sawaya, at Discovery Times Square  
 
 

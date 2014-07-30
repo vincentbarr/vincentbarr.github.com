@@ -2,7 +2,7 @@
 layout: post
 title: "What Would Your 10-year Old Self Have Loved to Do in NYC?"
 category: essais
-excerpt: Hidden rooms, tree houses, sidewalk chalk, Legos, and...  
+excerpt: Hidden rooms, tree houses, sidewalk chalk, Legos, and...
 ---
 {% include JB/setup %}
 
@@ -37,6 +37,5 @@ Please answer in the comments and I'll add them to the post.
 *  People watch and see some break dancing at Union Square (side note: do 10-year-olds people watch?)  
 *  Eat at [Ninja New York](http://www.yelp.com/biz/ninja-new-york-new-york)  
 *  Check out the [Art of the Brick](http://www.showclix.com/event/TheArtoftheBrick), a Lego exhibition by Nathan Sawaya, at Discovery Times Square  
-
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

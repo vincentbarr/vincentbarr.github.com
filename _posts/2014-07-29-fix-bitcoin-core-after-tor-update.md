@@ -19,17 +19,10 @@ The following fix resolved the issue for me and took less than 5-minutes to impl
 3.  Set the Proxy IP to your localhost: 127.0.0.1
 4.  Set the port to 9051
 5.  Choose 5 for your SOCKS Version
-<img src="/assets/images/bitcoin-core-config.png"></img>
 6.  Click Okay, and quit Bitcoin-Qt (required for changes to take effect).
 7.  Quit TorBrowser
-8.  Navigate to "~/library/application support/bitcoin" (need <a href="#gotoprompt">help with this step?</a>) 
+8.  Navigate to "~/library/application support/bitcoin" (need [help with this step](#morehelp)?)) 
 9. Open your text editor and create a new file, 'bitcoin.conf', in the /Bitcoin directory. Make sure that the file uses the extension .conf and does not simply have .conf in the filename. 
-
-Good ![Good - File Extension Saved](/assets/images/bitcoin-conf-file-good.png)
-
-Bad: 
-Good <img src="/assets/images/bitcoin-conf-file-bad.png"></img>
-
 10. Add the following text to bitcoin.conf and save the file in the current directory (the Bitcoin directory):
 
 > bind=127.0.0.1  
@@ -37,15 +30,19 @@ Good <img src="/assets/images/bitcoin-conf-file-bad.png"></img>
 > upnp=0  
 > proxy=127.0.0.1:9150
 
-<a name="#gotoprompt"></a>Here's a handy way to navigate directories or folders that may be hidden (depending on your configuration) using Finder (instead of the command line, which is optimal):
+## Voila!
+
+<hr>
+
+<a id="morehelp"></a>**Navigating for hidden files in Finder (for those that deny the command line)**
+
+Here's a handy way to navigate directories or folders that may be hidden (depending on your configuration) using Finder (instead of the command line, which is optimal):
 
 1. Open a Finder window
 
 2. Press and hold  <span style="font-weight:bold">&#x2318; + &#x21E7; + G</span>. 
 
 3. This will open a 'Go to' prompt that will allow you to enter your desired path. Copy and paste the path used in step 8, then press return.</p>
-
-<img src="/assets/images/go-to-prompt.png"></img>
 
 Also, you should [unhide your files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/).
 

@@ -33,5 +33,7 @@ group: navigation
 [The Art of Following Up Your Résumé](http://melissacooley.com/2012/12/art-of-following-up-resume/)
 [Where Time Comes From](http://www.theatlantic.com/video/index/358609/where-time-comes-from/)
 
+[Optimal Can Dimensions](http://www.datagenetics.com/blog/august12014/index.html)
+
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

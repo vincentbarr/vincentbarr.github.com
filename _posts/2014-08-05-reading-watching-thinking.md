@@ -1,11 +1,24 @@
 ---
 layout: post
-title: "Reading, Watching, or Thinking"
+title: "Reading, Watching, Digesting"
 category: essais
 excerpt: 2014-08-05 - TBD
 ---
 {% include JB/setup %}
 
+[Joe Ades, The Greatest Salesmen in NYC](https://www.youtube.com/watch?v=HCUct4NlxE0)
+
+[livectf REDEMPTION by geohot 7/27/2014](https://www.youtube.com/watch?v=td1KEUhlSuk)  
+
+[Garbage Pal Kids](http://en.wikipedia.org/wiki/Garbage_Pail_Kids) by Wikipedia
+
+[“Dumb” Yet Deadly: Local Knowledge and Poor Tradecraft Among Islamist Militants in Britain and Spain](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAA&url=http%3A%2F%2Fwikileaks.org%2Fgifiles%2Fattach%2F134%2F134075_Dumb%2520yet%2520Deadl.pdf) by Michael Kenney  
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAA&url=http%3A%2F%2Fwikileaks.org%2Fgifiles%2Fattach%2F134%2F134075_Dumb%2520yet%2520Deadl.pdf&ei=n-vjU_G6A5H-yQSro4H4Cg&usg=AFQjCNFvbJRhkRTVvMOm-L6ygN0Lir0epw&sig2=4v-MUNF8XA1wOUAglZYlLQ&bvm=bv.72676100,d.aWw
+
+[Ways in Which the Midwest Express In-Flight Catalog Describes Shirts That Won't Wrinkle](http://www.mcsweeneys.net/articles/ways-in-which-the-midwest-express-in-flight-catalog-describes-shirts-that-wont-wrinkle)
+
+[Mom Takes Children's Songs Literally](http://www.mcsweeneys.net/articles/mom-takes-childrens-songs-literally)
 
 [The Importance of Anonymous Email Addresses](http://www.b3rn3d.com/blog/2014/05/16/email/) by b3rn3d  
 

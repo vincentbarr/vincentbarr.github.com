@@ -6,6 +6,10 @@ excerpt: 2014-08-05 - TBD
 ---
 {% include JB/setup %}
 
+[3 Tips for Better Product Descriptions](http://www.nngroup.com/articles/product-descriptions/)by Nielsen Norman Group
+
+[Robust Misinterpretation of Confidence Intervals](http://www.ejwagenmakers.com/inpress/HoekstraEtAlPBR.pdf) by Rink Hoekstra, Richard D. Morey, Jeffrey N. Rouder, Eric-Jan Wagenmakers
+
 [Joe Ades, The Greatest Salesmen in NYC](https://www.youtube.com/watch?v=HCUct4NlxE0)
 
 [livectf REDEMPTION by geohot 7/27/2014](https://www.youtube.com/watch?v=td1KEUhlSuk)  
@@ -54,5 +58,6 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&v
 
 [Optimal Can Dimensions](http://www.datagenetics.com/blog/august12014/index.html)
 
+[Parts of Speech: Grammar](http://www.enchantedlearning.com/grammar/partsofspeech/) - check out the sequence of adjectives section. Neat.
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

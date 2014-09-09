@@ -6,19 +6,21 @@ excerpt: 2014-08-05 - TBD
 ---
 {% include JB/setup %}
 
-[3 Tips for Better Product Descriptions](http://www.nngroup.com/articles/product-descriptions/)by Nielsen Norman Group
+[Outcome Bias and the Interpreter: How Our Minds Confuse Skill and Luck](http://analystreports.som.yale.edu/internal/F2013/MJ/Outcome%20Bias%20and%20the%20Interpreter.pdf) by Michael Maouboussin and Dan Callahan  
 
-[Robust Misinterpretation of Confidence Intervals](http://www.ejwagenmakers.com/inpress/HoekstraEtAlPBR.pdf) by Rink Hoekstra, Richard D. Morey, Jeffrey N. Rouder, Eric-Jan Wagenmakers
+[Bob Bergen Mimics Mel Blanc's Porky Pig](https://www.youtube.com/watch?v=lXC_j5QB6v8)  
 
-[Joe Ades, The Greatest Salesmen in NYC](https://www.youtube.com/watch?v=HCUct4NlxE0)
+[3 Tips for Better Product Descriptions](http://www.nngroup.com/articles/product-descriptions/) by Nielsen Norman Group  
 
-[livectf REDEMPTION by geohot 7/27/2014](https://www.youtube.com/watch?v=td1KEUhlSuk)  
+[Robust Misinterpretation of Confidence Intervals](http://www.ejwagenmakers.com/inpress/HoekstraEtAlPBR.pdf) by Rink Hoekstra, Richard D. Morey, Jeffrey N. Rouder, Eric-Jan Wagenmakers  
+
+[Joe Ades, The Greatest Salesmen in NYC](https://www.youtube.com/watch?v=HCUct4NlxE0)  
+
+[livectf REDEMPTION](https://www.youtube.com/watch?v=td1KEUhlSuk) by geohot 7/27/2014   
 
 [Garbage Pal Kids](http://en.wikipedia.org/wiki/Garbage_Pail_Kids) by Wikipedia
 
 [“Dumb” Yet Deadly: Local Knowledge and Poor Tradecraft Among Islamist Militants in Britain and Spain](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAA&url=http%3A%2F%2Fwikileaks.org%2Fgifiles%2Fattach%2F134%2F134075_Dumb%2520yet%2520Deadl.pdf) by Michael Kenney  
-
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAA&url=http%3A%2F%2Fwikileaks.org%2Fgifiles%2Fattach%2F134%2F134075_Dumb%2520yet%2520Deadl.pdf&ei=n-vjU_G6A5H-yQSro4H4Cg&usg=AFQjCNFvbJRhkRTVvMOm-L6ygN0Lir0epw&sig2=4v-MUNF8XA1wOUAglZYlLQ&bvm=bv.72676100,d.aWw
 
 [Ways in Which the Midwest Express In-Flight Catalog Describes Shirts That Won't Wrinkle](http://www.mcsweeneys.net/articles/ways-in-which-the-midwest-express-in-flight-catalog-describes-shirts-that-wont-wrinkle)
 

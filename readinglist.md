@@ -8,13 +8,12 @@ group: navigation
 #Reading List
 
 ##Current  
-[A Wrinkle in Time: The Graphic Novel](http://amzn.to/1ssHu0I) by Hope Larson  
-[Women](http://amzn.to/V0bG7d) by Charles Bukowski    
-[Ahead of All Parting: The Selected Poetry and Prose of Rainer Maria Rilke](http://amzn.to/1qiKVIu) by Rainer Maria Rilke  
 
+[Ahead of All Parting: The Selected Poetry and Prose of Rainer Maria Rilke](http://amzn.to/1qiKVIu) by Rainer Maria Rilke  
 
 ##Past  
 [Chiggers](http://amzn.to/UTEr5Qa) by Hope Larson  
+[A Wrinkle in Time: The Graphic Novel](http://amzn.to/1ssHu0I) by Hope Larson  
 [Decisive: How to Make Better Choices in Life and work](http://amzn.to/1u3Ldkb) by Chip Heath  
 [DOM Scripting: Web Design with JavaScript and the Document Object Model](http://amzn.to/1nJspER) by Jeremy Keith  
 [The Art of SEO: Mastering Search Engine Optimization (Theory in Practice)](http://amzn.to/1ksAkFg) by Eric Enge, Stephan Spencer, Rand Fishkin, and Jessie Stricchiola  

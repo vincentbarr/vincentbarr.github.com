@@ -6,6 +6,9 @@ excerpt: 2014-08-05 - TBD
 ---
 {% include JB/setup %}
 
+
+[Lil Wayne's Deposition](http://abovethelaw.com/2012/09/lil-wayne-is-quite-possibly-the-best-deponent-of-all-time/)
+
 [Outcome Bias and the Interpreter: How Our Minds Confuse Skill and Luck](http://analystreports.som.yale.edu/internal/F2013/MJ/Outcome%20Bias%20and%20the%20Interpreter.pdf) by Michael Maouboussin and Dan Callahan  
 
 [Bob Bergen Mimics Mel Blanc's Porky Pig](https://www.youtube.com/watch?v=lXC_j5QB6v8)  

@@ -8,7 +8,7 @@ excerpt: Exclusive, award-winning, high-touch and ...
 
 This list is a WIP. 
 
-If you have hold respect for inventions such as footwear,electricity, or shelter, then I recommend removing the following list of words and phrases from your marketing copy. 
+If you admire inventions such as footwear, electricity, or shelter, then I recommend removing the following list of words and phrases from your marketing copy. 
 
 It's the least you can do.
 
@@ -30,15 +30,19 @@ It's the least you can do.
 * [product] has turned [industry] on its head  
 * Unheard of  
 * One of a kind  
+* Heavy duty
 * Vintage  
 * Rare  
 * Stunning  
 * Staggering  
 * World-famous  
 * World-renowned
+* High-quality  
 * Season's hottest  
 * Ultimate  
 * Great  
+* Excellent  
+* Bespoke  
 * Distinctive  
 * Top choice  
 

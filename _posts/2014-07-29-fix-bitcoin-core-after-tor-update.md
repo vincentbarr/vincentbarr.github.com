@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Problem: After Upgrading Tor Browser to v3.6.3 on OS X Mavericks 10.9.4, Bitcoin Core is Unable to Connect to Networks"
+title: "Problem: After Upgrading to Tor Browser v3.6.3 on OS X Mavericks 10.9.4, Bitcoin Core is Unable to Connect to Networks"
 category: essais
-excerpt: Solution: Update bitcoin.conf.
+excerpt: "Solution: Update bitcoin.conf."
 ---
 {% include JB/setup %}
 
@@ -21,7 +21,7 @@ The following fix resolved the issue for me and took less than 5-minutes to impl
 5.  Choose 5 for your SOCKS Version
 6.  Click Okay, and quit Bitcoin-Qt (required for changes to take effect).
 7.  Quit TorBrowser
-8.  Navigate to "~/library/application support/bitcoin" (need [help with this step](#morehelp)?)) 
+8.  Navigate to "~/library/application support/bitcoin" (need [help with this step](#morehelp)?)
 9. Open your text editor and create a new file, 'bitcoin.conf', in the /Bitcoin directory. Make sure that the file uses the extension .conf and does not simply have .conf in the filename. 
 10. Add the following text to bitcoin.conf and save the file in the current directory (the Bitcoin directory):
 

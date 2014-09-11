@@ -86,7 +86,7 @@ group: navigation
 
 [The Autobiography of Bertrand Russell](http://amzn.to/14UmPLk) by Bertrand Russell  
 
-[Adapt: Why Success Always Starts with Failure_](http://amzn.to/1ailhfc) by Tim Harford  
+[Adapt: Why Success Always Starts with Failure](http://amzn.to/1ailhfc) by Tim Harford  
 
  [What He’s Poised to Do](http://amzn.to/14UmLLE) by Ben Greenman  
 

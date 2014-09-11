@@ -27,13 +27,12 @@ d) Stockpiles midnight oil. Reads McSweeney’s for LOLz. Urbant art enthusiast 
 * **Analysis Exchange**: Worked with a mentor to implement web analytics, efficient event tracking (Google Tag Manager + Link Click Listener + RegEx), and cross-domain tracking on FoodRescue.net; developed dashboards for executives, marketers, and paid search manager
 
 ##Certifications  
-
-Optimizely Platform Certification  
+* Optimizely Platform Certification  
 * Google AdWords Advanced Search  
 * Google Digital Analytics Fundamentals  
 * Google AdWords Advertising Fundamentals  
 
-##Platforms & Skills
+##Platforms & Skills  
 * Google AdWords, Analytics, Tag Manager, and Webmaster Tools  
 * Optimizely, CrazyEgg, Moz, & Screaming Frog SEO Spider  
 * Excel  

@@ -8,6 +8,10 @@ excerpt: Exclusive, award-winning, high-touch and ...
 
 This list is a WIP. 
 
+If you have hold respect for inventions such as footwear,electricity, or shelter, then I recommend removing the following list of words and phrases from your marketing copy. 
+
+It's the least you can do.
+
 * Award-winning  
 * High-touch  
 * All-in-one  
@@ -39,7 +43,5 @@ This list is a WIP.
 * Top choice  
 
 What am I missing? 
-
-Let me know in the comments and I will include your suggestion (given that it's reasonable) and, of course, credit you.
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

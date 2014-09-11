@@ -140,9 +140,13 @@ group: navigation
 
 [A Clockwork Orange](http://amzn.to/QmCJaR) by Anthony Burgess  
 
+[The Tipping Point: How Little Things Can Make a Big Difference](http://amzn.to/1qlzKQ5) by Malcolm Gladwell
+
 [The McKinsey Way](http://amzn.to/13wX56R) by Ethan Rasiel  
 
 [Ishmael: An Adventure of the Mind and Spirit](http://amzn.to/1fvckMM) by Daniel Quinn  
+
+[Unequal Childhoods: Class, Race, and Family Life](http://amzn.to/1qMVXEf) by Annette Lareau
 
 [Island](http://amzn.to/NBjuc0) by Aldous Huxley  
 
@@ -155,6 +159,29 @@ group: navigation
 [The Essential Ken Wilber: An Introductory Reader](http://amzn.to/1hGo3z4) by Ken Wilber  
 
 [A Brave New World](http://amzn.to/1fvcweP) by Aldous Huxley  
+
+[The Complete Works of Shakespeare](http://amzn.to/Yzk9kk)
+ by William Shakespeare  
+
+[The Essential Calvin and Hobbes](http://amzn.to/1qlAa97) by Bill Watterson
+
+[Attack of the Deranged Mutant Killer Monster Snow Goons (Calvin & Hobbes)](http://amzn.to/1sqdkg3) by Bill Watterson
+
+[The Indispensable Calvin and Hobbes: A Calvin and Hobbes Treasury](http://amzn.to/1pRZZay) by Bill Watterson
+
+[The Calvin and Hobbes Lazy Sunday Book](http://amzn.to/1rLMcnC) by Bill Watterson
+
+[The Calvin and Hobbes Tenth Anniversary Book](http://amzn.to/1rLMef5) by Bill Watterson
+
+[Something Under the Bed Is Drooling (Calvin and Hobbes)](http://amzn.to/1qMWhTz) by Bill Watterson
+
+[The Authoritative Calvin and Hobbes (A Calvin and Hobbes Treasury)](http://amzn.to/1qGAEp8) by Bill Watterson
+
+[The Days are Just Packed: A Calvin and Hobbes Collection](http://amzn.to/1nNkGVF) by Bill Watterson
+
+[There's Treasure Everywhere - A Calvin and Hobbes Collection](http://amzn.to/1qGAIVV) by Bill Watterson
+
+[Scientific Progress Goes 'Boink': A Calvin and Hobbes Collection](http://amzn.to/1ABuyrp) by Bill Watterson
 
 Yes, these are affiliate links. No, that is not the reason for this section; but, an afterthought. 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

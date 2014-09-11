@@ -11,7 +11,7 @@ This list is a WIP.
 * Award-winning  
 * High-touch  
 * All-in-one  
-* [Occupation]-recommmended (e.g. dentist-recommended; mommy-recommended)  
+* [occupation]-recommmended (e.g. dentist-recommended; mommy-recommended)  
 * [integer] out of [integer] [verb] [opinion] \(.e.g. 4 out of 4 dentists recommend\)  
 * Exclusive  
 * Game-changing  
@@ -19,11 +19,11 @@ This list is a WIP.
 * Reinventing  
 * Disrupting   
 * Next-gen  
-* Fundamentally changing the way [Noun] is done  
+* Fundamentally changing the way [noun] is done  
 * Turnkey  
 * Pain-free  
 * Revolutionary  
-* [Product] has turned [industry] on its head  
+* [product] has turned [industry] on its head  
 * Unheard of  
 * One of a kind  
 * Vintage  

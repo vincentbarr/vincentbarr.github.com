@@ -9,6 +9,8 @@ group: navigation
 
 ##Current  
 
+[What is a p-value anyway? 34 Stories to Help You Actually Understand Statistics](http://amzn.to/1ovU4Zr)
+
 [Ahead of All Parting: The Selected Poetry and Prose of Rainer Maria Rilke](http://amzn.to/1qiKVIu) by Rainer Maria Rilke  
 
 ##Past  

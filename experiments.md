@@ -7,7 +7,7 @@ group: navigation
 
 #Experiments
 
-I'm 33% more likely to commit to what it is that I set out to commit to when I write it down, or so says Robert Cialdini's [_Psychology of Influence_](http://www.amazon.com/Influence-Psychology-Persuasion-Business-Essentials/dp/006124189X). 
+I'm 33% more likely to fulfill a commitment when I write it down, or so says Robert Cialdini's [_Psychology of Influence_](http://www.amazon.com/Influence-Psychology-Persuasion-Business-Essentials/dp/006124189X). 
 
 But, I'm not actually writing my goals down, am I? I'm typing them.  
 

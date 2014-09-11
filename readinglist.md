@@ -58,7 +58,7 @@ group: navigation
 [How to Live: Or A Life of Montaigne in One Question and Twenty Attempts at an Answer](http://amzn.to/13wXo1u) by Sarah Bakewell  
 [Getting Things Done: The Art of Stress-Free Productivity](http://amzn.to/1ksAyfn) by David Allen  
 [The Elements of Style](http://amzn.to/17C2g2o) by William Strunk & E.B. White  
-[Dracula_](http://amzn.to/13KtVMc) by Bram Stoker  
+[Dracula](http://amzn.to/13KtVMc) by Bram Stoker  
 [The First 90 Days: Critical Success Strategies for New Leaders at All Levels](http://amzn.to/15Xw0nE) by Michael Watkins  
 [The Doors of Perception and Heaven and Hell](http://amzn.to/1eDDRLQ) by Aldous Huxley  
 [Bit Literacy](http://amzn.to/16UZNjn) by Mark Hurst  

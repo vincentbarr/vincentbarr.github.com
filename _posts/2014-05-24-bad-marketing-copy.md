@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A List of Words to Remove from Your Marketing Copy"
+title: "A List of Words and Phrases to Remove from Your Marketing Copy"
 category: growth
 excerpt: Exclusive, award-winning, high-touch and ...
 ---
@@ -12,13 +12,31 @@ This list is a WIP.
 * High-touch  
 * All-in-one  
 * [Occupation]-recommmended (e.g. dentist-recommended; mommy-recommended)  
+* [integer] out of [integer] [verb] [opinion] \(.e.g. 4 out of 4 dentists recommend\)  
 * Exclusive  
 * Game-changing  
 * High-performance  
-* Reinventing
-* Disrupting
-* [integer] out of [integer] [verb] [opinion] (.e.g. 4 out of 4 dentists recommend)  
+* Reinventing  
+* Disrupting   
 * Next-gen  
+* Fundamentally changing the way [Noun] is done  
+* Turnkey  
+* Pain-free  
+* Revolutionary  
+* [Product] has turned [industry] on its head  
+* Unheard of  
+* One of a kind  
+* Vintage  
+* Rare  
+* Stunning  
+* Staggering  
+* World-famous  
+* World-renowned
+* Season's hottest  
+* Ultimate  
+* Great  
+* Distinctive  
+* Top choice  
 
 What am I missing? 
 

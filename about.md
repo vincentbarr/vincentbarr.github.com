@@ -9,7 +9,7 @@ comments: false
 
 #Vincent Barr
 
-You can reach me at vincentvbarr@gmail.com.
+You can reach me at vincentvbarr at gmail dot com.
 
 ##n.
 a) Tinkerer, autodidact, reverse engineer-er-er with an appetite for interdisciplinarity (and pistachios, red ones).
@@ -22,9 +22,9 @@ d) Stockpiles midnight oil. Reads McSweeney’s for LOLz. Urbant art enthusiast 
 
 ##Work
 
-Thrilled to wear many hats and work with a smart, focused team as the Online Marketing Manager (and part product manager) for [MongoDB](http://www.mongodb.com), the company behind the [open-source, NoSQL database](http://www.mongodb.com/nosql-explained).
-
-More to come.  
+* MongoDB: Run paid customer acquisition, web analytics, and split testing to help MongoDB grow efficiently  
+* Consulting: Provide inbound marketing strategy, web analytics, split testing, and customer acquisition audits and strategy for clients ranging from venture-backed startups to magicians to a number of non-profits  
+* Analysis Exchange Project: Worked with a mentor to implement web analytics, efficient event tracking (Google Tag Manager + Link Click Listener + RegEx), and cross-domain tracking on FoodRescue.net; developed dashboards for executives, marketers, and paid search manager
 
 ##Certifications  
 
@@ -33,8 +33,16 @@ Google AdWords Advanced Search
 Google Digital Analytics Fundamentals  
 Google AdWords Advertising Fundamentals  
 
+##Platforms & Skills
+* Google AdWords, Analytics, Tag Manager, and Webmaster Tools  
+* Optimizely  
+* Excel  
+* Salesforce  
+* HTML, CSS, JavaScript & jQuery  
+* Drupal, WordPress, Jekyll  
+
 ##Writing  
-[The Deceptively Simple A/B Testing Mistake Quietly Killing Your Conversion Rates](http://unbounce.com/a-b-testing/simple-ab-testing-mistake-thats-killing-conversion-rates/) (Unbounce)  
+[The Deceptively Simple A/B Testing Mistake Quietly Killing Your Conversion Rates](http://unbounce.com/a-b-testing/simple-ab-testing-mistake-thats-killing-conversion-rates/)  
 [How to Build an A/B Testing Practice in 2 Hours](https://blog.paymill.com/ab-testing-2-hours/)  
 [Mock User Acquisition Campaign for Asana](http://www.slideshare.net/vincentbarr/mock-user-acquisition-marketing-plan)  
 

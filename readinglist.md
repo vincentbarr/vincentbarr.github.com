@@ -140,7 +140,7 @@ group: navigation
 
 [A Clockwork Orange](http://amzn.to/QmCJaR) by Anthony Burgess  
 
-[The McKinsey Way_](http://amzn.to/13wX56R) by Ethan Rasiel  
+[The McKinsey Way](http://amzn.to/13wX56R) by Ethan Rasiel  
 
 [Ishmael: An Adventure of the Mind and Spirit](http://amzn.to/1fvckMM) by Daniel Quinn  
 

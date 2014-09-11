@@ -205,7 +205,7 @@ td {
 /* Header */
 
 header {
-	background-color: aliceblue;
+	background-color: white;
 	color: #c30000;
   width:170px;
   height:100%;
@@ -354,7 +354,7 @@ footer {
 
   header {
     padding:10px 20px 0;
-    background-color:'aliceblue';
+    background-color:'white';
   }
 
 	section {

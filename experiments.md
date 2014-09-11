@@ -20,14 +20,13 @@ This section is both to document experiments and to increase the likelihood that
 ###Purpose
 1. Learn something.  
 2. Have answers to the following questions:  
-_2.1. Is there value in following 4 specific bloggers?  
-_2.2. Does this give me any insight into what subscriptions I can remove from my overwhelming list of RSS subscriptions (that I don't even look at)?  
-Update: Yes. Sorry, Moby. No go.  
-_2.3. Is regular readership of a small number of select blogs superior to 'sprawl', or discovering content via social media channels, news aggregators, and newsletters? If so, in what ways?  
-_2.4. Do I feel I learn and/or retain more about a subject when I read about it daily for 30 days?  
-_2.5. Is this something I should do more of?  
-_2.6. Is reading a blog for 5-7 days each day a good way to evaluate the quality of a feed and my interest in the subject?  
-_2.7. Will this make me a better writer?  (how to measure the quality of one's writing is another experiment entirely)  
+    2.1. Is there value in following 4 specific bloggers?  
+    2.2. Does this give me any insight into what subscriptions I can remove from my overwhelming list of RSS subscriptions (that I don't even look at)?  
+    2.3. Is regular readership of a small number of select blogs superior to 'sprawl', or discovering content via social media channels, news aggregators, and newsletters? If so, in what ways?  
+    2.4. Do I feel I learn and/or retain more about a subject when I read about it daily for 30 days?  
+    2.5. Is this something I should do more of?  
+    2.6. Is reading a blog for 5-7 days each day a good way to evaluate the quality of a feed and my interest in the subject?  
+    2.7. Will this make me a better writer?  (how to measure the quality of one's writing is another experiment entirely)  
 
 ###Assumptions:
 1. The authors produce thoughtful content  

@@ -63,9 +63,11 @@ Day 2:
 After 3 days, I knew whether I wanted to continue reading the author's blog. This made reading Moby's blog a chore (sorry, Moby), Altucher's exciting, and Avinash's exciting (though time-consuming - reasoning to come), and Google's somewhere in between exciting and a chore - maybe a necessary evil.  
 
 
-This made me realize that I bookmark blogs or add them to my RSS feed too quickly and on the basis of one interesting post (which is usually the one I'm most likely to discovered as it's probably the one being shared across X, Y, and Z social media platforms).  
+This made me realize that I bookmark blogs or add them to my RSS feed too quickly and on the basis of one interesting post.
 
-What Altucher and Avinash did extremely well was stay on track and incorporate information from past posts into their latest content. They're masters at luring you into a well-structured content library wherein current information relies on your understanding of past information, or lateral information, and so on. This is both blessing and curse for curious people. Both blogs typically frame the prior information in a positive way (i.e. recall from PREVIOUS, that you know how to do X; as opposted to, don't bother reading THIS until you've read PREVIOUS), but they still invoked that burning itch of "the more I know, the less I know." And I can't help but scratch.  
+Altucher and Avinash both stay on track and incorporate information from past posts into their latest content. They are masters at luring the reader into ther well-structured content library wherein current information relies on your understanding of relevant past information, and a complete understanding relies on lateral information. In other words, it's easy to go down a fact-filled rabbit hole; a blessing and a curse for the curious among us.
+
+Both blogs typically frame prior information positively. For example: 'recall from the Digital Marketing Measurement Model that...'. Compare this to what would be a negatively framed statement that more explicitly reminds us that as we seek to learn more we seek to realize we know less, for example: 'before reading on, you must have mastered the Digital Marketing Measurement Model.' The positive framing still invokes the curiosity sans guilt. 
 
 In response to the questions I hoped to answer:    
 **1. Is there value in following 4 specific bloggers?**    

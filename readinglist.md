@@ -17,7 +17,7 @@ group: navigation
 
 [A Wrinkle in Time: The Graphic Novel](http://amzn.to/1ssHu0I) by Hope Larson  
 
-[Decisive: How to Make Better Choices in Life and work](http://amzn.to/1u3Ldkb) by Chip Heath  
+[Decisive: How to Make Better Choices in Life and Work](http://amzn.to/1u3Ldkb) by Chip Heath  
 
 [DOM Scripting: Web Design with JavaScript and the Document Object Model](http://amzn.to/1nJspER) by Jeremy Keith  
 

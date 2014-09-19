@@ -21,7 +21,7 @@ This section is both to document experiments and to increase the likelihood that
 1. Learn something.  
 2. Have answers to the following questions:  
 
-      2.1. Is there value in following 4 specific bloggers?  
+    2.1. Is there value in following 4 specific bloggers?  
     2.2. Does this give me any insight into what subscriptions I can remove from my overwhelming list of RSS subscriptions (that I don't even look at)?  
     2.3. Is regular readership of a small number of select blogs superior to 'sprawl', or discovering content via social media channels, news aggregators, and newsletters? If so, in what ways?  
     2.4. Do I feel I learn and/or retain more about a subject when I read about it daily for 30 days?  

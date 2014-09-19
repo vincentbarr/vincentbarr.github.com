@@ -13,7 +13,7 @@ group: navigation
 [Ahead of All Parting: The Selected Poetry and Prose of Rainer Maria Rilke](http://amzn.to/1qiKVIu) by Rainer Maria Rilke  
 
 ##Past  
-[Chiggers](http://amzn.to/UTEr5Qa) by Hope Larson  
+[Chiggers](http://amzn.to/YWMTnn) by Hope Larson  
 
 [A Wrinkle in Time: The Graphic Novel](http://amzn.to/1ssHu0I) by Hope Larson  
 

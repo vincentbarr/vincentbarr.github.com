@@ -6,7 +6,7 @@ excerpt: 2014-08-05 - TBD
 ---
 {% include JB/setup %}
 
-[A Soft Murmer](http://asoftmurmur.com/index.html)  
+[A Soft Murmur](http://asoftmurmur.com/index.html)  
 
 [21 Ways to Minimize Employeee Retention](http://rustyrazorblade.com/2014/09/21-ways-to-minimize-employee-retention/) by  Jon Haddad  
 
@@ -18,7 +18,7 @@ excerpt: 2014-08-05 - TBD
 
 [Let's Kill the Job Title](http://99u.com/articles/31705/lets-kill-the-job-title) by Sean Blanda  
 
-America's Top Colleges Have a Rich-Kid Problem(http://www.theatlantic.com/business/archive/2013/05/americas-top-colleges-have-a-rich-kid-problem/276195/) by Jordan Weissmann  
+[America's Top Colleges Have a Rich-Kid Problem](http://www.theatlantic.com/business/archive/2013/05/americas-top-colleges-have-a-rich-kid-problem/276195/) by Jordan Weissmann  
 
 [Lil Wayne's Deposition](http://abovethelaw.com/2012/09/lil-wayne-is-quite-possibly-the-best-deponent-of-all-time/)
 

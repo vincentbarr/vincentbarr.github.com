@@ -6,6 +6,8 @@ excerpt: 2014-08-05 - TBD
 ---
 {% include JB/setup %}
 
+[A Soft Murmer](http://asoftmurmur.com/index.html)
+
 [21 Ways to Minimize Employeee Retention](http://rustyrazorblade.com/2014/09/21-ways-to-minimize-employee-retention/) by  Jon Haddad  
 
 [Metrics Debt](http://jamiequint.com/metrics-debt/) by Jamie Quint  

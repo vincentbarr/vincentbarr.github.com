@@ -6,17 +6,36 @@ excerpt: 2014-08-05 - TBD
 ---
 {% include JB/setup %}
 
-[A Soft Murmur](http://asoftmurmur.com/index.html)  
+[Applied Bayes' Theorem: Reading People](http://lesswrong.com/lw/2el/applied_bayes_theorem_reading_people/) by Kaj Sotala  
+Unreliable assumptions about people rely on limited observations (or data); more reliable assumptions seek patterns, extremes, and account for circumstances and context.  
 
-[21 Ways to Minimize Employeee Retention](http://rustyrazorblade.com/2014/09/21-ways-to-minimize-employee-retention/) by  Jon Haddad  
+[Transitional Interfaces](https://medium.com/@pasql/transitional-interfaces-926eb80d64e3) by Pasquale D'Silva  
+Motion, or movement in space over time, communicates information; 'easing' and 'cushioning' in interface animation provide contextual queues that us humans are familiar with and that help us to understand what happened, where we are, and where we can go next  
+
+[Watch Out for This Rock Paper Scissors Hustler Prowling Brooklyn Bars](http://gothamist.com/2014/09/23/rock_paper_scissors_hustler.php) by Cecilia D'Anastasio  
+Second-place Winner of the 2006 World Rock Paper Scissors Championship wins 84% of his matches (study conducted by Northeastern University), takes your money in 'Street RPS.'
+
+[A Soft Murmur](http://asoftmurmur.com/index.html) by Gabriel Martin  
+Web app: play, mix, and control volume of various ambient sounds (fireplace, thunder, crickets, waves)  
+
+[21 Ways to Minimize Employeee Retention](http://rustyrazorblade.com/2014/09/21-ways-to-minimize-employee-retention/) by Jon Haddad  
+Eliminate all privacy; adopt 'doom loops': start in a rush, complain about issues resulting from limited time/planning, spend time to fix issues, settle on a redo, and repeat the doom loop; and more.  
 
 [Metrics Debt](http://jamiequint.com/metrics-debt/) by Jamie Quint  
+Under-investment is metrics is rampant and causes problems: ad hoc analyses are slow/impossible/wrong; smart questions don't get asked  
 
 [Living Simply in a Dumpster](http://www.theatlantic.com/features/archive/2014/09/the-simple-life-in-a-dumpster/379947/) by James Hambling  
+Professor fashions 33-square-foot dumpster in to his apartment; claims life is better  
 
 [Spider-Man Unmasked! Elmo and Minnie, Too: The Lives Behind Times Square Cartoon Characters](http://www.nytimes.com/2014/08/03/nyregion/the-lives-behind-times-square-cartoon-characters.html) by Kirk Semple  
+US immigrants opt for work as costumed entertainers ($16/hour) over low-paying temporary jobs; identify as 'street artists'  
 
 [Let's Kill the Job Title](http://99u.com/articles/31705/lets-kill-the-job-title) by Sean Blanda  
+A flimsy take on why struggling to define what one does by title indicates that their role has yet to be codified and is somehow unique; fodder for people that identify as 'marketing ninjas', 'growth hackers', and the like.  
+
+<hr>
+_I've decided to write a brief summary of each item. In cases where I strongly disagree and feel that a summary endorses or misleads, I'll use my opinion instead. I'm working my way down the list._  
+<hr>
 
 [America's Top Colleges Have a Rich-Kid Problem](http://www.theatlantic.com/business/archive/2013/05/americas-top-colleges-have-a-rich-kid-problem/276195/) by Jordan Weissmann  
 

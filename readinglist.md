@@ -8,7 +8,9 @@ group: navigation
 
 ##Current  
 
-[What is a p-value anyway? 34 Stories to Help You Actually Understand Statistics](http://amzn.to/1ovU4Zr) by Andrew Vickers
+[What is a p-value anyway? 34 Stories to Help You Actually Understand Statistics](http://amzn.to/1ovU4Zr) by Andrew Vickers  
+
+[The Elements of User Onboarding](https://www.useronboard.com/training/) by Samuel Hulick  
 
 [Ahead of All Parting: The Selected Poetry and Prose of Rainer Maria Rilke](http://amzn.to/1qiKVIu) by Rainer Maria Rilke  
 

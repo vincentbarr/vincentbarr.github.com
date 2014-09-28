@@ -6,6 +6,9 @@ excerpt: 2014-08-05 - TBD
 ---
 {% include JB/setup %}
 
+[Why Scrum Should Basically Just Die in a Fire](http://gilesbowkett.blogspot.com.au/2014/09/why-scrum-should-basically-just-die-in.html) by Giles Bowkett  
+Scrum relies on playing an unbiased version of planning poker, which no one does; non-binding estimates are bound to performance metrics; or, a dog-and-pony show  
+
 [Applied Bayes' Theorem: Reading People](http://lesswrong.com/lw/2el/applied_bayes_theorem_reading_people/) by Kaj Sotala  
 Unreliable assumptions about people rely on limited observations (or data); more reliable assumptions seek patterns, extremes, and account for circumstances and context.  
 

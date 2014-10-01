@@ -1,10 +1,22 @@
 ---
 layout: post
-title: "Reading, Watching, Digesting"
+title: "Reading, Watching, Participating, Digesting"
 category: essais
 excerpt: 2014-08-05 - TBD
 ---
 {% include JB/setup %}
+
+[Exodus: Elon Musk argues that we must put a million people on Mars if we are to ensure that humanity has a future](http://aeon.co/magazine/technology/the-elon-musk-interview-on-mars/)  
+Thrilled read; "The absence of any noticeable life may be an argument in favour of us being in a simulation"  
+
+[ZapChain](http://www.zapchain.com/home/)  
+Social network for Bitcoin enthusiasts.  
+
+[The Best Stats You've Ever Seen](http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen#t-613190) by Hans Rosling  
+Animated charts demonstrate child survival rates are influenced by income, not region (such as third-world vs. first-world)  
+
+[Scared Shitless](https://www.youtube.com/watch?v=Lk0hSeQ5s_k) by Merlin Mann  
+We're all pretty damn scared much of the time.  
 
 [Why Scrum Should Basically Just Die in a Fire](http://gilesbowkett.blogspot.com.au/2014/09/why-scrum-should-basically-just-die-in.html) by Giles Bowkett  
 Scrum relies on playing an unbiased version of planning poker, which no one does; non-binding estimates are bound to performance metrics; or, a dog-and-pony show  
@@ -36,19 +48,24 @@ US immigrants opt for work as costumed entertainers ($16/hour) over low-paying t
 [Let's Kill the Job Title](http://99u.com/articles/31705/lets-kill-the-job-title) by Sean Blanda  
 A flimsy take on why struggling to define what one does by title indicates that their role has yet to be codified and is somehow unique; fodder for people that identify as 'marketing ninjas', 'growth hackers', and the like.  
 
-<hr>
-_I've decided to write a brief summary of each item. In cases where I strongly disagree and feel that a summary endorses or misleads, I'll use my opinion instead. I'm working my way down the list._  
-<hr>
-
 [America's Top Colleges Have a Rich-Kid Problem](http://www.theatlantic.com/business/archive/2013/05/americas-top-colleges-have-a-rich-kid-problem/276195/) by Jordan Weissmann  
+Education as a path to social mobility?; among America's most selective schools, 70% of students come from wealthiest quarter of US families, 14% come from poorest half  
 
-[Lil Wayne's Deposition](http://abovethelaw.com/2012/09/lil-wayne-is-quite-possibly-the-best-deponent-of-all-time/)
+[Lil Wayne's Deposition](http://abovethelaw.com/2012/09/lil-wayne-is-quite-possibly-the-best-deponent-of-all-time/)  
+Funny, at times  
 
 [Outcome Bias and the Interpreter: How Our Minds Confuse Skill and Luck](http://analystreports.som.yale.edu/internal/F2013/MJ/Outcome%20Bias%20and%20the%20Interpreter.pdf) by Michael Maouboussin and Dan Callahan  
+Outcome bias: we see an effect and we deduce a cause, even when we do not have the data or context to do so accurately; in other words, we make shit up; professionally, we confuse skill and luck;  
 
 [Bob Bergen Mimics Mel Blanc's Porky Pig](https://www.youtube.com/watch?v=lXC_j5QB6v8)  
+The method behind Porky Pig's speech patterns that, allegedly, most people can't replicate  
 
 [3 Tips for Better Product Descriptions](http://www.nngroup.com/articles/product-descriptions/) by Nielsen Norman Group  
+If you have multiple, similar offerings make sure users can compare them on the same plane; if you use jargon, explain it; better yet, don't use jargon  
+
+<hr>
+_I've decided to write a brief summary of each item. In cases where I strongly disagree and feel that a summary endorses or misleads, I'll use my opinion instead. I'm working my way down the list._  
+<hr>   
 
 [Robust Misinterpretation of Confidence Intervals](http://www.ejwagenmakers.com/inpress/HoekstraEtAlPBR.pdf) by Rink Hoekstra, Richard D. Morey, Jeffrey N. Rouder, Eric-Jan Wagenmakers  
 

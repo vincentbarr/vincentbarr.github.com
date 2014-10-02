@@ -6,6 +6,9 @@ excerpt: 2014-08-05 - TBD
 ---
 {% include JB/setup %}
 
+[t204 Mainframes Mopeds and Mischief A PenTesters Year in Review](https://www.youtube.com/watch?v=S-9Uk706wuc#t=1382) by Tyler Wrighston  
+Vulnz & lulz  
+
 [Exodus: Elon Musk argues that we must put a million people on Mars if we are to ensure that humanity has a future](http://aeon.co/magazine/technology/the-elon-musk-interview-on-mars/)  
 Thrilled read; "The absence of any noticeable life may be an argument in favour of us being in a simulation"  
 

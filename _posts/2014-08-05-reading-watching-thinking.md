@@ -10,7 +10,7 @@ excerpt: 2014-08-05 - TBD
 Vulnz & lulz  
 
 [Exodus: Elon Musk argues that we must put a million people on Mars if we are to ensure that humanity has a future](http://aeon.co/magazine/technology/the-elon-musk-interview-on-mars/)  
-Thrilling read; "The absence of any noticeable life [in the observable universe] may be an argument in favour of us being in a simulation"  
+Thrilling read; "The absence of any noticeable life [in the observable universe] may be an argument in favour of us being in a simulation."   
 
 [ZapChain](http://www.zapchain.com/home/)  
 Social network for Bitcoin enthusiasts.  

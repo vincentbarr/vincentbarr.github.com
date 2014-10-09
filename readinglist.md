@@ -28,6 +28,7 @@ group: navigation
 [The Bed of Procrustes: Philosophical and Practical Aphorisms](http://amzn.to/1lDQxG9) by Nassim Nicholas Taleb  
 
 [Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application](http://amzn.to/1lI6LQh) by Jason Fried  
+
 [Games People Play: The Basic Handbook to Transactional Analysis](http://amzn.to/1joCvak) by Eric Berne  
 
 [How to Win Every Argument: The Use and Abuse of Logic](http://amzn.to/1iRiRVy) by Madsen Pirie  
@@ -119,6 +120,7 @@ group: navigation
 [Envisioning Information](http://amzn.to/13wXeY3) by Edward Tufte  
 
 [DMT: The Spirit Molecule: A Doctor's Revolutionary Research into the Biology of Near-Death and Mystical Experiences](http://amzn.to/1fvcqUG) by Rick Strassman   
+[Influence: The Psychology of Persuasion](http://amzn.to/1sgiKeN) by Robert Cialdini  
 
 [Invisible Man](http://amzn.to/1et8po7) by Ralph Ellison  
 

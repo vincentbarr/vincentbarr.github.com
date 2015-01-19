@@ -2,7 +2,7 @@
 layout: post
 title: "What Would Your 10-year Old Self Have Loved to Do in NYC?"
 category: essais
-excerpt: Hidden rooms, tree houses, sidewalk chalk, Legos, and...
+excerpt: Hidden rooms, tree houses, sidewalk chalk, Legos, and ...
 ---
 {% include JB/setup %}
 

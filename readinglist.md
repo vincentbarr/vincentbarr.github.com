@@ -8,13 +8,18 @@ group: navigation
 
 ##Current  
 
-[What is a p-value anyway? 34 Stories to Help You Actually Understand Statistics](http://amzn.to/1ovU4Zr) by Andrew Vickers  
+[Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace)](http://amzn.to/1rBnw7v) by Chade-Meng Tan  
 
-[The Elements of User Onboarding](https://www.useronboard.com/training/) by Samuel Hulick  
+[The Elements of User Onboarding](https://www.useronboard.com/training/) by Samuel Hulick   
+
+##Past  
+
+[Presenting to Win: The Art of Telling Your Story](http://amzn.to/1BmN3Be) by Jerry Weissman   
+
+[What is a p-value Anyway? 34 Stories to Help You Actually Understand Statistics](http://amzn.to/1ovU4Zr) by Andrew Vickers  
 
 [Ahead of All Parting: The Selected Poetry and Prose of Rainer Maria Rilke](http://amzn.to/1qiKVIu) by Rainer Maria Rilke  
 
-##Past  
 [Chiggers](http://amzn.to/YWMTnn) by Hope Larson  
 
 [A Wrinkle in Time: The Graphic Novel](http://amzn.to/1ssHu0I) by Hope Larson  

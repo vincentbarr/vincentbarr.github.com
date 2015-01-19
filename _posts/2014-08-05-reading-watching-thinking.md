@@ -6,8 +6,57 @@ excerpt: 2014-08-05 - TBD
 ---
 {% include JB/setup %}
 
+
+[Alexis Ohanian: Sucking is the First Step to Being Sorta Good at Something](http://99u.com/videos/24311/alexis-ohanian-sucking-is-the-first-step-to-being-good-at-something)  
+A good video to watch when you're having a bout with imposter syndrome.   
+
+[Jeff Goldblum on miracle pill Waitmate](https://www.youtube.com/watch?v=Dbr7B1OVa0g)  
+There's a reason Jeff Goldblum has been featured as my Facebook photo for the past 3 years.  
+
+[The Dudley's](https://www.youtube.com/watch?v=hDXaS016fyA&feature=youtu.be&app=desktop) by Saturday Night Live  
+Looks like SNL is getting its groove back; a parody of American sitcoms and sensitivity.  
+
+[The Ascent of Alex Honnold](https://www.youtube.com/watch?v=SR1jwwagtaQ&app=desktop)  
+Free soloing is the art of climbing mountains without safety gear (no ropes, no harnesses), an art in which Alex (born 1985) is extremely, frighteningly proficient.  
+
+[What It's Like to Work for Stripe](http://blog.alexmaccaw.com/stripes-culture) by Alex MacCaw  
+Interesting: every email at Stripe is publicly available and every sent email CCs the entire company or a specific team.    
+
+[Shared Context in Product Development and the How of “Why”](http://venturegeneratedcontent.com/2013/07/16/shared-context-in-product-development-and-the-how-of-why/) by Satya Patel   
+Shared context is critical for aligning teams and helping them to be effective, efficient, and satisfied.  
+
+[First Off Freestyle](https://www.youtube.com/watch?v=6vBxowACVZE) by Svpreme  
+An impressive 17-year old female rapper (also known as a 'femcee')  
+
+[You Are Not Alone](https://www.youtube.com/watch?v=KW0kE6mucFY) by Mavis Staples & Jeff Tweedy  
+A nice folk song.  
+
+[15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg&feature=youtu.be&1)  
+Kind of mesmerizing, audibly and visually.    
+
+[Key Exchange](https://www.youtube.com/watch?v=U62S8SchxX4) by Christopher Bishop  
+Easy-to-understand video explanation of one method of secret key exchange.  
+
+[The End of Food](http://www.newyorker.com/magazine/2014/05/12/the-end-of-food) by Lizzie Widdicombe  
+A profile of Rob Rhinehart and his superfood Soylent.  
+
+[Design Club - Super Mario Bros: Level 1-1 - How Super Mario Mastered Level Design](https://www.youtube.com/watch?v=ZH2wGpEZVgE&app=desktop) by Dan Emmons  
+Awesome walk-through of how Level 1 in the Original Super Mario Brothers quickly educates the player on Mario's range of actions, what characters to avoid, and what objects to pursue without any explicit instructions or sacrifices in gameplay.  
+
+[The Future of Computers](https://www.youtube.com/watch?v=Iqg90Cq5Xfc) by Chris Bishop   
+Eloquent, engaging lecture on the ways in which we might accelerate the speed of computers.  
+
+[The Civilizaton Kit](http://www.newyorker.com/magazine/2013/12/23/the-civilization-kit) by Emily Eakin  
+The ups and downs of an experiment in Open Source Ecology.  
+
+[The Work Required to Have an Opinion](http://www.farnamstreetblog.com/2013/04/the-work-required-to-have-an-opinion/) by Shane Parrish  
+Good advice for everyone; “I never allow myself to have an opinion on anything that I don’t know the other side’s argument better than they do.” — Charlie Munger  
+
+[Who is Bozo Taxino?](https://www.youtube.com/watch?v=HgSRiJjmnYY)  
+Find out.
+
 [t204 Mainframes Mopeds and Mischief A PenTesters Year in Review](https://www.youtube.com/watch?v=S-9Uk706wuc#t=1382) by Tyler Wrighston  
-Vulnz & lulz  
+Vulnz & lulz.  
 
 [Exodus: Elon Musk argues that we must put a million people on Mars if we are to ensure that humanity has a future](http://aeon.co/magazine/technology/the-elon-musk-interview-on-mars/)  
 Thrilling read; "The absence of any noticeable life [in the observable universe] may be an argument in favour of us being in a simulation."   

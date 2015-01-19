@@ -9,17 +9,15 @@ comments: false
 </head>
 <h2 style="border: 0">Much like other human beings, I'm a human being.</h2>
 
-<p>Site is under development. <img src="/assets/images/Bear.png"> with me.</p>
+<p>I built this site on Jekyll, and it's under development. <img src="/assets/images/Bear.png"> with me.</p>
 
 ###Recent posts:
 
 {% for post in site.posts %}
 <ul class="posts">
-<p><h3><a href=" {{ post.url }} ">{{ post.title }}</a></h3>
+<p><h2><a href=" {{ post.url }} ">{{ post.title }}</a></h2>
 {{ post.excerpt }}</p>
 </ul>
 {% endfor %}
-
-_This site is a work in progress. I've built it on Jekyll & it's hosted on [GitHub](https://github.com/vincentbarr/vincentbarr.github.com)._
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

@@ -5,7 +5,7 @@ group: navigation
 comments: false
 ---
 {% include JB/setup %}
-![Calvin & Hobbes](/assets/images/calvin-hobbes-dino.png)
+<img src="/assets/images/calvin-hobbes-dino.png" style="width:650px" alt="Calvin &amp; Hobbes Dinosaur"; />
 
 #Vincent Barr
 
@@ -26,11 +26,12 @@ d) Stockpiles midnight oil. Reads McSweeney’s for LOLz. Urbant art enthusiast 
 * **Consulting**: Provide inbound marketing strategy, web analytics, split testing, and customer acquisition audits and strategy for clients ranging from venture-backed startups to magicians to a number of non-profits  
 * **Analysis Exchange**: Worked with a mentor to implement web analytics, efficient event tracking (Google Tag Manager + Link Click Listener + RegEx), and cross-domain tracking on FoodRescue.net; developed dashboards for executives, marketers, and paid search manager
 
-##Certifications  
-* Optimizely Platform Certification  
+##Certifications  & Smertifications  
+* Google Partner
 * Google AdWords Advanced Search  
 * Google Digital Analytics Fundamentals  
 * Google AdWords Advertising Fundamentals  
+* Optimizely Platform Certification  
 
 ##Platforms & Skills  
 * Google AdWords, Analytics, Tag Manager, and Webmaster Tools  

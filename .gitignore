@@ -1,5 +1,6 @@
 _site/*
 _theme_packages/*
+_site/s3_website.yml
 
 Thumbs.db
 .DS_Store

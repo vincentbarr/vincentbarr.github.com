@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html lang="en">
 
   {% include head.html %}
   {% include google_tagmanager.html %}
@@ -7,7 +7,7 @@
   <body>
 
     <div class="container content">
-      <div class="masthead">
+      <header class="masthead">
         <h3 class="masthead-title">
           <a href="/" title="Home">{{ site.title }}</a>
           
@@ -16,17 +16,20 @@
           {% endfor %}
         
         </h3>
-      </div>
+      </header>
       
-      {{ content }}
 
-      {% include comments.html %}
+      <main>
+        {{ content }}
 
-      <div class="footer">
-        <p>
+        {% include comments.html %}
+      </main>
+      
+      <footer class="footer">
+        <small>
           Like other human beings, I'm a human being.
-        </p>
-      </div>
+        </small>
+      </footer>
     </div>
 
   </body>

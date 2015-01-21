@@ -4,7 +4,6 @@ title: "Passion, Courage or Insanity? Man Climbs Mountain Really Fast (Without R
 category: essais
 excerpt: Finally, free of impedimenta at 400 feet.
 ---
-{% include JB/setup %}
 
 [Dan Osman](http://en.wikipedia.org/wiki/Dan_Osman), a free soloist rock climber, is an outlier.  
 

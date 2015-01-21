@@ -4,7 +4,6 @@ title: "On Expert Generalism, Blaise Pascal, and the Letter 'E'"
 category: essais
 excerpt: I'll buy the sideways 'E' for all of the money I have on this here LCD, thanks.
 ---
-{% include JB/setup %}
 
 Why is it that people are encouraged to develop experience in the shape of the letter ‘l'?  
 

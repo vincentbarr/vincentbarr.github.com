@@ -4,7 +4,6 @@ title: "How Pencils Are Sharpened"
 category: essais
 excerpt: See for yourself.
 ---
-{% include JB/setup %}
 
 ![Pencil sharpening](http://www.vincentbarr.com/assets/images/pencil-sharpening.gif)
 

@@ -4,7 +4,6 @@ title: "GrowHack Meetup with Ankur Nagpal"
 category: growth
 excerpt: Notes.
 ---
-{% include JB/setup %}
 
 06\.11\.13 [GrowHack Meetup with Ankur Nagpal](http://www.meetup.com/growhack/events/118236402/)
 

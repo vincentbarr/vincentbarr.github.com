@@ -4,7 +4,6 @@ title: "How the Pin Tumbler Lock Works"
 category: essais
 excerpt: Take a look.
 ---
-{% include JB/setup %}
 
 Like so:
 

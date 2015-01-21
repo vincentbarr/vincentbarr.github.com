@@ -4,8 +4,6 @@ title: "Larry Smith on Why You Will fail, Unless"
 category: essais
 excerpt: Passion, not to be confused with interest.
 ---
-{% include JB/setup %}
-
 
 >"There are great jobs and great careers, and then there are the high workload, high stress, blood-sucking , soul-destroying kinds of jobs and practically nothing in between..."
 

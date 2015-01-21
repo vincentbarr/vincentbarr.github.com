@@ -4,7 +4,6 @@ title: "A Collection of Terrible Marketing Emails with Explanations"
 category: growth
 excerpt: A demonstration of terrible design, copy, or both.
 ---
-{% include JB/setup %}
 
 I've gotten in the habit of collecting great emails. Ramit Sethi's subject lines and copy, Godin's ledes and concision, 99u's curation and summaries - they're all worth studying.  
 

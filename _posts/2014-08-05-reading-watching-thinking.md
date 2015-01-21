@@ -4,8 +4,6 @@ title: "Reading, Watching, Participating, Digesting"
 category: essais
 excerpt: 2014-08-05 - TBD
 ---
-{% include JB/setup %}
-
 
 [Alexis Ohanian: Sucking is the First Step to Being Sorta Good at Something](http://99u.com/videos/24311/alexis-ohanian-sucking-is-the-first-step-to-being-good-at-something)  
 A good video to watch when you're having a bout with imposter syndrome.   

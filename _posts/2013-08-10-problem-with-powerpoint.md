@@ -4,7 +4,6 @@ title: "The Problem with Lively Presentations and 'Killer' PowerPoint Slides"
 category: essais
 excerpt: "A Case for Text-Heavy Slides."
 ---
-{% include JB/setup %}
 
 People love their PowerPoints, so much so they write PowerPoint about PowerPoints.
 

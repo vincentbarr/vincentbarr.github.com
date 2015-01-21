@@ -4,7 +4,6 @@ title: "Sword Swallowing, Design Thinking, and Problem Solving"
 category: essais
 excerpt: See for yourself.
 ---
-{% include JB/setup %}
 
 Design thinking means starting with the problem.  
 

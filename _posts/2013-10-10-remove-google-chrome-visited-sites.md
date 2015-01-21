@@ -4,7 +4,6 @@ title: "Fix the Chrome Update That Displays Your Most Visited Sites"
 category: hacks
 excerpt: How to remove your most visited sites from appearing in new tabs in Chrome 30.0.1599.69.
 ---
-{% include JB/setup %}
 
 Google managed to sneak frequently visited sites back into Chrome. If you're like me and did away with this, then you're not thrilled with this view.
 

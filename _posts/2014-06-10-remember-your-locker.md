@@ -4,7 +4,6 @@ title: "Find Your Locker without Remembering Its Number"
 category: hacks
 excerpt: A useful mistake with a backpack.
 ---
-{% include JB/setup %}
 
 The Bermuda Triangle isn't all that different from a parking lot.
 

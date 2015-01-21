@@ -4,7 +4,6 @@ title: "On Comprehension, Persistence, and the Rear Naked Choke"
 category: essais
 excerpt: I'm fascinated by people who persevere.
 ---
-{% include JB/setup %}
 
 I'm fascinated by people who persevere.
 

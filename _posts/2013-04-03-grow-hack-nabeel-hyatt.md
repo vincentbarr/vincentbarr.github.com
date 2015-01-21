@@ -4,7 +4,6 @@ title: "GrowHack Meetup with Nabeel Hyatt"
 category: growth
 excerpt: Notes.
 ---
-{% include JB/setup %}
 
 04\.3\.13 [GrowHack Meetup with Nabeel Hyatt](http://www.meetup.com/growhack/events/104731492/)
 

@@ -4,7 +4,6 @@ title: "On 'Workaholics,' Work Ethic, and Motivation"
 category: essais
 excerpt: Do blood, sweat and tears indicate high performance?
 ---
-{% include JB/setup %}
 
 I’m a believer in ROWE (results oriented work environment). Performance should be measured in terms of results, not the hours it takes to accomplish results. It is peculiar how the number of hours it takes to perform a task -- or the time you arrive in the morning to the time you leave at night -- has a positive correlation with “work ethic” or “dedication.”
 

@@ -4,7 +4,6 @@ title: "Low-cost User Acquisition with Acquaintable"
 category: essais
 excerpt: Slightly more personal Facebook referrals.
 ---
-{% include JB/setup %}
 
 Just stumbled upon [Acquaintable](http://www.crunchbase.com/organization/acquaintable), an app that helps you meet friends of friends without any human introductions. The app relies on the Facebook API to make recommendations based on your location (and maybe a handful of other things I couldn’t extract from first use).  
 

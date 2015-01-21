@@ -4,8 +4,6 @@ title: "My First New York Tech Meetup"
 category: essais
 excerpt: What I found at NYTM.     
 ---
-{% include JB/setup %}
-
 
 I attended my first New York Tech Meetup last week and it rocked. I wrote more about it [here](http://blog.timesunion.com/albany/what-i-found-at-new-york-tech-meetup/).  
 

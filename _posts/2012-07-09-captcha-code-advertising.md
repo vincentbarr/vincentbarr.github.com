@@ -4,7 +4,6 @@ title: "Clever Branding with CAPTCHA Codes"
 category: essais
 excerpt: Making me say things I don't believe just to move ahead.
 ---
-{% include JB/setup %}
 
 They demand your focus and often require a little guesswork ('Is that an 'l' or an 'i'?)
 

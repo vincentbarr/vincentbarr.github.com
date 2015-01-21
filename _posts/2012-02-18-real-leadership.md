@@ -4,8 +4,6 @@ title: "What I Think Leadership Actually Looks Like"
 category: essais
 excerpt: Humility, fierce resolve, and such with Jim Collins. 
 ---
-{% include JB/setup %}
-
 
 I am a sucker for those numbered offering posts: “5 Tips to Help You  Melt Ice Quicker,” ” 3 People That You Should Never Let Mow Your Lawn,” and “Four Uses For A Paperclip (Other Than Clipping Paper!)” I fall for them. Hard.
 After skimming through one of them, it feels like a doctor taking the stethoscope away from my heart – or in this case, head – and saying, “Yes, son, your commonsense is alive and well. Stop visiting. Please.”  

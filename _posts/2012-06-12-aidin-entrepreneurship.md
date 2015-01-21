@@ -4,7 +4,6 @@ title: "Entrepreneurship, Innovative Business, You Entice Me"
 category: essais
 excerpt: An interview with Russ Graney, founder of medical startup Aidin.
 ---
-{% include JB/setup %}
 
 I’m against cross-posting and feel that, while [content may be like water](http://alistapart.com/article/for-a-future-friendly-web#section3), that doesn’t mean it’s cool to just go around splish-splashing it all over everything in sight. I’m also against disclaimers.
 And yet...

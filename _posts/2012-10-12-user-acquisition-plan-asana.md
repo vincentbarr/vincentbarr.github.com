@@ -4,7 +4,6 @@ title: "Mock User Acquisition Plan Based on Asana"
 category: growth
 excerpt: My final project at the close of Generall Assemb.ly's 10-week User Acquisiton course.
 ---
-{% include JB/setup %}
 
 At the close of my 10-week User Acquisition Marketing course at General Assembly, I was tasked with designing a feasible user acquisition plan with logical hypotheses. I chose to use [Asana](http://www.asana.com) as the subject of my mock plan. [\[1\]](#fn1)
 

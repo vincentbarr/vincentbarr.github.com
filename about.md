@@ -1,10 +1,8 @@
 ---
-layout: default
-title: "About"
-group: navigation
-comments: false
+layout: page
+title: About
 ---
-{% include JB/setup %}
+
 <img src="/assets/images/calvin-hobbes-dino.png" style="width:650px" alt="Calvin &amp; Hobbes Dinosaur"; />
 
 #Vincent Barr

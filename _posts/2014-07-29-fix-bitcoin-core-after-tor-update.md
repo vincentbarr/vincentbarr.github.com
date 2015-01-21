@@ -4,7 +4,6 @@ title: "Problem: After Upgrading to Tor Browser v3.6.3 on OS X Mavericks 10.9.4,
 category: essais
 excerpt: "Solution: Update bitcoin.conf."
 ---
-{% include JB/setup %}
 
 If you haven't upgraded to the [latest Tor Browser](https://www.torproject.org/download/download-easy.html.en), you should. 
 

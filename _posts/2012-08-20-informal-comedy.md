@@ -4,8 +4,6 @@ title: "Less Formal Comedy is Really Funny"
 category: essais
 excerpt: My favorite jokes are those told in 10th grade attire.
 ---
-{% include JB/setup %}
-
 
 Less formal than what you ask? Your mother, I say.
 

@@ -4,7 +4,6 @@ title: "Open Source Tech NYC 2013"
 category: growth
 excerpt: Notes.
 ---
-{% include JB/setup %}
 
 3\.30\.13 [Open Source Tech NYC 2013](http://www.opentech2013.org/)
 

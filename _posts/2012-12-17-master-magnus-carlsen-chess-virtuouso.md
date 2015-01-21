@@ -4,7 +4,6 @@ title: "On Mastery: Magnus Carlsen, Chess Virtuoso"
 category: essais
 excerpt: There are some people who do things particularly well, unlike others; they're masters of their trade.
 ---
-{% include JB/setup %}
 
 There are some people who do things particularly well, unlike others; they're masters of their trade. I'm fascinated by them.
 

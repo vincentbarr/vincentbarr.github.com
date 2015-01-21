@@ -4,7 +4,6 @@ title: "Bebo Founder's Founder Has a Good Sense of Humor"
 category: essais
 excerpt: Bebo Founder delivers an honest, hilarious product video.
 ---
-{% include JB/setup %}
 
 >The new Bebo will be very different from the old one. Will it work? Who knows. But one thing is for certain, it will be fun trying.
 >-Michael Birch, Bebo Founder

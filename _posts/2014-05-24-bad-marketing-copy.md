@@ -4,7 +4,6 @@ title: "A List of Words and Phrases to Remove from Your Marketing Copy"
 category: growth
 excerpt: Exclusive, award-winning, high-touch and ...
 ---
-{% include JB/setup %}
 
 This list is a WIP. 
 

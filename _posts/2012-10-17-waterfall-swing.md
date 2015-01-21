@@ -4,7 +4,6 @@ title: "Waterfall Swing"
 category: essais
 excerpt: I'd like to try this.  
 ---
-{% include JB/setup %}
 
 Presented at the [World Maker Faire](http://makerfaire.com), a swing that rains without getting the rider wet. Awesome.  
 

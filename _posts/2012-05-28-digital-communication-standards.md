@@ -4,6 +4,7 @@ title: "On the Importance of Digital Communication Standards"
 category: essais
 excerpt: Email etiquette, it's important.
 ---
+
 Can you imagine how much time, energy, and order a universal course on digital asset management and email etiquette would return?  
 
 I think it should be a requirement alongside Freshmen forum. Unnecessary CC’ing is unnecessary, yet there seems to be some grey tape around giving people candid feedback on their email practices.  

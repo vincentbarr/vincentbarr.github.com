@@ -1,4 +1,5 @@
 # Dependencies
+markdown:            redcarpet
 redcarpet:
   extensions: ["tables", "no_intra_emphasis"]
 highlighter:         pygments
@@ -25,14 +26,10 @@ author:
 version:             1.0.0
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: pygments
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Vincent Barr
-tagline : 'Curious'
-Author : Vincent Barr
 name: vincent barr
 email : vincentvbarr@gmail.com
 github : vincentbarr

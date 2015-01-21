@@ -4,7 +4,6 @@ title: "Gac Filipaj: Unfortunately, an Education Outlier"
 category: essais
 excerpt: Like so...
 ---
-{% include JB/setup %}
 
 >“The richness is in me, in my heart and in my head, not in my pockets.”
 >_[Gac Filipaj](http://news.yahoo.com/ivy-league-school-janitor-graduates-honors-182936684.html), first-generation Yugoslavian immigrant and janitor turned Columbia University graduate_

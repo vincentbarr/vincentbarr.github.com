@@ -4,7 +4,6 @@ title: "Rubbish Tennis, Anyone?"
 category: essais
 excerpt: "What an exercise in passive aggression."
 ---
-{% include JB/setup %}
 
 What an exercise in passive aggression.
 

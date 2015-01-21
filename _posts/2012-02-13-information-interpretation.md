@@ -4,7 +4,6 @@ title: "Information for Interpretation"
 category: essais
 excerpt: On using graphics as narrative.  
 ---
-{% include JB/setup %}
 
 Visual journalism, developing ideas, content, and form. Design.  
 

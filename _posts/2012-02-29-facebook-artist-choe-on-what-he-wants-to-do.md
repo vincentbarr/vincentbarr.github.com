@@ -4,7 +4,6 @@ title: "Choe on Doing What He Wants to Do"
 category: essais
 excerpt: The graffiti artist, art school dropout, and gambler behind Facebook's early office murals.
 ---
-{% include JB/setup %}
 
 Back when Facebook wasn’t a household name, Sean Parker & Mark Zuckerberg sought out [artist David Choe](http://davidchoe.com/) to pretty the ol’ office up with spraypaint.
 

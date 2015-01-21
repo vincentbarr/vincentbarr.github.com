@@ -4,7 +4,6 @@ title: "The Universe, Perspective"
 category: essais
 excerpt: Take a second.   
 ---
-{% include JB/setup %}
 
 Humbling. Some other things, too.  
 

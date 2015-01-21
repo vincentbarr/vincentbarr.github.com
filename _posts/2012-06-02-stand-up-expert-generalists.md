@@ -4,7 +4,6 @@ title: "Generalists, Stand Up"
 category: essais
 excerpt: Another 
 ---
-{% include JB/setup %}
 
 When is the last time you made any substantial contribution using just one skill?
 

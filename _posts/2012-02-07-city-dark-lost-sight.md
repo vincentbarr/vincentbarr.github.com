@@ -4,8 +4,6 @@ title: "The City Dark: What Happens When We Lose Sight of Night"
 category: essais
 excerpt: Should believeing require seeing?  
 ---
-{% include JB/setup %}
-
 
 Just learned of [THE CITY DARK](http://www.thecitydark.com), and just missed the last screenings at the IFC Center. Bummer.  
 

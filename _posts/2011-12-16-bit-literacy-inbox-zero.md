@@ -4,8 +4,6 @@ title: "Hitting Inbox 0 for the Very First Time"
 category: essais
 excerpt: What Inbox Nirvana Feels Like
 ---
-{% include JB/setup %}
-
 
 Experience design entrepreneur Mark Hurst's wrote [_Bit Literacy_](http://amzn.to/16UZNjn) urged me to ‘achieve emptiness,’ or reduce my email inbox count to 0.  
 

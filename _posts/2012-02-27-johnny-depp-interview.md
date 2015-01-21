@@ -4,7 +4,6 @@ title: "A Humble Johnny Depp"
 category: essais  
 excerpt: How a modest Depp responds to being called 'shy' in a 1993 interview. 
 ---
-{% include JB/setup %}
 
 Many people find celebrity culture to be pretty interesting stuff. While that has never been my thing, I was interested to learn two things about [Johnny Depp](http://en.wikipedia.org/wiki/Johnny_Depp). The first being that he dropped out of high school to pursue his passion in music and start a band. Years later his acting career would emerge, and really out of serendipity.
 

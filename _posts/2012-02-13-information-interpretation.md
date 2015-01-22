@@ -2,7 +2,8 @@
 layout: post
 title: "Information for Interpretation"
 category: essais
-excerpt: On using graphics as narrative.  
+excerpt: On using graphics as narrative.
+comments: true
 ---
 
 Visual journalism, developing ideas, content, and form. Design.  

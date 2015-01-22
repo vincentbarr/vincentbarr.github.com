@@ -3,6 +3,7 @@ layout: post
 title: "On Praxis: User Acquisition Marketing at General Assembly"
 category: essais
 excerpt: Balancing theory and application for effective leaarning.
+comments: true
 ---
 
 I’m not much for horse races, but I’m in the home stretch in my [User Acquisition Marketing class at General Assembly](https://generalassemb.ly/learn/digital-marketing). (How terrible was that?)

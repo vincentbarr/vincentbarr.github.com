@@ -2,7 +2,8 @@
 layout: post
 title: "It’s 1997 and You’re Surrounded by Long-Haired White Guys in Backpacks"  
 category: essais
-excerpt: HOPE, Theo de Raadt, and Kevin Mitnick.   
+excerpt: HOPE, Theo de Raadt, and Kevin Mitnick.
+comments: true
 ---
 
 [Theo de Raadt](http://en.wikipedia.org/wiki/Theo_de_Raadt) on computer software and security, circa 1997 at a [Hackers on Planet Earth conference](http://blip.tv/2600magazine/beyond-hope-1997-cdc-and-world-domination-5799413).  

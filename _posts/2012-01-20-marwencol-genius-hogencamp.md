@@ -2,7 +2,8 @@
 layout: post
 title: "Misfortune and Genius: Storytelling with Toy Soldiers"
 category: essais
-excerpt: Mark Hogencamp, a man who deserves more than an excerpt.  
+excerpt: Mark Hogencamp, a man who deserves more than an excerpt.
+comments: true
 ---
 
 [Mark Hogencamp](http://www.marwencol.com/) had a near-death experience in Kingston, New York (of all places). After revealing that he was a cross-dresser, a group of 5 men attacked him, leaving him with brain-damage, post-traumatic stress disorder, and a memory wiped completely clean.  

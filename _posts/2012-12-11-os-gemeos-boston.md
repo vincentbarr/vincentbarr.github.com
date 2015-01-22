@@ -2,7 +2,8 @@
 layout: post
 title: "Os Gemeos in Boston, Urban Art from Spain"
 category: essais
-excerpt: South Station, please whisper in Penn Station's ear. 
+excerpt: South Station, please whisper in Penn Station's ear.
+comments: true
 ---
 
 As an urban art enthusiast, I was pretty happy to see a huge Os Gemeos painting as I exited South Station in Boston, MA. I was also happy to be exiting South Station.

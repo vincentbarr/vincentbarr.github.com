@@ -3,6 +3,7 @@ layout: post
 title: "How the Pin Tumbler Lock Works"
 category: essais
 excerpt: Take a look.
+comments: true
 ---
 
 Like so:

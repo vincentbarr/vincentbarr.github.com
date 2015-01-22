@@ -3,6 +3,7 @@ layout: post
 title: "Henry Rollins on Dating and When She's (gasp) 'Not a Reader'"
 category: essais
 excerpt: The weighted questions we use to judge our prospective other half.
+comments: true
 ---
 
 We all have our dualities, but Rollins's are either more interesting2012-05-26-why-do-anything-by-half, or more present.  

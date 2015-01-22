@@ -3,6 +3,7 @@ layout: post
 title: "On the Importance of Digital Communication Standards"
 category: essais
 excerpt: Email etiquette, it's important.
+comments: true
 ---
 
 Can you imagine how much time, energy, and order a universal course on digital asset management and email etiquette would return?  

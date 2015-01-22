@@ -3,6 +3,7 @@ layout: post
 title: "The Best Responses to 'You Don't Talk Much'"
 category: essais
 excerpt: Two ears, one mouth...
+comments: true
 ---
 
 ![Responses to 'You Don't Talk Much'](http://www.vincentbarr.com/assets/images/communication-response.png)

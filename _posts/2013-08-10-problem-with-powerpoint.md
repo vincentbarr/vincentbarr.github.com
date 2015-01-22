@@ -2,7 +2,8 @@
 layout: post
 title: "The Problem with Lively Presentations and 'Killer' PowerPoint Slides"
 category: essais
-excerpt: "A Case for Text-Heavy Slides."
+excerpt: A Case for Text-Heavy Slides.
+comments: true
 ---
 
 People love their PowerPoints, so much so they write PowerPoint about PowerPoints.

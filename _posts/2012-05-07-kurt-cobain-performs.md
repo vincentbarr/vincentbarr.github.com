@@ -3,6 +3,7 @@ layout: post
 title: "Why Is Kurt Cobain the Only One Doing This?"
 category: essais
 excerpt: And what I mean by this is...
+comments: true
 ---
 
 He's having fun. He's not reciting a routine. Less ballet, more improv. 

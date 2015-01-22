@@ -2,7 +2,8 @@
 layout: post
 title: "Photo History of Canal Street's 'Ledge' (1999 - 2012)"
 category: essais
-excerpt: See the evidence.   
+excerpt: See the evidence.
+comments: true
 ---
 
 [13 years, 11 artists, 9 pieces, 1 ledge](http://www.12ozprophet.com/index.php/news/history-of-the-spot-canal-street-ledge).  

@@ -3,6 +3,7 @@ layout: post
 title: "Passion, Courage or Insanity? Man Climbs Mountain Really Fast (Without Rope)"
 category: essais
 excerpt: Finally, free of impedimenta at 400 feet.
+comments: true
 ---
 
 [Dan Osman](http://en.wikipedia.org/wiki/Dan_Osman), a free soloist rock climber, is an outlier.  

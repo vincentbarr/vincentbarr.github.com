@@ -2,7 +2,8 @@
 layout: post
 title: "The Universe, Perspective"
 category: essais
-excerpt: Take a second.   
+excerpt: Take a second.
+comments: true
 ---
 
 Humbling. Some other things, too.  

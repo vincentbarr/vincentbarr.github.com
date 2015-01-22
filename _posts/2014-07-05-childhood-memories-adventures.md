@@ -3,6 +3,7 @@ layout: post
 title: "What Would Your 10-year Old Self Have Loved to Do in NYC?"
 category: essais
 excerpt: Hidden rooms, tree houses, sidewalk chalk, Legos, and ...
+comments: true
 ---
 
 As a 10-year old, I had always wanted to discover a small crawlspace in my parent's closet that would lead into an underground tunnel and exit into a safe, secluded place in the forest; you know, in case the bad guys ever came. Or in case I ever just wanted to venture off. 

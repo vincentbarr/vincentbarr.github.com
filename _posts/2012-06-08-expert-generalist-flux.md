@@ -2,7 +2,8 @@
 layout: post
 title: "Enter, Innovation. Exit, Status Quo. Thank You, G-Flux"
 category: essais
-excerpt: Multidisciplinarian, polymathic, autodidactics people. Rock.   
+excerpt: Multidisciplinarian, polymathic, autodidactics people. Rock.
+comments: true
 ---
 
 An [exhilirating article for the expert generalist](http://www.fastcompany.com/1802732/generation-flux-meet-pioneers-new-and-chaotic-frontier-business), and a snippet:  

@@ -3,6 +3,7 @@ layout: post
 title: "5 Things I Learned This Week"
 category: essais
 excerpt: Premeditating evils; if New york's Financial District were a website; Hazel + Exobrain + 90M + Me...
+comments: true
 ---
 
 In no particular order, a handful of things that I learned this week:

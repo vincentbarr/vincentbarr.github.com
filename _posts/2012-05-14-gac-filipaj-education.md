@@ -3,6 +3,7 @@ layout: post
 title: "Gac Filipaj: Unfortunately, an Education Outlier"
 category: essais
 excerpt: Like so...
+comments: true
 ---
 
 >“The richness is in me, in my heart and in my head, not in my pockets.”

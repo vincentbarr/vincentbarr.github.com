@@ -3,6 +3,7 @@ layout: post
 title: "Modest, Passionate Genius"
 category: essais
 excerpt: Ladies and gentlemen, Mr. Richard Feynman
+comments: true
 ---
 
 A fascinating exploration of the exceptional, curious, and modest mind and character of physicist Richard Feynman.

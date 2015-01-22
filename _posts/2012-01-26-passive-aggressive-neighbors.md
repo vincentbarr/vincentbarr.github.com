@@ -2,7 +2,8 @@
 layout: post
 title: "Rubbish Tennis, Anyone?"
 category: essais
-excerpt: "What an exercise in passive aggression."
+excerpt: What an exercise in passive aggression.
+comments: true
 ---
 
 What an exercise in passive aggression.

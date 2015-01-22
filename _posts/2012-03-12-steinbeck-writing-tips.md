@@ -3,6 +3,7 @@ layout: post
 title: "6 Writing Tips from John Steinbeck"
 category: essais
 excerpt: 1. Write freely. 2. Write to someone you know.
+comments: true
 ---
 
 Brain Pickings has become one of my favorite newsletters. It's as handy for discovering books and authors to read as it is for discovering those to avoid, which is worth something because [our time is worth something](http://en.wikipedia.org/wiki/Opportunity_cost).  

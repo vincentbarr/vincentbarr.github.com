@@ -3,6 +3,7 @@ layout: post
 title: "How Pencils Are Sharpened"
 category: essais
 excerpt: See for yourself.
+comments: true
 ---
 
 ![Pencil sharpening](http://www.vincentbarr.com/assets/images/pencil-sharpening.gif)

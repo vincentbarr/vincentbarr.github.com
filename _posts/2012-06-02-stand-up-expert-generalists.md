@@ -2,7 +2,8 @@
 layout: post
 title: "Generalists, Stand Up"
 category: essais
-excerpt: Another 
+excerpt: Another
+comments: true
 ---
 
 When is the last time you made any substantial contribution using just one skill?

@@ -2,7 +2,8 @@
 layout: post
 title: "Real, Fake-Looking People"
 category: essais
-excerpt: Alexa Meade's unique approach to installation art.     
+excerpt: Alexa Meade's unique approach to installation art.
+comments: true
 ---
 
 Such a cool approach to installation art: painting people on people.

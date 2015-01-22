@@ -3,6 +3,7 @@ layout: post
 title: "Bridge = Design + Utility + Risk"
 category: essais
 excerpt: Picture creating a work that can support the wear of tens of people driving tons of steel over it everyday day in, and day out...
+comments: true
 ---
 
 Architecture is a craft that comes with a lot of responsibility.  Take the bridge, for example. It's at the intersection of design, utility, and risk.

@@ -3,6 +3,7 @@ layout: post
 title: "Don't Wonder About People"
 category: essais
 excerpt: Wonder where you left your keys; don't wonder what a person is like.
+comments: true
 ---
 
 When you read a good book, you wonder about the author. When you read about someone doing the something that you're really interested in, really well, you wonder about that person. You probably have questions for them.  

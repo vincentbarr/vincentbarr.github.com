@@ -2,7 +2,8 @@
 layout: post
 title: "Bret Easton Ellis Fans, We Have Reservations for Two"
 category: essais
-excerpt: Two for Dorsia at 9pm, Friday. Perfect.  
+excerpt: Two for Dorsia at 9pm, Friday. Perfect.
+comments: true
 ---
 
 I’ll admit it: I’ve watched American Psycho an unhealthy number of times.  

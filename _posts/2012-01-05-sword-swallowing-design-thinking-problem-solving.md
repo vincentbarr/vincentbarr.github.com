@@ -3,6 +3,7 @@ layout: post
 title: "Sword Swallowing, Design Thinking, and Problem Solving"
 category: essais
 excerpt: See for yourself.
+comments: true
 ---
 
 Design thinking means starting with the problem.  

@@ -3,6 +3,7 @@ layout: post
 title: "Modern Appliances + Wilderness = Neat"
 category: essais
 excerpt: Light is important.
+comments: true
 ---
 
 I recently discovered the art and design blog [Collosal](http://www.thisiscolossal.com/), as well as [artist Rune Guneriussen](http://www.runeguneriussen.no/).  

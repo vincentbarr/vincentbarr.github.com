@@ -3,6 +3,7 @@ layout: post
 title: "On Social Innovation: Mine Kafone, Affordable Seek-and-Destroy; Why PlayPump Failed"
 category: essais
 excerpt: A surprisingly attractive mine detonation 'toy' and why  a well-funded PlayPump failed.
+comments: true
 ---
 
 I commend [GE's Focus Forward Films series](http://focusforwardfilms.com).

@@ -3,6 +3,7 @@ layout: post
 title: "Why Do Anything by Half?"
 category: essais
 excerpt: Ladies and gentlemen, Mr. Richard Feynman
+comments: true
 ---
 
 Why do it by half?

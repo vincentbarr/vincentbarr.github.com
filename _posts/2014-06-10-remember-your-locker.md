@@ -3,6 +3,7 @@ layout: post
 title: "Find Your Locker without Remembering Its Number"
 category: hacks
 excerpt: A useful mistake with a backpack.
+comments: true
 ---
 
 The Bermuda Triangle isn't all that different from a parking lot.

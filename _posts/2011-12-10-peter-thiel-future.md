@@ -3,6 +3,7 @@ layout: post
 title: "Peter Thiel on the Future"
 category: essais
 excerpt: Peter Thiel's take on a few interesting topics.  
+comments: true
 ---
 
 Venture capitalist, hedge fund manager, and intellectual Peter Thiel compares the future of technology with what we have currently, and what is required for the US to produce new jobs in his [interview with George Packer](http://www.newyorker.com/reporting/2011/11/28/111128fa_fact_packer).  

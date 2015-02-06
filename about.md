@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: about/
 ---
 
 <img src="/assets/images/calvin-hobbes-dino.png" style="width:650px" alt="Calvin &amp; Hobbes Dinosaur"; />

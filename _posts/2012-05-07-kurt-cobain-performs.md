@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Why Is Kurt Cobain the Only One Doing This?"
-category: essais
 alias: /essais/2012-05-07-kurt-cobain-performs/
 excerpt: And what I mean by this is...
 comments: true

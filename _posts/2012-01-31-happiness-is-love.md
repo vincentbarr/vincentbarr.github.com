@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Happiness is Love - and $75,000"
-category: essais
 alias: /esssais/2012-01-31-happiness-is-love/
 excerpt: After $75K, you'll have to find your happiness elsewhere.
 comments: true

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "On Social Innovation: Mine Kafone, Affordable Seek-and-Destroy; Why PlayPump Failed"
-category: essais
 alias: /essais/2012-11-20-social-innovation-hassani-mine-kafone/
 excerpt: A surprisingly attractive mine detonation 'toy' and why  a well-funded PlayPump failed.
 comments: true

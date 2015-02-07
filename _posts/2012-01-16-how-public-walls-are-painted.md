@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "How Movie Trailers are Painted"
-category: etc
 alias: /etc/2012-01-16-how-public-walls-are-painted/
 excerpt: See for yourself.
 comments: true

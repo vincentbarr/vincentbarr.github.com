@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A List of Words and Phrases to Remove from Your Marketing Copy"
-category: growth
 alias: /growth/2014-05-24-bad-marketing-copy/
 excerpt: Exclusive, award-winning, high-touch and ...
 comments: true

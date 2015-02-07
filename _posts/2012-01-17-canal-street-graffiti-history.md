@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Photo History of Canal Street's 'Ledge' (1999 - 2012)"
-category: essais
 excerpt: See the evidence.
 alias: /essais/2012-01-17-canal-street-graffiti-history/
 comments: true

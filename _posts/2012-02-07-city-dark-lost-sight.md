@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The City Dark: What Happens When We Lose Sight of Night"
-category: essais
 alias: /essais/2012-02-07-city-dark-lost-sight/
 excerpt: Should believeing require seeing?
 comments: true

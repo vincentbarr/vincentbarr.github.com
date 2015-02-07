@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "What Would Your 10-year Old Self Have Loved to Do in NYC?"
-category: essais
 alias: /essais/2014-07-05-childhood-memories-adventures/
 excerpt: Hidden rooms, tree houses, sidewalk chalk, Legos, and ...
 comments: true

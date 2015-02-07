@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Peter Thiel on the Future"
-category: essais
 alias: /essais/2011-12-10-peter-thiel-future/
 excerpt: Peter Thiel's take on a few interesting topics.  
 comments: true

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "On Comprehension, Persistence, and the Rear Naked Choke"
-category: essais
 alias: /essais/2013-01-13-comprehension-persistence-rear-naked-choke/
 excerpt: I'm fascinated by people who persevere.
 comments: true

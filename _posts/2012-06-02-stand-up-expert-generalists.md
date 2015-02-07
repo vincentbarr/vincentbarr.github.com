@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Generalists, Stand Up"
-category: essais
 alias: /essais/2012-06-02-stand-up-expert-generalists/
 excerpt: Another
 comments: true

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Latest Internet Explorer Ad is... Awesome?"
-category: growth
 alias: /growth/2013-01-25-internet-explorer-ad/
 excerpt: Microsft has us 80s babes in its crosshairs.
 comments: true

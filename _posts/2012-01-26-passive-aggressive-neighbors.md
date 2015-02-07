@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Rubbish Tennis, Anyone?"
-category: essais
 alias: /essais/2012-01-26-passive-aggressive-neighbors/
 excerpt: What an exercise in passive aggression.
 comments: true

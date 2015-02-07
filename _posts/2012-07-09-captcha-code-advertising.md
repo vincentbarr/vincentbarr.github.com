@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Clever Branding with CAPTCHA Codes"
-category: essais
 alias: /essais/2012-07-09-captcha-code-advertising/
 excerpt: Making me say things I don't believe just to move ahead.
 comments: true

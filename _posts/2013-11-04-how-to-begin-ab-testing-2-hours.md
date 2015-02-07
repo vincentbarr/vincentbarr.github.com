@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "How to Build an A/B Testing Practice in 2 Hours"
-category: growth
 alias: /growth/2013-11-04-how-to-begin-ab-testing-2-hours/
 excerpt: Guest Post at Paymill.
 comments: true

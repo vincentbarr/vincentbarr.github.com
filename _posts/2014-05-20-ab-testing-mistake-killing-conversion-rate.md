@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Deceptively Simple A/B Testing Mistake Quietly Killing Your Conversion Rates"
-category: growth
 alias: /growth/2014-05-20-ab-testing-mistake-killing-conversion-rate/
 excerpt: Guest Post at Unbounce.
 comments: true

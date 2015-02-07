@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A Humble Johnny Depp"  
-category: essais
 alias: /essais/2012-02-27-johnny-depp-interview/
 excerpt: How a modest Depp responds to being called 'shy' in a 1993 interview.
 comments: true

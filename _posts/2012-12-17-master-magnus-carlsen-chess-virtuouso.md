@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "On Mastery: Magnus Carlsen, Chess Virtuoso"
-category: essais
 alias: /essais/2012-12-17-master-magnus-carlsen-chess-virtuouso/
 excerpt: There are some people who do things particularly well, unlike others; they're masters of their trade.
 comments: true

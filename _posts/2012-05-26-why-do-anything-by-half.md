@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Why Do Anything by Half?"
-category: essais
 alias: /essais/2012-05-26-why-do-anything-by-half/
 excerpt: Ladies and gentlemen, Mr. Richard Feynman
 comments: true

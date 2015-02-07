@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Information for Interpretation"
-category: essais
 alias: /essais/2012-02-13-information-interpretation/
 excerpt: On using graphics as narrative.
 comments: true

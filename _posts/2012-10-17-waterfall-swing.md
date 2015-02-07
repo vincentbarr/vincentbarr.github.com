@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Waterfall Swing"
-category: essais
 alias: /essais/2012-10-17-waterfall-swing/
 excerpt: I'd like to try this.
 comments: true

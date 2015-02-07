@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Choe on Doing What He Wants to Do"
-category: essais
 alias: /essais/2012-02-29-facebook-artist-choe-on-what-he-wants-to-do/
 excerpt: The graffiti artist, art school dropout, and gambler behind Facebook's early office murals.
 comments: true

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Universe, Perspective"
-category: essais
 alias: /essais/2012-02-05-perspective-universe/
 excerpt: Take a second.
 comments: true

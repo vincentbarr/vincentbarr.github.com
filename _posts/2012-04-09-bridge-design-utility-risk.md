@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Bridge = Design + Utility + Risk"
-category: essais
 alias: /essais/2012-04-09-bridge-design-utility-risk/
 excerpt: Picture creating a work that can support the wear of tens of people driving tons of steel over it everyday day in, and day out...
 comments: true

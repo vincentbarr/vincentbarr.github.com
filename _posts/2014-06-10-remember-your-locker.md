@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Find Your Locker without Remembering Its Number"
-category: hacks
 alias: /hacks/2014-06-10-remember-your-locker/
 excerpt: A useful mistake with a backpack.
 comments: true

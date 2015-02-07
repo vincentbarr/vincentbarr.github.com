@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "On the Importance of Digital Communication Standards"
-category: essais
 alias: /essais/2012-05-28-digital-communication-standards/
 excerpt: Email etiquette, it's important.
 comments: true
@@ -19,7 +18,7 @@ A few rules from Email Charter:
 > Let’s mutually agree to cut each other some slack … We just want our lives back.  
 
 >**3.  Celebrate Clarity**  
->Start with a subject line that clearly labels the topic, and maybe includes a status category [Info], [Action], [Time Sens], [Low Priority]. Use crisp, muddle-free sentences. If the email has to be longer than five sentences, make sure the first provides the basic reason for writing.  
+>Start with a subject line that clearly labels the topic, and maybe includes a status  [Info], [Action], [Time Sens], [Low Priority]. Use crisp, muddle-free sentences. If the email has to be longer than five sentences, make sure the first provides the basic reason for writing.  
 
 >**5.  Slash Surplus cc’s**  
 >CC’s are like mating bunnies. For every recipient you add, you are dramatically multiplying total response time. Not to be done lightly.  

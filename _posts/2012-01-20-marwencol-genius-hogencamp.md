@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Misfortune and Genius: Storytelling with Toy Soldiers"
-category: essais
 alias: /essais/2012-01-20-marwencol-genius-hogencamp/
 excerpt: Mark Hogencamp, a man who deserves more than an excerpt.
 comments: true

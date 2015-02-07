@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Os Gemeos in Boston, Urban Art from Spain"
-category: essais
 alias: /essais/2012-12-11-os-gemeos-boston/
 excerpt: South Station, please whisper in Penn Station's ear.
 comments: true

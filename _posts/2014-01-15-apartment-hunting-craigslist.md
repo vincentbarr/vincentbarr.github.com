@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Adventures in Finding a Craigslist Roommate"
-category: essais
 alias: /essais/2014-01-15-apartment-hunting-craigslist/
 excerpt: Three interesting and - presumably - real listings.
 comments: true

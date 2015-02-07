@@ -2,6 +2,7 @@
 layout: post
 title: "Modest, Passionate Genius"
 category: essais
+alias: /essais/2011-12-31-modest-passionate-genius/
 excerpt: Ladies and gentlemen, Mr. Richard Feynman
 comments: true
 ---

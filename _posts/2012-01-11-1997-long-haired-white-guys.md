@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "It’s 1997 and You’re Surrounded by Long-Haired White Guys in Backpacks"  
+title: "It’s 1997 and You’re Surrounded by Long-Haired White Guys in Backpacks"
 category: essais
+alias: /essais/2012-01-11-1997-long-haired-white-guys/
 excerpt: HOPE, Theo de Raadt, and Kevin Mitnick.
 comments: true
 ---

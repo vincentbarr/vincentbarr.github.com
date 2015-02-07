@@ -2,6 +2,7 @@
 layout: post
 title: "Gac Filipaj: Unfortunately, an Education Outlier"
 category: essais
+alias: /essais/2012-05-14-gac-filipaj-education/
 excerpt: Like so...
 comments: true
 ---

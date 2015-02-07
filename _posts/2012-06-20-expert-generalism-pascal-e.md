@@ -2,6 +2,7 @@
 layout: post
 title: "On Expert Generalism, Blaise Pascal, and the Letter 'E'"
 category: essais
+alias: /esssais/2012-06-20-expert-generalism-pascal-e/
 excerpt: I'll buy the sideways 'E' for all of the money I have on this here LCD, thanks.
 comments: true
 ---

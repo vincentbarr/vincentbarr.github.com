@@ -2,6 +2,7 @@
 layout: post
 title: "Sword Swallowing, Design Thinking, and Problem Solving"
 category: essais
+alias: /essais/2012-01-05-sword-swallowing-design-thinking-problem-solving/
 excerpt: See for yourself.
 comments: true
 ---

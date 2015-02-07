@@ -2,6 +2,7 @@
 layout: post
 title: "Entrepreneurship, Innovative Business, You Entice Me"
 category: essais
+alias: /essais/2012-06-12-aidin-entrepreneurship/
 excerpt: An interview with Russ Graney, founder of medical startup Aidin.
 comments: true
 ---

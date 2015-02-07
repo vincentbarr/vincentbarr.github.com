@@ -2,6 +2,7 @@
 layout: post
 title: "How Does NASA React When its Rover, Curiosity, Lands on Mars?"
 category: essais
+alias: /essais/2012-08-08-how-nasa-reacts-rover-lands/
 excerpt: Like so...
 comments: true
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Don't Wonder About People"
 category: essais
+alias: /esssais/2013-10-09-dont-wonder-about-that/
 excerpt: Wonder where you left your keys; don't wonder what a person is like.
 comments: true
 ---

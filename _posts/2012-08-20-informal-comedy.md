@@ -2,6 +2,7 @@
 layout: post
 title: "Less Formal Comedy is Really Funny"
 category: essais
+alias: /essais/2012-08-20-informal-comedy/
 excerpt: My favorite jokes are those told in 10th grade attire.
 comments: true
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "On the Importance of Digital Communication Standards"
 category: essais
+alias: /essais/2012-05-28-digital-communication-standards/
 excerpt: Email etiquette, it's important.
 comments: true
 ---

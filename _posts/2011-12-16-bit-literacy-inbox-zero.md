@@ -2,6 +2,7 @@
 layout: post
 title: "Hitting Inbox 0 for the Very First Time"
 category: essais
+alias: /essais/2011-12-16-bit-literacy-inbox-zero/
 excerpt: What Inbox Nirvana Feels Like
 comments: true
 ---

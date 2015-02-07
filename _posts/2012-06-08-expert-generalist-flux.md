@@ -2,6 +2,7 @@
 layout: post
 title: "Enter, Innovation. Exit, Status Quo. Thank You, G-Flux"
 category: essais
+alias: /essais/2012-06-08-expert-generalist-flux/
 excerpt: Multidisciplinarian, polymathic, autodidactics people. Rock.
 comments: true
 ---

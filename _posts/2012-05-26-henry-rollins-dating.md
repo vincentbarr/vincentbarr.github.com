@@ -2,6 +2,7 @@
 layout: post
 title: "Henry Rollins on Dating and When She's (gasp) 'Not a Reader'"
 category: essais
+alias: /essais/2012-05-26-henry-rollins-dating/
 excerpt: The weighted questions we use to judge our prospective other half.
 comments: true
 ---

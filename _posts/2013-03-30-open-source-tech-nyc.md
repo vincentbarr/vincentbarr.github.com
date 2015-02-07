@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source Tech NYC 2013"
 category: growth
+alias: /growth/2013-03-30-open-source-tech-nyc/
 excerpt: Notes.
 comments: true
 ---

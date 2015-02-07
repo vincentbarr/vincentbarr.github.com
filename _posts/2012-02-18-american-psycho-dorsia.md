@@ -2,6 +2,7 @@
 layout: post
 title: "Bret Easton Ellis Fans, We Have Reservations for Two"
 category: essais
+alias: /essais/2012-02-18-american-psycho-dorsia/
 excerpt: Two for Dorsia at 9pm, Friday. Perfect.
 comments: true
 ---

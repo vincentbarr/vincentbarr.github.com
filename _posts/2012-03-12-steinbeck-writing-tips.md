@@ -2,6 +2,7 @@
 layout: post
 title: "6 Writing Tips from John Steinbeck"
 category: essais
+alias: /essais/2012-03-12-steinbeck-writing-tips/
 excerpt: 1. Write freely. 2. Write to someone you know.
 comments: true
 ---

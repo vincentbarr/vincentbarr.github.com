@@ -2,6 +2,7 @@
 layout: post
 title: "The Problem with Lively Presentations and 'Killer' PowerPoint Slides"
 category: essais
+alias: /essais/2013-08-10-problem-with-powerpoint/
 excerpt: A Case for Text-Heavy Slides.
 comments: true
 ---

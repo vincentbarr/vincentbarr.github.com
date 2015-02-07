@@ -2,6 +2,7 @@
 layout: post
 title: "Low-cost User Acquisition with Acquaintable"
 category: essais
+alias: /essais/2012-07-12-user-acquisition-social-aquaintable/
 excerpt: Slightly more personal Facebook referrals.
 comments: true
 ---

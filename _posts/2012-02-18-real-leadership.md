@@ -2,6 +2,7 @@
 layout: post
 title: "What I Think Leadership Actually Looks Like"
 category: essais
+alias: /essais/2012-02-18-real-leadership/
 excerpt: Humility, fierce resolve, and such with Jim Collins.
 comments: true
 ---

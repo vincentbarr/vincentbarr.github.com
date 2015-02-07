@@ -2,6 +2,7 @@
 layout: post
 title: "Larry Smith on Why You Will fail, Unless"
 category: essais
+alias: /essais/2012-03-12-why-you-will-fail-unless/
 excerpt: Passion, not to be confused with interest.
 comments: true
 ---

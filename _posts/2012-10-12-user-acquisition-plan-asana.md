@@ -2,6 +2,7 @@
 layout: post
 title: "Mock User Acquisition Plan Based on Asana"
 category: growth
+alias: /growth/2012-10-12-user-acquisition-plan-asana/
 excerpt: My final project at the close of Generall Assemb.ly's 10-week User Acquisiton course.
 comments: true
 ---

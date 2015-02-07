@@ -2,6 +2,7 @@
 layout: post
 title: "5 Things I Learned This Week"
 category: essais
+alias: /essais/2012-12-14-5-things-learned/
 excerpt: Premeditating evils; if New york's Financial District were a website; Hazel + Exobrain + 90M + Me...
 comments: true
 ---

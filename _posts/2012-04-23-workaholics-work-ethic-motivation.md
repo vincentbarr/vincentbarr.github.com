@@ -2,6 +2,7 @@
 layout: post
 title: "On 'Workaholics,' Work Ethic, and Motivation"
 category: essais
+alias: /essais/2012-04-23-workaholics-work-ethic-motivation/
 excerpt: Do blood, sweat and tears indicate high performance?
 comments: true
 ---

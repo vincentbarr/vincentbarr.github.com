@@ -2,6 +2,7 @@
 layout: post
 title: "GrowHack Meetup with Ankur Nagpal"
 category: growth
+alias: /growth/2013-06-11-grow-hack-ankur-nagpal/
 excerpt: Notes.
 comments: true
 ---

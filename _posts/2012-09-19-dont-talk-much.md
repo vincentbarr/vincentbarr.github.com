@@ -2,6 +2,7 @@
 layout: post
 title: "The Best Responses to 'You Don't Talk Much'"
 category: essais
+alias: /essais/2012-09-19-dont-talk-much/
 excerpt: Two ears, one mouth...
 comments: true
 ---

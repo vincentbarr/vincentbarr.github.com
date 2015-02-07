@@ -2,6 +2,7 @@
 layout: post
 title: "How the Pin Tumbler Lock Works"
 category: essais
+alias: /essais/2012-07-11-lock-key-mechanics/
 excerpt: Take a look.
 comments: true
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Bebo Founder's Founder Has a Good Sense of Humor"
 category: essais
+alias: /essais/2013-08-11-bebo-video/
 excerpt: Bebo Founder delivers an honest, hilarious product video.
 comments: true
 ---

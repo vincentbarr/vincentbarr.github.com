@@ -2,6 +2,7 @@
 layout: post
 title: "My First New York Tech Meetup"
 category: essais
+alias: /essais/2012-02-21-new-york-tech-meetup/
 excerpt: What I found at NYTM.
 comments: true
 ---

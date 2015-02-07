@@ -2,6 +2,7 @@
 layout: post
 title: "On Praxis: User Acquisition Marketing at General Assembly"
 category: essais
+alias: /essais/2012-09-13-user-acquisition-marketing-general-assembly/
 excerpt: Balancing theory and application for effective leaarning.
 comments: true
 ---

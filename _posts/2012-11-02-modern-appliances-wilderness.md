@@ -2,6 +2,7 @@
 layout: post
 title: "Modern Appliances + Wilderness = Neat"
 category: essais
+alias: /essais/2012-11-02-modern-appliances-wilderness/
 excerpt: Light is important.
 comments: true
 ---

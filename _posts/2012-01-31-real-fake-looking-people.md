@@ -2,6 +2,7 @@
 layout: post
 title: "Real, Fake-Looking People"
 category: essais
+alias: /essais/2012-01-31-real-fake-looking-people/
 excerpt: Alexa Meade's unique approach to installation art.
 comments: true
 ---

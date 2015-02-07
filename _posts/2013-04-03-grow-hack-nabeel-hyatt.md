@@ -2,6 +2,7 @@
 layout: post
 title: "GrowHack Meetup with Nabeel Hyatt"
 category: growth
+alias: /growth/2013-04-03-grow-hack-nabeel-hyatt/
 excerpt: Notes.
 comments: true
 ---

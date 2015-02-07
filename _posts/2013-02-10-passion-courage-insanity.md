@@ -2,6 +2,7 @@
 layout: post
 title: "Passion, Courage or Insanity? Man Climbs Mountain Really Fast (Without Rope)"
 category: essais
+alias: /essais/2013-02-10-passion-courage-insanity/
 excerpt: Finally, free of impedimenta at 400 feet.
 comments: true
 ---

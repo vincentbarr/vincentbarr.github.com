@@ -8,22 +8,27 @@ comments: true
 
 The Bermuda Triangle isn't all that different from a parking lot.
 
-Consider this Wikipedia entry:  
+For example, which of the two does the  Wikipedia passage below describe?  
 > Popular culture has attributed various disappearances to the paranormal or activity by extraterrestrial beings. Documented evidence indicates that a significant
 > percentage of the incidents were spurious, inaccurately reported, or embellished by 
 > later authors.
 
-You're picturing black pavement, yellow paint, and no way-finders (unless we're talking amusement parks). You're imagining a large designated space for storing (rearranging, and camouflaging) cars. 
+I'd leave it to a coin flip. 
 
-And so am I. But, Wikipedia happens to be describing the Bermuda Triangle.  
+Lucky for me, I've managed to avoid parking lots since moving to New York City 6 years ago. But, I've found a designated storage space that is as good at hiding things and as disorienting as the parking lot, at 1/100th the size.  
 
-Lucky for me, I've managed to avoid parking lots since moving to New York City 6 years ago. But, I've found a designated storage space that is as disorienting at 1/100th the size of a parking lot.
+Not as cool as it sounds, however.  
 
-Imagine a wall of identical cubbies stacked on top of one another. The cubbies are opaque and their locks are identical. For comparison, imagine a prankster putting a wood shed over every car in the parking lot. That's basically what this is.
+Imagine rows of identical cubbies stacked on top of one another. A wall of identical cubbies. 
 
-The only way to identify your cubby from another is by a modest dog tag, which, based on its size and visibility, is merely a way to distinguish one cubby from the next should the entire gym burn to the ground. Why else?
+Not quite as cool as this.
 
-Here's how you get around that:  
+
+For comparison, imagine parking your car in a lot where, once you turn your back, a pranster places wooden sheds over every car in the parking lot like a magician placing red cups over a ping pong ball. That's basically what this cubby system does: it hides shit. 
+
+The way you distinguish your cubby from the many other cubbies is by a modest dog tag, which, based on its size and visibility, is merely a way to distinguish one cubby from the next should the entire gym burn to the ground. Why else?
+
+Here's how I find my cubby:
 
 **1. Where is my locker?**  
 

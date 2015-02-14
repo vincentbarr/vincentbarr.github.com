@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Problem: After Upgrading to Tor Browser v3.6.3 on OS X Mavericks 10.9.4, Bitcoin Core is Unable to Connect to Networks"
+title: "How-to Restore Bitcoin Core Network Connection on Tor v3.6.3, OS X Mavericks 10.9.4"
 alias: /essais/2014-07-29-fix-bitcoin-core-after-tor-update/
 excerpt: "Solution: Update bitcoin.conf."
 comments: true
@@ -8,7 +8,7 @@ comments: true
 
 If you haven't upgraded to the [latest Tor Browser](https://www.torproject.org/download/download-easy.html.en), you should. 
 
-If you're running OS X Mavericks 10.9.4, you may find that after upgrading Tor your Bitcoin Core client you can no longer establish a connection with a Bitcoin network.
+If you're running OS X Mavericks 10.9.4, you may find that after upgrading Tor your Bitcoin Core client you can no longer connect to a Bitcoin network.
 
 To fix the issue, I took the steps listed below, which take about 5-minutes to complete. Hopefully, this saves you some time crawling threads with many questions, no answers, and greedy pagination. 
 

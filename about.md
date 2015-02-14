@@ -10,6 +10,8 @@ permalink: about/
 
 You can reach me at vincentvbarr at gmail dot com.
 
+I built this site on Jekyll. Expect regular content, improved usability and IA beginning in March 2014. 
+
 ##n.
 a) Tinkerer, autodidact, reverse engineer-er-er with an appetite for interdisciplinarity (and pistachios, red ones).
 

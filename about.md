@@ -23,9 +23,10 @@ d) Stockpiles midnight oil. Reads McSweeney’s for LOLz. Urbant art enthusiast 
 
 ##Work
 
-* **MongoDB**: Run paid customer acquisition, web analytics, and split testing to help MongoDB grow efficiently  
-* **Consulting**: Provide inbound marketing strategy, web analytics, split testing, and customer acquisition audits and strategy for clients ranging from venture-backed startups to magicians to a number of non-profits  
-* **Analysis Exchange**: Worked with a mentor to implement web analytics, efficient event tracking (Google Tag Manager + Link Click Listener + RegEx), and cross-domain tracking on FoodRescue.net; developed dashboards for executives, marketers, and paid search manager
+* **MongoDB**: Run paid customer acquisition, web analytics, and split testing to help MongoDB grow efficiently.  
+* **Consulting**: Provide inbound marketing strategy, web analytics, split testing, and customer acquisition audits and strategy for clients ranging from venture-backed startups to magicians to a number of non-profits.   
+* **Teaching**: Taught a 10-week digital marketing course to a diverse class of 30+ young professionals.  
+* **Analysis Exchange**: Worked with a mentor to implement web analytics, efficient event tracking (Google Tag Manager + Link Click Listener + RegEx), and cross-domain tracking on FoodRescue.net; developed dashboards for executives, marketers, and paid search manager.  
 
 ##Certifications  & Smertifications  
 * Google Partner
@@ -42,6 +43,7 @@ d) Stockpiles midnight oil. Reads McSweeney’s for LOLz. Urbant art enthusiast 
 * HTML, CSS, JavaScript & jQuery (Intermediate)
 * Python (Beginner; working through Euler problem set)
 * Drupal, WordPress, Jekyll  
+* Balsamiq  
 
 ##Writing  
 * [The Deceptively Simple A/B Testing Mistake Quietly Killing Your Conversion Rates](http://unbounce.com/a-b-testing/simple-ab-testing-mistake-thats-killing-conversion-rates/)  

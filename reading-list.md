@@ -6,11 +6,15 @@ permalink: reading-list/
 
 ##Current  
 
+[Ready Player One](http://amzn.to/1PdVcki) by Ernest Cline  
+
 [Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace)](http://amzn.to/1rBnw7v) by Chade-Meng Tan  
+
+##Past  
 
 [The Elements of User Onboarding](https://www.useronboard.com/training/) by Samuel Hulick   
 
-##Past  
+[The Architecture of Happiness](http://amzn.to/1GG3H3D) by Alain De Botton  
 
 [Presenting to Win: The Art of Telling Your Story](http://amzn.to/1BmN3Be) by Jerry Weissman   
 

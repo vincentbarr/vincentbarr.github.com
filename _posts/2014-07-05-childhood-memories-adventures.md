@@ -16,13 +16,11 @@ Following close behind: tree houses.
 
 While I never came to find that hidden tunnel, I did have a sense for exactly where that tunnel would exit in the woods. And that was basically the next best thing. 
 
-And so I would write and sketch plans for the tree house that I was going to build and then yelled to my mom that I may not be back for a long time as the screen door shut behind me and I was on my way.
+And so I would write and sketch plans for the tree house that I was going to build, and then yell to my mom, "I may not be back for a while!", and the screen door would slam shut.
 
-I would pack a backpack full of 'supplies' - some sort of blueprint for a minimalist's tree fort; a peanut butter and jelly sandwich; rope and twine; colored pencils; a hammer and nails; and a pocket knife. Any excuse to use a pocketknife was a good one, as a kid.
+I would pack a backpack full of 'supplies' - a scribbled blueprint; a peanut butter and jelly sandwich; rope and twine; colored pencils; a hammer and nails; and a pocket knife. Any excuse to use a pocketknife was a good one, as a kid.
 
-To this day, I've never had a single time where I needed and used a pocket knife, mind you.
-
-Typically, I would be back before dinner. The woods aren't much fun in the dark, as a kid, by yourself - and it turns out that climbing on trees can be a lot more fun than building on them.
+Typically, I would be back before dinner. The woods aren't much fun in the dark, as a kid, by yourself - and it turns out that climbing on trees can be a lot more fun than building forts onto them.
 
 When I discovered [Airbnb's Tree House Wishlist](https://www.airbnb.com/wishlists/stay-in-a-treehouse), I thought, 'Wow! My 10-year old self would have loved this.'
 

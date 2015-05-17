@@ -8,9 +8,9 @@ permalink: reading-list/
 
 [Ready Player One](http://amzn.to/1PdVcki) by Ernest Cline  
 
-[Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace)](http://amzn.to/1rBnw7v) by Chade-Meng Tan  
-
 ##Past  
+
+[Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace)](http://amzn.to/1rBnw7v) by Chade-Meng Tan  
 
 [The Elements of User Onboarding](https://www.useronboard.com/training/) by Samuel Hulick   
 
@@ -162,6 +162,8 @@ permalink: reading-list/
 [Island](http://amzn.to/NBjuc0) by Aldous Huxley  
 
 [Breakfast of Champions](http://amzn.to/1nnCMhQ) by Kurt Vonnegut  
+
+[Excel 2010 All-in-One for Dummies](http://amzn.to/1e9uf30) by Greg Harvey  
 
 [Howl and Other Poems](http://amzn.to/1hPPmRE) by Allen Ginsberg  
 

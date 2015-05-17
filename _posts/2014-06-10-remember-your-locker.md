@@ -8,27 +8,24 @@ comments: true
 
 The Bermuda Triangle isn't all that different from a parking lot.
 
-For example, which of the two does the  Wikipedia passage below describe?  
+For example, is the Wikipedia passage below describing the Bermuda Triangle, or a parking lot?    
 > Popular culture has attributed various disappearances to the paranormal or activity by extraterrestrial beings. Documented evidence indicates that a significant
 > percentage of the incidents were spurious, inaccurately reported, or embellished by 
 > later authors.
 
-I'd leave it to a coin flip. 
+Hard to say.  
 
-Lucky for me, I've managed to avoid parking lots since moving to New York City 6 years ago. But, I've found a designated storage space that is as good at hiding things and as disorienting as the parking lot, at 1/100th the size.  
+Lucky for me, I've managed to avoid parking lots since moving to New York City six years ago. But, I've found a designated storage space that is as good at hiding things as the parking lot – and as disorienting - at 1/100th the size.  
 
-Not as cool as it sounds, however.  
+Not as cool as it sounds. 
 
-Imagine rows of identical cubbies stacked on top of one another. A wall of identical cubbies. 
+Imagine rows of nearly identical cubbies stacked on top of one another. A wall of practically indistinguishable doors. 
 
-Not quite as cool as this.
+Indistinguishable except for a single number, a modest dog tag, which, based on its size and visibility, might be used only to identify cubbies to loved ones should the entire gym burn to the ground. 
 
+Why else?
 
-For comparison, imagine parking your car in a lot where, once you turn your back, a pranster places wooden sheds over every car in the parking lot like a magician placing red cups over a ping pong ball. That's basically what this cubby system does: it hides shit. 
-
-The way you distinguish your cubby from the many other cubbies is by a modest dog tag, which, based on its size and visibility, is merely a way to distinguish one cubby from the next should the entire gym burn to the ground. Why else?
-
-Here's how I find my cubby:
+When I go to a gym or rent ice skates, here's how I find my cubby:
 
 **1. Where is my locker?**  
 

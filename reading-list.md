@@ -6,9 +6,11 @@ permalink: reading-list/
 
 ##Current  
 
-[Ready Player One](http://amzn.to/1PdVcki) by Ernest Cline  
+[Lean Analytics: Use Data to Build a Better Startup Faster](http://amzn.to/1Fk8eVW) by Alistair Croll  
 
 ##Past  
+
+[Ready Player One](http://amzn.to/1PdVcki) by Ernest Cline  
 
 [Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace)](http://amzn.to/1rBnw7v) by Chade-Meng Tan  
 

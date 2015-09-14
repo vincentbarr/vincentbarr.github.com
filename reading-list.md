@@ -6,9 +6,13 @@ permalink: reading-list/
 
 ##Current  
 
-[Lean Analytics: Use Data to Build a Better Startup Faster](http://amzn.to/1Fk8eVW) by Alistair Croll  
+[To Rise Again at a Decent Hour: A Novel](http://amzn.to/1F7K8mG) by Joshua Ferris
 
 ##Past  
+
+[A Guide to the Good Life: The Ancient Art of Stoic Joy](http://amzn.to/1ioA2nA) by Tad Brennan
+
+[Lean Analytics: Use Data to Build a Better Startup Faster](http://amzn.to/1Fk8eVW) by Alistair Croll  
 
 [Ready Player One](http://amzn.to/1PdVcki) by Ernest Cline  
 

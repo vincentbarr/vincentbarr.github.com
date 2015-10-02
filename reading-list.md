@@ -6,7 +6,10 @@ permalink: reading-list/
 
 ##Current  
 
-[To Rise Again at a Decent Hour: A Novel](http://amzn.to/1F7K8mG) by Joshua Ferris
+[Penetration Testing: A Hands-On Introduction to Hacking](https://www.nostarch.com/pentesting) by Georgia Weidman  
+
+[To Rise Again at a Decent Hour: A Novel](http://amzn.to/1F7K8mG) by Joshua Ferris  
+
 
 ##Past  
 

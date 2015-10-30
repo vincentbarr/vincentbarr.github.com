@@ -13,6 +13,8 @@ permalink: reading-list/
 
 ##Past  
 
+[Meet Your Happy Chemicals: Dopamine, Endorphin, Oxytocin, Serotonin](http://amzn.to/1KJqbP6) by Loretta Breuning  
+
 [A Guide to the Good Life: The Ancient Art of Stoic Joy](http://amzn.to/1ioA2nA) by Tad Brennan
 
 [Lean Analytics: Use Data to Build a Better Startup Faster](http://amzn.to/1Fk8eVW) by Alistair Croll  

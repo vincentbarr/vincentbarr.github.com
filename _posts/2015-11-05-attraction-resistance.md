@@ -26,4 +26,4 @@ Interestingly enough, the gallery of live music and aerosol was shut down the sa
 
 As for Sunshine Cinema, it required a full year-and-a-half and a Tindr date before I would actually make my first visit. But, it was a memorable one. Blow-Up (1966) was the the show of the hour and, if you haven't seen it or any of [Michelangelo Antonioni's work](https://en.wikipedia.org/wiki/Michelangelo_Antonioni), then I'll leave you with an accurate description of what he is best known for: a "trilogy on modernity and its discontents" along with "his resistance to traditional storytelling in favor of enigmatic and intricate mood pieces, [rejecting] action in favor of contemplation." 
 
-![Cover of "Blow-Up" by Michelangelo Antonioni](/assets/images/blow-up-movie-cover)  
+![Cover of "Blow-Up" by Michelangelo Antonioni](/assets/images/blow-up-movie-cover.png)  

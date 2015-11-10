@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "On Resuming"
-alias: /essais/2015-10-29-resume
+alias: /essais/2015-10-29-resuming
 excerpt: Today, I begin writing as a habit. 
 comments: true
 ---
 
-In writing this post, I mark the revival of vincentbarr.com as a location where I practice organizing a set of thoughts and feelings into a structure to be understand by some population of readers. 
+In writing this post, I mark the revival of vincentbarr.com as a location where I practice organizing a set of thoughts and feelings into a structure to be understood by some population of readers. 
 
-If I am able to communicate with even a population of one, beginning with myself as (occasional) editor and reader, then I will consider my effort worthwhile. 
+If I am able to communicate with even a population of one, beginning with myself, the (occasional) editor and reader, then I will consider my effort worthwhile. 
 
 I think that would be really rewarding actually.
 
@@ -22,6 +22,6 @@ Leaving the post right where it is, here, feels a bit like assembling, painting,
 
 Rummaging my attic for coats, or another garment with a loop for hanging, is a tempting solution. But, I'm certain I don't have an attic, else my air conditioner would not be serving as a foot stool here on October 29th in New York City nor would I wonder whether the incremental time spent republishing the unit's Craigslist listing and reducing the price by $25 each time it expires is worthwhile.
 
-I could always seek out and buy a coat for the sole purpose of giving my coat rack purpose. To do this would be to buy a coat I may never even wear, and that I may come to do battle with upon entering and exiting my apartment, and  eventually discard. This realization may lead me to never buy another garment in my life.
+I could always seek out and buy a coat for the sole purpose of giving my coat rack purpose. To do this would be to buy a coat I may never even wear, and that I may come to do battle with upon entering and exiting my apartment, and  eventually discard. 
 
-And so, with restraint, I arrive and end here.
+This realization may lead me to never buy another garment in my life.

@@ -13,7 +13,7 @@ permalink: reading-list/
 
 ##Past  
 
-[Meet Your Happy Chemicals: Dopamine, Endorphin, Oxytocin, Serotonin](http://amzn.to/1KJqbP6) by Loretta Breuning  
+[Habits Of A Happy Brain: Retrain Your Brain to Boost Your Serotonin, Dopamine, Oxytocin, & Endorphin Levels](http://amzn.to/1SnNBzf) by Loretta Breuning  
 
 [A Guide to the Good Life: The Ancient Art of Stoic Joy](http://amzn.to/1ioA2nA) by Tad Brennan
 

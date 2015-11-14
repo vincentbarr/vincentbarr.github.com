@@ -6,10 +6,7 @@ permalink: reading-list/
 
 ##Current  
 
-[Penetration Testing: A Hands-On Introduction to Hacking](https://www.nostarch.com/pentesting) by Georgia Weidman  
-
-[To Rise Again at a Decent Hour: A Novel](http://amzn.to/1F7K8mG) by Joshua Ferris  
-
+[Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics](http://amzn.to/1RUWOz6) by Henry Hazlitt
 
 ##Past  
 

@@ -6,15 +6,19 @@ permalink: reading-list/
 
 ##Current  
 
+[The Culture Code: An Ingenious Way to Understand Why People Around the World Live and Buy as They Do](http://amzn.to/1jNrcjc) by Clotaire Rapaille
+
 [Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics](http://amzn.to/1RUWOz6) by Henry Hazlitt
 
 ##Past  
 
+[Couch Fiction: A Graphic Tale of Psychotherapy](http://amzn.to/1YXMDxZ) by Philippa Perry
+
 [Habits Of A Happy Brain: Retrain Your Brain to Boost Your Serotonin, Dopamine, Oxytocin, & Endorphin Levels](http://amzn.to/1SnNBzf) by Loretta Breuning  
 
-[A Guide to the Good Life: The Ancient Art of Stoic Joy](http://amzn.to/1ioA2nA) by Tad Brennan
-
 [Lean Analytics: Use Data to Build a Better Startup Faster](http://amzn.to/1Fk8eVW) by Alistair Croll  
+
+[A Guide to the Good Life: The Ancient Art of Stoic Joy](http://amzn.to/1ioA2nA) by Tad Brennan
 
 [Ready Player One](http://amzn.to/1PdVcki) by Ernest Cline  
 

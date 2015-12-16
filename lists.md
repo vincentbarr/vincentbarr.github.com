@@ -1,20 +1,20 @@
 ---
 layout: page
-title: "Lists"
+title: Lists
 permalink: lists/
 ---
 
-# Reading List
+## Reading List
 
 The only list that I have for you right now.  
 
-##Current  
+### Current  
 
 [The Culture Code: An Ingenious Way to Understand Why People Around the World Live and Buy as They Do](http://amzn.to/1jNrcjc) by Clotaire Rapaille
 
 [Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics](http://amzn.to/1RUWOz6) by Henry Hazlitt
 
-##Past  
+### Past  
 
 [Couch Fiction: A Graphic Tale of Psychotherapy](http://amzn.to/1YXMDxZ) by Philippa Perry
 

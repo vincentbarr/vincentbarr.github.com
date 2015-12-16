@@ -50,7 +50,7 @@ production_url : www.vincentbarr.com
 #
 pages_list:       
   Archive: '/archive/'
-  Reading List: '/reading-list/'
+  Lists: '/lists/'
   About: '/about/'
 
 JB :

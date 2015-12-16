@@ -33,7 +33,7 @@ Then, 'out' the obstacles under my immediate control. Share them with others. If
 Say something. Do something.
 
 ## A story well told
-> > How do I engineer a story so that the reader feels the emotions that I felt, at that moment, without saying what I felt or how I felt it?  
+> How do I engineer a story so that the reader feels the emotions that I felt, at that moment, without saying what I felt or how I felt it?  
 
 While listening to the speaker, take note of the moments when the speaker or his story draws me in, when I _feel_ something. 
 

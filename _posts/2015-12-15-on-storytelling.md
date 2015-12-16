@@ -16,7 +16,7 @@ Struggling also deserves a place on that list.
 
 With its emphasis on distraction-free listening, the workshop made it easy to avoid the temptation to take the kind of notes that, upon later review, make me wonder if I missed my calling in stenography. Such pedantic note-taking would likely have been seen as an offense and certainly a distraction to the group, a distraction that – as we were shown – is within our control to fix, and thus we have the responsibility to request that it stop, if not for ourselves, then for others who are also probably distracted.
 
-What follows are my notes that I jotted after the session.
+What follows are my notes that I jotted down after the session.
 
 ## High resolution listening
 > I strain to hear the speaker clearly over the noise in the hallway. Might we close the door?

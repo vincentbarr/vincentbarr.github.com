@@ -1,8 +1,12 @@
 ---
 layout: page
-title: "Reading List"
-permalink: reading-list/
+title: "Lists"
+permalink: lists/
 ---
+
+# Reading List
+
+The only list that I have for you right now.  
 
 ##Current  
 

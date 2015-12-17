@@ -16,7 +16,9 @@ The only list that I have for you right now.
 
 [The Culture Code: An Ingenious Way to Understand Why People Around the World Live and Buy as They Do](http://amzn.to/1jNrcjc) by Clotaire Rapaille  
 
-[Couch Fiction: A Graphic Tale of Psychotherapy](http://amzn.to/1YXMDxZ) by Philippa Perry
+[Couch Fiction: A Graphic Tale of Psychotherapy](http://amzn.to/1YXMDxZ) by Philippa Perry  
+
+["Yes" or "No": The Guide to Better Decisions](http://amzn.to/1Oxo0AM) by M.D. Johnson Spencer
 
 [Habits Of A Happy Brain: Retrain Your Brain to Boost Your Serotonin, Dopamine, Oxytocin, & Endorphin Levels](http://amzn.to/1SnNBzf) by Loretta Breuning  
 
@@ -113,7 +115,7 @@ The only list that I have for you right now.
 
 [Adapt: Why Success Always Starts with Failure](http://amzn.to/1ailhfc) by Tim Harford  
 
- [What He’s Poised to Do](http://amzn.to/14UmLLE) by Ben Greenman  
+[What He’s Poised to Do](http://amzn.to/14UmLLE) by Ben Greenman  
 
 [The Candles of Your Eyes](http://amzn.to/13wXuWN) by James Purdy  
 
@@ -153,7 +155,6 @@ The only list that I have for you right now.
 [The Memory Book: The Classic Guide to Improving your Memory at Work, at School, and at Play](http://amzn.to/14s4XBs) by Harry Lorayne & Jerry Lucas  
 
 [Native Son](http://amzn.to/1fvcDHh) by Richard Wright  
-
 [Last Exit to Brooklyn](http://amzn.to/14s4SO2) by Hubert Selby Jr.  
 
 [Choke](http://amzn.to/1qCd5vJ) by Chuck Palahniuk  
@@ -174,7 +175,9 @@ The only list that I have for you right now.
 
 [Unequal Childhoods: Class, Race, and Family Life](http://amzn.to/1qMVXEf) by Annette Lareau
 
-[Island](http://amzn.to/NBjuc0) by Aldous Huxley  
+[Island](http://amzn.to/NBjuc0) by Aldous Huxley 
+
+[The Collector](http://amzn.to/1Oxodny) by John Fowles 
 
 [Breakfast of Champions](http://amzn.to/1nnCMhQ) by Kurt Vonnegut  
 

@@ -10,11 +10,11 @@ The only list that I have for you right now.
 
 ### Current  
 
-[The Culture Code: An Ingenious Way to Understand Why People Around the World Live and Buy as They Do](http://amzn.to/1jNrcjc) by Clotaire Rapaille
-
-[Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics](http://amzn.to/1RUWOz6) by Henry Hazlitt
+[Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics](http://amzn.to/1RUWOz6) by Henry Hazlitt  
 
 ### Past  
+
+[The Culture Code: An Ingenious Way to Understand Why People Around the World Live and Buy as They Do](http://amzn.to/1jNrcjc) by Clotaire Rapaille  
 
 [Couch Fiction: A Graphic Tale of Psychotherapy](http://amzn.to/1YXMDxZ) by Philippa Perry
 
@@ -87,7 +87,6 @@ The only list that I have for you right now.
 [Manage Your Day-To-Day: Build your Routine, Find Your Focus, and Sharpen Your Creative Mind](http://amzn.to/165GHbn) by The 99U Book Series  
 
 [How to Read a Book: The Classic Guide to Intelligent Reading](http://amzn.to/1qCclGZ) by Mortimer J. Adler  
-
 [How to Solve It](http://amzn.to/1cIIqIE) by George Polya  
 
 [Inspired: How to Create Products Customers Love](http://amzn.to/19exJtF) by Marty Cagan  
@@ -213,4 +212,5 @@ The only list that I have for you right now.
 [Scientific Progress Goes 'Boink': A Calvin and Hobbes Collection](http://amzn.to/1ABuyrp) by Bill Watterson
 
 Yes, these are affiliate links. No, that is not the reason for this section; but, an afterthought. 
+
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

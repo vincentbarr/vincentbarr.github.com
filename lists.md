@@ -144,6 +144,7 @@ The only list that I have for you right now.
 [Envisioning Information](http://amzn.to/13wXeY3) by Edward Tufte  
 
 [DMT: The Spirit Molecule: A Doctor's Revolutionary Research into the Biology of Near-Death and Mystical Experiences](http://amzn.to/1fvcqUG) by Rick Strassman   
+
 [Influence: The Psychology of Persuasion](http://amzn.to/1sgiKeN) by Robert Cialdini  
 
 [Invisible Man](http://amzn.to/1et8po7) by Ralph Ellison  
@@ -155,6 +156,7 @@ The only list that I have for you right now.
 [The Memory Book: The Classic Guide to Improving your Memory at Work, at School, and at Play](http://amzn.to/14s4XBs) by Harry Lorayne & Jerry Lucas  
 
 [Native Son](http://amzn.to/1fvcDHh) by Richard Wright  
+
 [Last Exit to Brooklyn](http://amzn.to/14s4SO2) by Hubert Selby Jr.  
 
 [Choke](http://amzn.to/1qCd5vJ) by Chuck Palahniuk  
@@ -164,7 +166,6 @@ The only list that I have for you right now.
 [The Ten-Day MBA: A Step-By-Step Guide to Mastering The Skills Taught in America’s Top Business Schools](http://amzn.to/13KtFg8) by Steven Silbiger  
 
 [Savage Inequalities: Children in America's Schools](http://amzn.to/1hnW5Gk) by Jonathan Kozol  
-
 [A Clockwork Orange](http://amzn.to/QmCJaR) by Anthony Burgess  
 
 [The Tipping Point: How Little Things Can Make a Big Difference](http://amzn.to/1qlzKQ5) by Malcolm Gladwell

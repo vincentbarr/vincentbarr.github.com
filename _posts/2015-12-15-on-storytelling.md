@@ -8,9 +8,9 @@ comments: true
 
 > Storytelling and listening are reciprocal; water takes the shape of the glass.
 
-A few years ago, I attended a day-long storytelling workshop instructed by Jerome Deroy and Terence Mickey.
+A few years ago, I attended a day-long storytelling workshop.
 
-The workshop consisted of two instructors, Jerome Deroy and Terence Mickey, twelve students - age 27 to ~75 – a tape recorder, pencils, paper and required six hours of listening, feeling, writing, sharing, and – of course – storytelling. 
+The workshop consisted of two excellent instructors, Jerome Deroy and Terence Mickey, twelve students - age 27 to ~75 – a tape recorder, pencils, paper and required six hours of listening, feeling, writing, sharing, and – of course – storytelling. 
 
 Struggling also deserves a place on that list.  
 

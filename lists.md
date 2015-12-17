@@ -207,7 +207,11 @@ The only list that I have for you right now.
 
 [Something Under the Bed Is Drooling (Calvin and Hobbes)](http://amzn.to/1qMWhTz) by Bill Watterson
 
-[The Authoritative Calvin and Hobbes (A Calvin and Hobbes Treasury)](http://amzn.to/1qGAEp8) by Bill Watterson
+[The Authoritative Calvin and Hobbes (A Calvin and Hobbes Treasury)](http://amzn.to/1qGAEp8) by Bill Watterson  
+
+[Masters of Deception: The Gang That Ruled Cyberspace](http://amzn.to/1RThg5B) by Michele Slatalla  
+
+[Takedown: The Pursuit and Capture of Kevin Mitnick, America's Most Wanted Computer Outlaw - By the Man Who Did It](http://amzn.to/1RTh8mK) by Tsutomo Shimomura  
 
 [The Days are Just Packed: A Calvin and Hobbes Collection](http://amzn.to/1nNkGVF) by Bill Watterson
 

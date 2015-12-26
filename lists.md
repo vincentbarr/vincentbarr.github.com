@@ -86,6 +86,8 @@ The only list that I have for you right now.
 
 [Don't Make Me Think!](http://amzn.to/14Ia9qN) by Steve Krug  
 
+[The Bet](http://www.eastoftheweb.com/short-stories/UBooks/Bet.shtml) by Anton Chekhov  
+
 [Manage Your Day-To-Day: Build your Routine, Find Your Focus, and Sharpen Your Creative Mind](http://amzn.to/165GHbn) by The 99U Book Series  
 
 [How to Read a Book: The Classic Guide to Intelligent Reading](http://amzn.to/1qCclGZ) by Mortimer J. Adler  

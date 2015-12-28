@@ -95,7 +95,7 @@ The only list that I have for you right now.
 [Manage Your Day-To-Day: Build your Routine, Find Your Focus, and Sharpen Your Creative Mind](http://amzn.to/165GHbn) by The 99U Book Series  
 
 [How to Read a Book: The Classic Guide to Intelligent Reading](http://amzn.to/1qCclGZ) by Mortimer J. Adler  
- 
+
 [How to Solve It](http://amzn.to/1cIIqIE) by George Polya  
 
 [Inspired: How to Create Products Customers Love](http://amzn.to/19exJtF) by Marty Cagan  
@@ -173,6 +173,7 @@ The only list that I have for you right now.
 [The Ten-Day MBA: A Step-By-Step Guide to Mastering The Skills Taught in America’s Top Business Schools](http://amzn.to/13KtFg8) by Steven Silbiger  
 
 [Savage Inequalities: Children in America's Schools](http://amzn.to/1hnW5Gk) by Jonathan Kozol  
+
 [A Clockwork Orange](http://amzn.to/QmCJaR) by Anthony Burgess  
 
 [The Tipping Point: How Little Things Can Make a Big Difference](http://amzn.to/1qlzKQ5) by Malcolm Gladwell

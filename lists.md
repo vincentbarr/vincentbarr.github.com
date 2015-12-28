@@ -10,9 +10,11 @@ The only list that I have for you right now.
 
 ### Current  
 
-[Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics](http://amzn.to/1RUWOz6) by Henry Hazlitt  
+[The Unbearable Lightness of Being: A Novel](http://amzn.to/22uume8) by Milan Kundera   
 
 ### Past  
+
+[Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics](http://amzn.to/1RUWOz6) by Henry Hazlitt  
 
 [The Culture Code: An Ingenious Way to Understand Why People Around the World Live and Buy as They Do](http://amzn.to/1jNrcjc) by Clotaire Rapaille  
 

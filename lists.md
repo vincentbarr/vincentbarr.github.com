@@ -12,6 +12,8 @@ The only list that I have for you right now.
 
 [The Unbearable Lightness of Being: A Novel](http://amzn.to/22uume8) by Milan Kundera   
 
+[Thing Explainer: Complicated Stuff in Simple Words](http://amzn.to/1YMcIOz) by Randall Munroe  
+
 ### Past  
 
 [Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics](http://amzn.to/1RUWOz6) by Henry Hazlitt  

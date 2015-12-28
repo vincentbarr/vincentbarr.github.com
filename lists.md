@@ -95,6 +95,7 @@ The only list that I have for you right now.
 [Manage Your Day-To-Day: Build your Routine, Find Your Focus, and Sharpen Your Creative Mind](http://amzn.to/165GHbn) by The 99U Book Series  
 
 [How to Read a Book: The Classic Guide to Intelligent Reading](http://amzn.to/1qCclGZ) by Mortimer J. Adler  
+ 
 [How to Solve It](http://amzn.to/1cIIqIE) by George Polya  
 
 [Inspired: How to Create Products Customers Love](http://amzn.to/19exJtF) by Marty Cagan  

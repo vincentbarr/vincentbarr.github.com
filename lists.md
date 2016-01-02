@@ -10,6 +10,9 @@ The only list that I have for you right now.
 
 ### Current  
 
+[The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing](http://amzn.to/1R5RNag)  
+Marie Kondo  
+
 [The Unbearable Lightness of Being: A Novel](http://amzn.to/22uume8)  
 Milan Kundera   
 
@@ -165,6 +168,9 @@ Brian Massey
 [Eloquent JavaScript: A Modern Introduction to Programming](http://amzn.to/13vZaum)  
 Marijn Haverbeke  
 
+[Excel 2010 All-in-One for Dummies](http://amzn.to/1e9uf30)  
+Greg Harvey  
+
 [The World According to Garp](http://amzn.to/1dHrpLv)  
 John Irving  
 
@@ -215,6 +221,9 @@ Paul Harding
 
 [Discipline and Punish: The Birth of the Prison](http://amzn.to/1qCbLsI)  
 Michel Foucault    
+
+[On Evil (Thinking in Action)](http://amzn.to/1NX26JD)      
+Adam Morton
 
 [Envisioning Information](http://amzn.to/13wXeY3)  
 Edward Tufte  
@@ -282,8 +291,7 @@ John Fowles
 [Breakfast of Champions](http://amzn.to/1nnCMhQ)  
 Kurt Vonnegut  
 
-[Excel 2010 All-in-One for Dummies](http://amzn.to/1e9uf30)  
-Greg Harvey  
+
 
 [Howl and Other Poems](http://amzn.to/1hPPmRE)  
 Allen Ginsberg  

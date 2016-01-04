@@ -10,24 +10,17 @@ permalink: about/
 
 You can reach me at vincentvbarr at gmail dot com.
 
-I built this site on Jekyll. Expect regular content, improved usability and IA beginning in March 2014. 
+I built this site on Jekyll. 
 
-##n.
-a) Tinkerer, autodidact, reverse engineer-er-er with an appetite for interdisciplinarity (and pistachios, red ones).
-
-b) Doesn’t buy into the whole division between “left-brain” and “right-brain” thinkers; idea-generators and idea-executors; and people from upstate New York and rhythm.
-
-c) Early in life, grew up reading hurricane-proof paperweights disguised as software manuals; building computers and small networks, dual-booting Windows and Linux (for no real reason), making basic (visual basic, basic) apps, and gaining an appreciation for anyone working in 3D Studio Max or Rhino 3D (props).
-
-d) Stockpiles midnight oil. Reads McSweeney’s for LOLz. Urbant art enthusiast and muralist on hiatus.
+I cringe at starting an About Me section with a 'Work' header.  And, for now, cringe I shall.  
 
 ##Work
 
-* **Jet.com**: Manage paid customer acquisition (paid social, display, etc.).  
-* **MongoDB**: Run paid customer acquisition, web analytics, and split testing to help MongoDB grow efficiently.  Debugging Drupal issues.  
+* **Jet.com**: Customer acquisition (social, display, etc.)
+* **MongoDB**: Customer acquisition, web analytics, split testing, and user research most of the time. Webmastery and debugging Drupal issues some of the time.  
 * **Consulting**: Provide inbound marketing strategy, web analytics, split testing, and customer acquisition audits and strategy for clients ranging from venture-backed startups to magicians to a number of non-profits.   
 * **Teaching**: Taught a 10-week digital marketing course to a diverse class of 30+ young professionals.  
-* **Analysis Exchange**: Worked with a mentor to implement web analytics, efficient event tracking (Google Tag Manager + Link Click Listener + RegEx), and cross-domain tracking on FoodRescue.net; developed dashboards for executives, marketers, and paid search manager.  
+* **Analysis Exchange**: Worked with a mentor to implement web analytics, efficient event tracking (Google Tag Manager + Link Click Listener + RegEx), and cross-domain tracking on FoodRescue.net; developed dashboards for executives, marketers, and performance marketing teams.  
 
 ##Certifications  & Smertifications  
 * Google Partner
@@ -64,7 +57,7 @@ Advisor, former Co-Chair of the Mentor Leadership Council & Mentor-Coach at [New
 ##Other
 
 * INTJ
-* Gallup’s StrengthsFinder 2.0: Competition, Restorative, Command, Focus, Achiever
+
 
 _I included the Other section at the cost of appearing (or being) obnoxious in exchange for the value of meeting potentially interesting, like/unlike-minded people._
 

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "How-to Restore Bitcoin Core Network Connection on Tor v3.6.3, OS X Mavericks 10.9.4"
-alias: /essais/2014-07-29-fix-bitcoin-core-after-tor-update/
+alias: /essais/2014-07-29-fix-bitcoin-core-after-tor-update
 excerpt: "Solution: Update bitcoin.conf."
 comments: true
 ---
 
-If you haven't upgraded to the [latest Tor Browser](https://www.torproject.org/download/download-easy.html.en), you should. 
+First and foremost, make sure [Tor](https://www.torproject.org/download/download-easy.html.en) is up-to-date.  
 
-If you're running OS X Mavericks 10.9.4, you may find that after upgrading Tor your Bitcoin Core client you can no longer connect to a Bitcoin network.
+Now, if you're running OS X Mavericks 10.9.4, you may find that after upgrading Tor your Bitcoin Core client you can no longer connect to a Bitcoin network.
 
 To fix the issue, I took the steps listed below, which take about 5-minutes to complete. Hopefully, this saves you some time crawling threads with many questions, no answers, and greedy pagination. 
 
@@ -24,7 +24,7 @@ To fix the issue, I took the steps listed below, which take about 5-minutes to c
 
 5.  Choose 5 for your SOCKS Version
 
-6.  Click Okay, and quit Bitcoin-Qt (required for changes to take effect).
+6.  Click Okay, and quit Bitcoin-Qt (required for changes to take effect)
 
 7.  Quit TorBrowser
 
@@ -55,6 +55,6 @@ That said if you're using Finder and its default configuration, follow these ste
 
 3. This will open a 'Go to' prompt that will allow you to enter your desired path. Copy and paste the path used in step 8, then press return.</p>
 
-Also, you should [unhide your files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/).
+Also, you should [un-hide your files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/).
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

@@ -1,17 +1,28 @@
 ---
 layout: post
 title: "Adventures in Finding a Craigslist Roommate"
-alias: /essais/2014-01-15-apartment-hunting-craigslist/
-excerpt: Three interesting and - presumably - real listings.
+alias: /essais/2014-01-15-apartment-hunting-craigslist
+excerpt: Three listings.
 comments: true
 ---
 
-This past summer (August 2013), I planned to find a new apartment. I thought it would be nice to find a roommmate and get a better rental value. Not one of my friends was moving for at least another 3 months, so I took to Craigslist.  
+This past summer (August 2013), I planned to find a new apartment. I wanted to find a roommate to get a value than I otherwise would renting a studio.
 
-The process of meeting roommates was an interesting one, and I'm not sure I care to relive it in writing, so instead I'll leave you with three interesting listings that tickled me to take screenshots.  
+Since I didn't know anyone looking to move any time soon, I headed to Craigslist. 
 
-![Nudist Roommmate](http://www.vincentbarr.com/assets/images/roommate-ethical.png)
-![Nudist Roommmate](http://www.vincentbarr.com/assets/images/roommate-nudist.png)
+Attempting to sign a lease with two strangers was an educational experience, and is a post for another day.  
+
+Less educational, but more entertaining was speaking with and meeting potential roommates from Craigslist.  
+
+Here are three listings that tickled me to &#8984;&#8679;4.  
+
+#1  
+![Nudist Roommmate](http://www.vincentbarr.com/assets/images/roommate-ethical.png)<img src="/assets/images/roommate-ethical.png" style="border-style: dotted; border-width:thin">  
+
+#2  
+![Nudist Roommmate](http://www.vincentbarr.com/assets/images/roommate-nudist.png)  
+
+#3  
 ![Model Roommmate Part 1](http://www.vincentbarr.com/assets/images/roommate-model.png)
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

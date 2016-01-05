@@ -18,10 +18,10 @@ But I don't.
 
 It is awfully tempting to indulge my desire to call this draft 0 in order to flesh out an anecdote or another element from which I can 'hang' this post.
 
-Leaving the post right where it is, here, feels a bit like assembling, painting, and mounting a coat rack on a wall in my apartment only to not hang anything from it. Maybe a belt. It feels empty.
+Leaving the post right here, right where it is, would like assembling, painting, and mounting a coat rack on a wall in my apartment only to realize I had nothign to hang on it. Maybe a belt? Still, it feels empty.   
 
-Rummaging my attic for coats, or another garment with a loop for hanging, is a tempting solution. But, I'm certain I don't have an attic, else my air conditioner would not be serving as a foot stool here on October 29th in New York City nor would I wonder whether the incremental time spent republishing the unit's Craigslist listing and reducing the price by $25 each time it expires is worthwhile.
+Rummaging my attic for coats, or any other garment with a loop intended for hanging, is tempting. But, I'm _certain_ that I don't have an attic. If I did, my air conditioner would not be serving as a foot stool on October 29th in New York. 
 
-I could always seek out and buy a coat for the sole purpose of giving my coat rack purpose. To do this would be to buy a coat I may never even wear, and that I may come to do battle with upon entering and exiting my apartment, and  eventually discard. 
+I could go out and buy a coat for the sole purpose of giving my coat rack purpose. To do this would be to buy a coat that I may never even wear, that I may come to do battle with each time I enter and exit my apartment, and that I would eventually discard, perhaps along with the coat rack.  
 
 This realization may lead me to never buy another garment in my life.

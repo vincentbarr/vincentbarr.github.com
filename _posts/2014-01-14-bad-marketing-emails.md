@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Collection of Terrible Marketing Emails with Explanations"
-alias: /growth/2014-01-14-bad-marketing-emails/
+title: "Terrible Marketing Emails"
+alias: /growth/2014-01-14-bad-marketing-emails
 excerpt: A demonstration of terrible design, copy, or both.
 comments: true
 ---

@@ -7,7 +7,8 @@ comments: true
 ---
 
 > The new Bebo will be very different from the old one. Will it work? Who knows. But one thing is for certain, it will be fun trying.  
-_Michael Birch, Bebo Founder_
+</br>
+Michael Birch, Bebo Founder
 
 Birch recently bought for $1M the company he previously founded and sold for $850M (i.e. he bought his former company for about .1% of the price for which he sold it).  
 

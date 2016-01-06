@@ -2,20 +2,16 @@
 layout: post
 title: "Terrible Marketing Emails"
 alias: /growth/2014-01-14-bad-marketing-emails
-excerpt: A demonstration of terrible design, copy, or both.
+excerpt: A gallery of despicable email copy, design, or both.
 comments: true
 ---
 
-I've gotten in the habit of collecting great emails. Ramit Sethi's subject lines and copy, Godin's ledes and concision, 99u's curation and summaries - they're all worth studying.  
+I've been in the habit of collecting (hoarding) great emails. [Ramit Sethi](http://www.iwillteachyoutoberich.com/) consistently produces captivating, long-form subject matter day-after-day. Seth Godin does what I can only descibe as 'Seth Godin' day-after-day witout getting tiresome or seemingly witout recycling ideas.
 
-Along the way, I've decided to start saving some of the real junk that I come across, as well.  
-With the great stuff, you can simply subscribe to the newsletter and relive your experience each time; with the true crap, however, timing is often a factor (as improvement is inevitable, right?). 
+Recently, I've begun collecting terrible marketing emails.  
 
-**_Index:_**  
 
-1. Sincere insincerity (Fiverr)  
-
-###1. Sincere insincerity (Fiverr)  
+**1. Sincere insincerity (Fiverr)**
 Fiverr is a marketplace where people can offer and purchase a range of small services for $5. Cool concept.  
 
 But, their email evidences the problem with fast and cheap work: it sucks.  

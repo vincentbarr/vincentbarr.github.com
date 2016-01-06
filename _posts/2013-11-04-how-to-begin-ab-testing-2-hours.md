@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Build an A/B Testing Practice in 2 Hours"
-alias: /growth/2013-11-04-how-to-begin-ab-testing-2-hours/
+alias: /growth/2013-11-04-how-to-begin-ab-testing-2-hours
 excerpt: A split testing tutorial.  
 comments: true
 ---

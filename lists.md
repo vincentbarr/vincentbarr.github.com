@@ -10,9 +10,6 @@ The only list that I have for you right now.
 
 ### Current  
 
-[The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing](http://amzn.to/1R5RNag)  
-Marie Kondo  
-
 [The Unbearable Lightness of Being: A Novel](http://amzn.to/22uume8)  
 Milan Kundera   
 
@@ -20,6 +17,9 @@ Milan Kundera
 Randall Munroe  
 
 ### Past  
+
+[The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing](http://amzn.to/1R5RNag)  
+Marie Kondo  
 
 [Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics](http://amzn.to/1RUWOz6)  
 Henry Hazlitt  

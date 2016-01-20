@@ -22,7 +22,7 @@ The day began with a discussion of the importance of listening and followed with
 
 While my inner stenographer documented its displeasure, the rest of me later enjoyed recalling the most important points from the session, as follows. 
 
-## High resolution listening  s
+## High resolution listening   
 > I strain to hear the speaker clearly over the noise in the hallway. Might we close the door?  
 
 As a speaker tells their story, take inventory of both internal distractions (e.g. I'm hungry) and external distractions (e.g. the guy next to me is typing on a mechanical keyboard using his elbows). A distraction is anything that comes to mind – thoughts, judgments – or body – discomfort, cravings – requiring your attention and thus distracting disrupting listening.

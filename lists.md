@@ -18,6 +18,12 @@ Randall Munroe
 
 ### Past  
 
+[Marketing Analytics: Data-Driven Techniques with Microsoft Excel](http://amzn.to/1nb1JlL)  
+Wayne Winston  
+
+[The Laws of Manifestation: A Consciousness Classic](http://amzn.to/1JZfwpQ)  
+David Spangler 
+
 [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing](http://amzn.to/1R5RNag)  
 Marie Kondo  
 

@@ -10,8 +10,8 @@ The only list that I have for you right now.
 
 ### Current  
 
-[The Unbearable Lightness of Being: A Novel](http://amzn.to/22uume8)  
-Milan Kundera   
+[High Output Management](http://amzn.to/1P9r5eG)  
+Andrew Grove 
 
 [Thing Explainer: Complicated Stuff in Simple Words](http://amzn.to/1YMcIOz)  
 Randall Munroe  

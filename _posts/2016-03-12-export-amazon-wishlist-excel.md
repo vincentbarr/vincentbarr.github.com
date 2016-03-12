@@ -80,4 +80,4 @@ Set a range of options, including what data you would like to select for retriev
 9. Select and open wishlistQuery.txt  
 10. Choose your desired range  
 
-![Amazon Wishlist in Excel .XLSX format](www.vincentbarr.com/assets/images/amazon-wishlist-export-excel.png)  
+![Amazon Wishlist in Excel XLSX format](/assets/images/amazon-wishlist-export-excel.png)  

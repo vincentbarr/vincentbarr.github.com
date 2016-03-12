@@ -8,7 +8,7 @@ comments: true
 
 Today, I accidentally deleted my wishlist on Amazon.com.  
 
-Born on April 23, 2010, my list grew to include 931 unread books that I like to believe I'll eventually read. A handful of recommendations came from friends and old coworkers, and the majority from the corners of the Internet.
+Born on April 23, 2010, my list grew to include 931 unread books that I liked to believe I would eventually read. A handful of recommendations came from friends and old coworkers, and the majority from the corners of the Internet.
 
 Fortunately, I realized my mistake immediately and contacted Support who was able to immediately revive my list.  
 

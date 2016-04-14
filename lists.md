@@ -5,7 +5,6 @@ permalink: lists/
 ---
 # Contents   
 [Reading List (Books)](#books)  
-[Reading List (Not Books)](#notbooks)
 <hr>
 ## Reading List (Books) <a name="books"></a>
 
@@ -350,17 +349,5 @@ Bill Watterson
 
 [Scientific Progress Goes 'Boink': A Calvin and Hobbes Collection](http://amzn.to/1ABuyrp)  
 Bill Watterson  
-
-<hr>
-
-## Reading List (Not Books)  <a name="notbooks"></a>
-As of today, March 17th, I'm going to try to document any articles I read in-full here. My purpose in doing this is to try to be more intentional about what I read, which is part of a greater effort to spend my time and effort more wisely. My theory is that publishing what I consume online may deter me from the 'click-whirr' clicking, skimming, and reading – and help me to become more aware of it. 
-
-An added benefit is that I, or others, may notice trends in what catches my attention. So, together we can both get to know me a little better.
-
-The list will be in reverse chronological order and include the author and title of the article, a link to the article, and the date on which I read it.  Here goes.  
-
-Thursday, March 17, 2016  
-[Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/) by Patrick Kalzumeus  
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

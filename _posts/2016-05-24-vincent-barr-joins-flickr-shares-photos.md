@@ -18,7 +18,7 @@ It's not five hundred twenty-five thousand six hundred photos, but it's a lot of
 
 And that's 2,753 photos too many for one viewer. 
 
-That's two thousand seven hundred seventy-seven photos too many for one viewer. 
+That's two thousand seven hundred fifty-three photos too many for one viewer. 
 
 That's why, today, I joined [Flickr](https://www.flickr.com/photos/vincentbarr/), to begin sharing this collection with others. 
 

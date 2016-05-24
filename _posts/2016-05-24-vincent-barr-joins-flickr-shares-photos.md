@@ -8,13 +8,15 @@ comments: true
 
 Remember that song? It went, "five hundred twenty-five thousand six hundred minutes." 
 
-Anyway.
+Me, too.  
 
 Since 2003, I've taken and saved 2,773 photos. 
 
-That's a lot of photos. That's an average of almost 213 photos per year.
+That's a lot of photos. It's not five hundred twenty-five thousand six hundred photos, but it's a lot of photos. It's an average of almost 213 new photos per year.
 
-That's 2,753 photos too many for one viewer. 
+And that's 2,753 photos too many for one viewer. 
+
+That's two thousand seven hundred seventy-seven photos too many for one viewer. 
 
 That's why, today, I joined [Flickr](https://www.flickr.com/photos/vincentbarr/), to begin sharing this collection with others. 
 

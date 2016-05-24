@@ -16,9 +16,9 @@ That's a lot of photos.
 
 It's not five hundred twenty-five thousand six hundred photos, but it's a lot of photos. It's an average of almost 213 new photos per year.
 
-And that's 2,753 photos too many for one viewer. 
+And that's 2,753 photos too many.
 
-That's two thousand seven hundred fifty-three photos too many for one viewer. 
+That's two thousand seven hundred fifty-three photos too many. For one viewer, at least. 
 
 That's why, today, I joined [Flickr](https://www.flickr.com/photos/vincentbarr/), to begin sharing this collection with others. 
 
@@ -26,7 +26,7 @@ Perhaps, a stranger who is in need of visual fodder for a PowerPoint presentatio
 
 Or, perhaps, a spam bot employed by a photography agency will warm my heart by crawling my every post almost as soon as it goes live and 'faveing' it. 
 
-My real hope is that a family member, friend, or acquaintance will visit and revisit the collection from time. They could call it our collection if they liked. After making a generous donation of $1,000 to a foreign prince who is down on his luck but with access to email and a Western Union, they sign out of Yahoo Mail and head to my Flickr page to search for that one photo that transports them to a previous moment in their life (can't be a moment in the future after all). It's a moment they can't otherwise relive, not without DSC00421.JPG. 
+My real hope is that a family member, friend, or acquaintance will visit and revisit the collection from time to time. They could call it our collection if they liked. After making a generous donation of $1,000 to a foreign prince who is down on his luck but with access to email and a Western Union, they sign out of Yahoo Mail and head to my Flickr page to search for that one photo that transports them to a previous moment in their life (can't be a moment in the future after all). It's a moment they can't otherwise relive, not without DSC00421.JPG. 
 
 Of course, there are a few assumptions to be made: 
  

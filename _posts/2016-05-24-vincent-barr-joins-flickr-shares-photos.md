@@ -12,7 +12,9 @@ Me, too.
 
 Since 2003, I've taken and saved 2,773 photos. 
 
-That's a lot of photos. It's not five hundred twenty-five thousand six hundred photos, but it's a lot of photos. It's an average of almost 213 new photos per year.
+That's a lot of photos. 
+
+It's not five hundred twenty-five thousand six hundred photos, but it's a lot of photos. It's an average of almost 213 new photos per year.
 
 And that's 2,753 photos too many for one viewer. 
 

@@ -32,7 +32,7 @@ Of course, there are a few assumptions to be made:
  
 1\. That I disable downloads (did that).  
 2\. That my family members, friends, and acquaintances possess ethics that prevent them from taking a screenshot.  
-3\. That Flickr survive.  
+3\. That Flickr survives.  
 
 The odds look good. 
 

@@ -10,7 +10,7 @@ Remember that song? It went, "five hundred twenty-five thousand six hundred minu
 
 Me, too.  
 
-Since 2003, I've taken and saved 2,773 photos. 
+Since 2003, I've taken and saved 2,773 photos.  
 
 That's a lot of photos. 
 

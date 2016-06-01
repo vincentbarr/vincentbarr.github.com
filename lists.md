@@ -13,16 +13,19 @@ permalink: lists/
 [High Output Management](http://amzn.to/1P9r5eG)  
 Andrew Grove 
 
-[Thing Explainer: Complicated Stuff in Simple Words](http://amzn.to/1YMcIOz)  
-Randall Munroe  
+[The Art of Travel](http://amzn.to/20SioZ6)  
+Alain de Botton  
 
 ### Past  
+
+[Psycho-Cybernetics, A New Way to Get More Living Out of Life](http://amzn.to/20SilfU)  
+Maxwell Maltz  
 
 [Marketing Analytics: Data-Driven Techniques with Microsoft Excel](http://amzn.to/1nb1JlL)  
 Wayne Winston  
 
 [The Laws of Manifestation: A Consciousness Classic](http://amzn.to/1JZfwpQ)  
-David Spangler 
+David Spangler  
 
 [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing](http://amzn.to/1R5RNag)  
 Marie Kondo  

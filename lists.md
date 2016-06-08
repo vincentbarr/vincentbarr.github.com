@@ -3,12 +3,10 @@ layout: page
 title: Lists
 permalink: lists/
 ---
-# Contents   
-[Reading List (Books)](#books)  
-<hr>
-## Reading List (Books) <a name="books"></a>
 
-### Current  
+# Reading List (Books) <a name="books"></a>
+
+## Current  
 
 [High Output Management](http://amzn.to/1P9r5eG)  
 Andrew Grove 
@@ -16,7 +14,7 @@ Andrew Grove
 [The Art of Travel](http://amzn.to/20SioZ6)  
 Alain de Botton  
 
-### Past  
+## Past  
 
 [Psycho-Cybernetics, A New Way to Get More Living Out of Life](http://amzn.to/20SilfU)  
 Maxwell Maltz  

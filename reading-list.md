@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lists
-permalink: lists/
+title: Reading List
+permalink: reading-list/
 ---
 
 # Reading List (Books) <a name="books"></a>
@@ -15,6 +15,12 @@ Andrew Grove
 Alain de Botton  
 
 ## Past  
+
+[Never Split the Difference](http://amzn.to/2auRQM4)  
+Chris Voss  
+
+[The Art of Travel](http://amzn.to/2ahxymf)  
+Alain de Botton  
 
 [Psycho-Cybernetics, A New Way to Get More Living Out of Life](http://amzn.to/20SilfU)  
 Maxwell Maltz  

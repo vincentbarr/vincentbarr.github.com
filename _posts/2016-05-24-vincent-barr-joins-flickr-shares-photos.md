@@ -6,45 +6,43 @@ excerpt: If there's one post to skip, it's this one.
 comments: true
 ---
 
-Remember that song? It went, "five hundred twenty-five thousand six hundred minutes." 
+Remember that song? It goes, "...Five hundred twenty-five thousand six hundred minutes." 
 
 Me, too.  
 
-Since 2003, I've taken and saved 2,773 photos.  
+And since 2003, I've taken and saved 2,773 photos.  
 
 That's a lot of photos. 
 
-It's not five hundred twenty-five thousand six hundred photos, but it's a lot of photos. It's an average of almost 213 new photos per year.
+It's not five hundred twenty-five thousand six hundred photos, but it's a lot of photos. Too many photos for one viewer.  
 
-And that's 2,753 photos too many.
+That's why, today, I joined [Flickr](https://www.flickr.com/photos/vincentbarr/): to begin sharing my photo collection with others.  
 
-That's two thousand seven hundred fifty-three photos too many. For one viewer, at least. 
+Like me, you might wonder who would be interested in such a collection... 
 
-That's why, today, I joined [Flickr](https://www.flickr.com/photos/vincentbarr/), to begin sharing this collection with others. 
+Perhaps, a stranger in need of visual fodder for a PowerPoint presentation will stumble upon a photo, rotate it 90 degrees, and decide against using it. 
 
-Perhaps, a stranger who is in need of visual fodder for a PowerPoint presentation will stumble upon one of my photos, rotate it 90 degrees, and decide against using it. 
+Or, perhaps, a spam bot — designed by a photography agency – that crawls and 'faves' my every upload.
 
-Or, perhaps, a spam bot employed by a photography agency will warm my heart by crawling my every post almost as soon as it goes live and 'faveing' it. 
+My real hope is that some person out there will visit and revisit the collection from time to time. They could even call it _our_ collection if they liked. I imagine them signing-out of their Yahoo! Mail account and heading to my Flickr page to dig for a photo that will transport them to times past (can't be a moment in the future after all), to a moment they can't otherwise relive, not without DSC00421.JPG. 
 
-My real hope is that a family member, friend, or acquaintance will visit and revisit the collection from time to time. They could call it our collection if they liked. After making a generous donation of $1,000 to a foreign prince who is down on his luck but with access to email and a Western Union, they sign out of Yahoo Mail and head to my Flickr page to search for that one photo that transports them to a previous moment in their life (can't be a moment in the future after all). It's a moment they can't otherwise relive, not without DSC00421.JPG. 
-
-Of course, there are a few assumptions to be made: 
+But of course my hope does make a few assumptions:  
  
 1\. That I disable downloads (did that).  
-2\. That my family members, friends, and acquaintances possess ethics that prevent them from taking a screenshot.  
+2\. That my visitors possess ethics that prevent them from taking screenshots of my collection in order to limit future visits to Yahoo!'s web properties.  
 3\. That Flickr survives.  
 
 The odds look good. 
 
-In fact, they might be better than the odds of a family member, friend, or acquaintance – or heck, even a stranger – reading this blog post.
+In fact, I would say they are as a good as anyone reading this blog post from start-to-finish.
 
-Oh, there is one more assumption. 
+Oh, and there is one last assumption. 
 
 4\. That I share that I have opened a Flickr account, decorated it with photographs that I have taken, and made it available to the public.
 
 Readership, I have opened a [Flickr account](https://www.flickr.com/photos/vincentbarr/), decorated it with photographs that I have taken, and made it available to the public. 
 
-Go on, now. Find your DSC00421.JPG.
+Find your DSC00421.JPG.
 
 Sincerely,  
 Vincent

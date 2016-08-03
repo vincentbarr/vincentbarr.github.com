@@ -6,46 +6,26 @@ excerpt: How-to export your wish list from Amazon.com to Excel for backup and ed
 comments: true
 ---
 
-Today, I accidentally deleted my wishlist on Amazon.com.  
+Today, I accidentally deleted my wishlist from Amazon.com.  
 
-Born on April 23, 2010, my list grew to include 931 unread books that I liked to believe I would eventually read. A handful of recommendations came from friends and old coworkers, and the majority from the corners of the Internet.
+Born on April 23, 2010, my reading list disguised as a wishlist grew to 931 unread books. A few recommendations came from friends and coworkers, but the large majority were a byproduct of late nights spent scouring the corners of the Internet. 
 
-Fortunately, I realized my mistake immediately and contacted Support who was able to immediately revive my list.  
+Fortunately, Amazon's customer support team was able to reverse my damage almost immediately. 
 
-At this point, I realized, 'I should own this data' both for the purposes of backup and redundancy, and also for sorting, editing, and manipulating my list so that I may prioritize and, you know, actually have a grasp of what's on my reading list.  
+At this point, I realized _I_ should own this data, not Amazon. Doing so would provide me with a backup of my reading list and the ability to sort, edit and prioritize my list quickly and easily. 
 
-There are a number of ways to go about this, and I chose to describe the three listed below. I recommend option 3, wherein you pull your list data into Excel using a Web Query. 
+I saw three options:  
+1. Export my wish list as a PDF  
+2. (1), then copy and paste the PDF into Excel as text
+3.  Use a Web Query to import my wish list directly from Amazon.com to Excel
 
-## Option 1: Export your wish list as a PDF  
+I chose (3). (1) didn't meet my requirement to sort the list as desired and (2) required more steps (and memory usage) than (3).
 
-This is the quickest option.
+Here's how to do it. 
 
-Steps:  
-0. From Amazon.com, navigate to 'Your Lists'  
-1. Click the printer icon  
-2. ⌘ + P to print
-3. Set the Destination setting to 'Save as PDF'  
-4. Save  
+## How to import your wish list from Amazon.com to Excel using a Web Query  
 
-## Option 2: Import your wish list from PDF format to text Excel
-
-This requires completing Option 1. 
-
-Importing to Excel provides the benefit of being able to sort, filter, and manipulate your reading list. 
-
-0. Open the local copy of your Wish List in PDF format  
-1. ⌘ + A to select all content  
-2. ⌘ + C to copy to clipboard  
-3. Switch to Excel  
-3. ⌘ + ^ + V to Paste Special  
-4. Select Text   
-
-You now have the data in Excel, though you'll likely want to clean and format it according to your needs.  
-
-## Option 3: Import your list directly from Amazon to Excel using a Web Query  
-
-This is my preferred option for it requires fewer steps than Option 2, avoids the memory consumption of a large copy and paste job, and accomplishes my goal of wishlist backup and manipulation.  
-
+Open your browser.  
 0. From Amazon.com, navigate to 'Your Lists'  
 1. Click the printer icon  
 2. Copy the URL from the address bar  
@@ -63,15 +43,14 @@ WEB
 Selection=EntirePage  
 </pre></code>  
 
-Explanation: 
-Line 1. Query type  
-Since this is a web query, we set this to Web.  
-Line 2. Query version  
-Since we only have one version, we set this to 1.  
-Line 3. URL (Uniform Resource Locator)  
-Excel will run your query against this file.  
-Lines 5 and up. Parameters.  
-Set a range of options, including what data you would like to select for retrieval, data type, formatting, and so on.  
+Here's an explanation of the query:    
+Line 1: Query Type. Since this is a web query, we set this to Web.   
+
+Line 2: Query version. Since we only have one version, we set this to 1.  
+
+Line 3: URL (Uniform Resource Locator). Excel will run your query against this file.  
+
+Lines 5 and beyond: Custom Parameters. Configure settings such as what data you would like to select for retrieval, data type, formatting, and so on.  
 
 5. Save the file as wishlistQuery.txt  
 6. Switch to Excel  

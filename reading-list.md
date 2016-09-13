@@ -11,7 +11,7 @@ permalink: reading-list/
 [59 Seconds: Change Your Life in Under a Minute](http://amzn.to/2cVQkm4)  
 Richard Wiseman  
 
-## Past  
+### Past  
 
 [High Output Management](http://amzn.to/1P9r5eG)  
 Andrew Grove 

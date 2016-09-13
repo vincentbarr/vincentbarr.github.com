@@ -4,9 +4,14 @@ title: Reading List
 permalink: reading-list/
 ---
 
-# Reading List (Books) <a name="books"></a>
+##Books 
 
-## Current  
+### Current  
+
+[59 Seconds: Change Your Life in Under a Minute](http://amzn.to/2cVQkm4)  
+Richard Wiseman  
+
+## Past  
 
 [High Output Management](http://amzn.to/1P9r5eG)  
 Andrew Grove 
@@ -14,7 +19,6 @@ Andrew Grove
 [The Art of Travel](http://amzn.to/20SioZ6)  
 Alain de Botton  
 
-## Past  
 
 [Never Split the Difference](http://amzn.to/2auRQM4)  
 Chris Voss  

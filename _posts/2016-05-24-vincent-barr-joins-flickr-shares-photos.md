@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two thousand seven hundred seventy-seven photos"
+title: "Two Thousand Seven Hundred Seventy-Seven Photos"
 alias: /essais/2016-05-24-vincent-barr-joins-flickr-shares-photos
 excerpt: If there's one post to skip, it's this one.  
 comments: true

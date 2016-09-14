@@ -4,8 +4,6 @@ title: Reading List
 permalink: reading-list/
 ---
 
-##Books 
-
 ### Current  
 
 [59 Seconds: Change Your Life in Under a Minute](http://amzn.to/2cVQkm4)  

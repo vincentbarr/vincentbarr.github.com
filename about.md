@@ -6,13 +6,11 @@ permalink: about/
 
 <img src="/assets/images/calvin-hobbes-dino.png" style="width:650px" alt="Calvin &amp; Hobbes Dinosaur"; />
 
-#Vincent Barr
-
-You can reach me at vincentvbarr at gmail dot com.
+Hi, I'm Vincent. You can reach me at vincentvbarr at gmail dot com.
 
 I built this site on Jekyll. 
 
-One day, my About Me section will not begin with my employment history.  
+One day, someday, my About Me section will not begin with my employment history.  
 
 ##Work  
 

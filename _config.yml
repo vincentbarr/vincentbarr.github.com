@@ -12,7 +12,7 @@ permalink:           "/:title/"
 title:               Vincent Barr
 tagline:             'Curious'
 url:                 http://www.vincentbarr.com
-baseurl:             ""
+baseurl:             '/'
 paginate:            5
 
 # We specify the directory for Jekyll so we can use @imports.

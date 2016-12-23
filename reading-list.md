@@ -11,6 +11,9 @@ Richard Wiseman
 
 ### Past  
 
+[Head & Heart Together](http://www.accesstoinsight.org/lib/authors/thanissaro/headandheartbook.pdf)  
+Thanissaro Bhikkhu 
+
 [High Output Management](http://amzn.to/1P9r5eG)  
 Andrew Grove 
 

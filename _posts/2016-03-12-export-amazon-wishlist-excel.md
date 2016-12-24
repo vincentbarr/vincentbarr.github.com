@@ -19,11 +19,11 @@ I saw three options:
 2. (1), then copy and paste the PDF into Excel as text
 3.  Use a Web Query to import my wish list directly from Amazon.com to Excel
 
-I chose (3). (1) didn't meet my requirement to sort the list as desired and (2) required more steps (and memory usage) than (3).
+I chose (3), for (1) didn't meet my requirement to sort the list as desired and (2) required more steps (and memory usage) than (3).
 
 Here's how to do it. 
 
-## How to import your wish list from Amazon.com to Excel using a Web Query  
+### How to import your wish list from Amazon.com to Excel using a Web Query  
 
 Open your browser.  
 0. From Amazon.com, navigate to 'Your Lists'  
@@ -35,13 +35,13 @@ Now, we will create a 'Saved Query' that Excel will run to pull-in the data. The
 3. Open a text editor  
 4. Write the query as follows  
 
-<pre><code>  
+<code>  
 WEB 
 1  
 [http://www.amazon.com/gp/registry/wishlist/2YI7WESZHILRW?ie=UTF8&disableNav=1&layout=standard-print]  
 
 Selection=EntirePage  
-</pre></code>  
+</code>  
 
 Here's an explanation of the query:    
 Line 1: Query Type. Since this is a web query, we set this to Web.   
@@ -59,4 +59,4 @@ Lines 5 and beyond: Custom Parameters. Configure settings such as what data you 
 9. Select and open wishlistQuery.txt  
 10. Choose your desired range  
 
-![Amazon Wishlist in Excel XLSX format](/assets/images/amazon-wishlist-export-excel.png)  
+![Amazon Wishlist in Excel XLSX format](/assets/images/amazon-wishlist-export-excel.png)    

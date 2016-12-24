@@ -4,7 +4,7 @@ title: About
 permalink: about/
 ---
 
-<img src="/assets/images/calvin-hobbes-dino.png" style="width:650px" alt="Calvin &amp; Hobbes Dinosaur"; />
+<img src="/assets/images/calvin-hobbes-dino.png" style="width:650px" alt="Calvin &amp; Hobbes Dinosaur"/>
 
 Hi, I'm Vincent. You can reach me at vincentvbarr at gmail dot com.
 
@@ -12,7 +12,7 @@ I built this site on Jekyll.
 
 One day, someday, my About Me section will not begin with my employment history.  
 
-##Work  
+## Work  
 
 **Jet.com**: Customer acquisition (social, programmatic display, etc.)  
 

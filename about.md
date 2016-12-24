@@ -10,9 +10,9 @@ Hi, I'm Vincent. You can reach me at vincentvbarr at gmail dot com.
 
 I built this site on Jekyll. 
 
-One day, someday, my About Me section will not begin with my employment history.  
-
 ## Work  
+
+**Consulting**: Marketing, analytics, and split testing.   
 
 **Jet.com**: Customer acquisition (social, programmatic display, etc.)  
 
@@ -42,7 +42,7 @@ One day, someday, my About Me section will not begin with my employment history.
 * Balsamiq  
 * Salesforce  
 
-##Writing  
+##  Writing  
 [Why Marketers Need to Be More Like Tour Guides](http://unbounce.com/podcast/your-visitors-travel-guide/)   
 [Landing Page Optimization: Start with Questions, Not Answers](http://www.bizible.com/blog/start-with-questions-not-answers-landing-page-optimization-strategies-to-boost-conversion-rates-right-now?hs_preview=TJkLdBYV-2821303150)  
 [Wayfinding Conventions: Design Your Landing Pages to Guide Visitors to Action](http://unbounce.com/design/use-conventions-on-landing-pages/)  
@@ -50,13 +50,13 @@ One day, someday, my About Me section will not begin with my employment history.
 [How to Build an A/B Testing Practice in 2 Hours](https://blog.paymill.com/ab-testing-2-hours/)  
 [Mock User Acquisition Campaign for Asana](http://www.slideshare.net/vincentbarr/mock-user-acquisition-marketing-plan)  
 
-##Causes
+##  Causes
 
 Co-Organizer of [House of Genius](http://houseofgenius.org/), an intimate, bi-monthly event uniting two entrepreneurs with a small, diverse group of panelists to think through a business or design challenge.  No professional information is disclosed until the end of the evening.  
 
 Advisor, former Co-Chair of the Mentor Leadership Council & Mentor-Coach at [America Needs You](http://www.americaneedsyou.org), a non-profit that helps first-generation college students recognize and pursue their aspirations, closing a considerable opportunity gap.  
 
-##Other
+##  Other
 
 * INTJ
 

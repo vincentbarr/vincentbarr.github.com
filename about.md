@@ -4,7 +4,7 @@ title: About
 permalink: about/
 ---
 
-<img src="/assets/images/calvin-hobbes-dino.png" style="width:650px" alt="Calvin &amp; Hobbes Dinosaur"/>
+![Calvin &amp; Hobbes Dinosaur](/assets/images/calvin-hobbes-dino.png){:width="950px"}
 
 Hi, I'm Vincent. You can reach me at vincentvbarr at gmail dot com.
 
@@ -24,14 +24,14 @@ One day, someday, my About Me section will not begin with my employment history.
 
 **Analysis Exchange**: Worked with a mentor to implement web analytics, efficient event tracking (Google Tag Manager + Link Click Listener + RegEx), and cross-domain tracking on FoodRescue.net; developed dashboards for executives, marketers, and performance marketing teams.  
 
-##Certifications  & Smertifications  
+##  Certifications & Smertifications  
 * Google Partner
 * Google AdWords Advanced Search  
 * Google Digital Analytics Fundamentals  
 * Google AdWords Advertising Fundamentals  
 * Optimizely Platform Certification  
 
-##Platforms & Skills  
+## Platforms & Skills  
 * Google Suite: AdWords, Analytics, Tag Manager, and Webmaster Tools (now Console) 
 * Adobe Omniture   
 * Optimizely, CrazyEgg, Moz, & Screaming Frog SEO Spider  

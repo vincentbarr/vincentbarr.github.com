@@ -14,6 +14,8 @@ I built this site on Jekyll.
 
 **Consulting**: Marketing, analytics, and split testing.   
 
+Customers include: Oxo, Prudential Financial, top 5 technology company, PBS, General Assemb.ly, CoinDesk, Finhabits, Code Climate, Descendant of Thieves, and more. 
+
 **Jet.com**: Customer acquisition (social, programmatic display, etc.)  
 
 **MongoDB**: Customer acquisition, web analytics, split testing, and user research most of the time. Webmastery and debugging Drupal issues some of the time.  
@@ -55,12 +57,5 @@ I built this site on Jekyll.
 Co-Organizer of [House of Genius](http://houseofgenius.org/), an intimate, bi-monthly event uniting two entrepreneurs with a small, diverse group of panelists to think through a business or design challenge.  No professional information is disclosed until the end of the evening.  
 
 Advisor, former Co-Chair of the Mentor Leadership Council & Mentor-Coach at [America Needs You](http://www.americaneedsyou.org), a non-profit that helps first-generation college students recognize and pursue their aspirations, closing a considerable opportunity gap.  
-
-##  Other
-
-* INTJ
-
-
-_I included the Other section at the cost of appearing (or being) obnoxious in exchange for the value of meeting potentially interesting, like/unlike-minded people._
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

@@ -6,10 +6,13 @@ permalink: reading/
 
 ### Current  
 
-[59 Seconds: Change Your Life in Under a Minute](http://amzn.to/2cVQkm4)  
-Richard Wiseman  
+[Zero to One: Notes on Startups, or How to Build the Future](http://amzn.to/2k4HU24)  
+Peter Thiel
 
 ### Past  
+
+[59 Seconds: Change Your Life in Under a Minute](http://amzn.to/2cVQkm4)  
+Richard Wiseman  
 
 [Head & Heart Together](http://www.accesstoinsight.org/lib/authors/thanissaro/headandheartbook.pdf)  
 Thanissaro Bhikkhu 

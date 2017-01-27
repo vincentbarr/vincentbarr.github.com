@@ -4,12 +4,12 @@ title: Reading List
 permalink: reading/
 ---
 
-### Current  
+### Reading  
 
 [Zero to One: Notes on Startups, or How to Build the Future](http://amzn.to/2k4HU24)  
 Peter Thiel
 
-### Past  
+### Read  
 
 [59 Seconds: Change Your Life in Under a Minute](http://amzn.to/2cVQkm4)  
 Richard Wiseman  

@@ -6,10 +6,13 @@ permalink: reading/
 
 ### Reading  
 
-[Zero to One: Notes on Startups, or How to Build the Future](http://amzn.to/2k4HU24)  
-Peter Thiel
+[Principles](https://www.principles.com/#Principles)  
+Ray Dalio  
 
 ### Read  
+
+[Zero to One: Notes on Startups, or How to Build the Future](http://amzn.to/2k4HU24)  
+Peter Thiel  
 
 [59 Seconds: Change Your Life in Under a Minute](http://amzn.to/2cVQkm4)  
 Richard Wiseman  

@@ -11,6 +11,9 @@ Ray Dalio
 
 ### Read  
 
+[On The  Shortness of Life](https://tripinsurancestore.com/4/on-the-shortness-of-life.pdf)  
+Lucius Seneca  
+
 [Zero to One: Notes on Startups, or How to Build the Future](http://amzn.to/2k4HU24)  
 Peter Thiel  
 

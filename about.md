@@ -10,6 +10,14 @@ Hi, I'm Vincent. You can reach me at vincentvbarr at gmail dot com. On Twitter, 
 
 I built this site on Jekyll. 
 
+##  Writing  
+[Why Marketers Need to Be More Like Tour Guides](http://unbounce.com/podcast/your-visitors-travel-guide/)   
+[Landing Page Optimization: Start with Questions, Not Answers](http://www.bizible.com/blog/start-with-questions-not-answers-landing-page-optimization-strategies-to-boost-conversion-rates-right-now?hs_preview=TJkLdBYV-2821303150)  
+[Wayfinding Conventions: Design Your Landing Pages to Guide Visitors to Action](http://unbounce.com/design/use-conventions-on-landing-pages/)  
+[The Deceptively Simple A/B Testing Mistake Quietly Killing Your Conversion Rates](http://unbounce.com/a-b-testing/simple-ab-testing-mistake-thats-killing-conversion-rates/)  
+[How to Build an A/B Testing Practice in 2 Hours](https://blog.paymill.com/ab-testing-2-hours/)  
+[Mock User Acquisition Campaign for Asana](http://www.slideshare.net/vincentbarr/mock-user-acquisition-marketing-plan)  
+
 ## Work  
 
 **Consulting**: Marketing, analytics, and split testing.   
@@ -44,13 +52,6 @@ Customers include: Oxo, Prudential Financial, top 5 technology company, PBS, Gen
 * Balsamiq  
 * Salesforce  
 
-##  Writing  
-[Why Marketers Need to Be More Like Tour Guides](http://unbounce.com/podcast/your-visitors-travel-guide/)   
-[Landing Page Optimization: Start with Questions, Not Answers](http://www.bizible.com/blog/start-with-questions-not-answers-landing-page-optimization-strategies-to-boost-conversion-rates-right-now?hs_preview=TJkLdBYV-2821303150)  
-[Wayfinding Conventions: Design Your Landing Pages to Guide Visitors to Action](http://unbounce.com/design/use-conventions-on-landing-pages/)  
-[The Deceptively Simple A/B Testing Mistake Quietly Killing Your Conversion Rates](http://unbounce.com/a-b-testing/simple-ab-testing-mistake-thats-killing-conversion-rates/)  
-[How to Build an A/B Testing Practice in 2 Hours](https://blog.paymill.com/ab-testing-2-hours/)  
-[Mock User Acquisition Campaign for Asana](http://www.slideshare.net/vincentbarr/mock-user-acquisition-marketing-plan)  
 
 ##  Causes
 

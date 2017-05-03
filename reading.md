@@ -11,6 +11,9 @@ Ray Dalio
 
 ### Read  
 
+[Wired for Dating: How Understanding Neurobiology and Attachment Style Can Help You Find Your Ideal Mate](http://amzn.to/2oZ6yo2)    
+Stan Tatkin
+
 [On The  Shortness of Life](https://tripinsurancestore.com/4/on-the-shortness-of-life.pdf)  
 Lucius Seneca  
 

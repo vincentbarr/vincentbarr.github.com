@@ -6,10 +6,16 @@ permalink: reading/
 
 ### Reading  
 
+[The Course of Love](http://amzn.to/2t8MP3g)  
+Alain de Botton  
+
 [Principles](https://www.principles.com/#Principles)  
 Ray Dalio  
 
 ### Read  
+
+[The Conquest of Happiness](http://amzn.to/2t8Fdh1)  
+Bertrand Russell  
 
 [Wired for Dating: How Understanding Neurobiology and Attachment Style Can Help You Find Your Ideal Mate](http://amzn.to/2oZ6yo2)    
 Stan Tatkin

@@ -8,7 +8,7 @@ permalink: about/
 
 Hi, I'm Vincent. You can reach me at vincentvbarr at gmail dot com. On Twitter, I'm [@VincentBarr](https://twitter.com/vincentbarr?lang=en), and on LinkedIn, I'm still [Vincent Barr](https://www.linkedin.com/in/vincentbarr/).  
 
-I built this site on Jekyll. 
+I built this site on Jekyll. This page, like most of my site, has not been updated in a long time. 
 
 ##  Writing  
 [Why Marketers Need to Be More Like Tour Guides](http://unbounce.com/podcast/your-visitors-travel-guide/)   

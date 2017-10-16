@@ -6,13 +6,13 @@ permalink: reading/
 
 ### Reading  
 
-[The Course of Love](http://amzn.to/2t8MP3g)  
-Alain de Botton  
-
-[Principles](https://www.principles.com/#Principles)  
-Ray Dalio  
+[Porcelain: A Memoir](http://amzn.to/2kRXP5j)  
+Moby
 
 ### Read  
+
+[The Course of Love](http://amzn.to/2t8MP3g)  
+Alain de Botton  
 
 [The Conquest of Happiness](http://amzn.to/2t8Fdh1)  
 Bertrand Russell  

@@ -12,7 +12,7 @@ comments: true
 
 # <a name="wrote">Habits</a>
 
-Habits are important. Some habits, few habits, are surprisingly easy to form. In these rare cases, akrasia is distance, repetition is effortless, and you can't wait for the next time you can't repeat the behavior to which you're committed. You're motivated by the satisfaction you receive by the doing of the behavior, less the having done it.
+Habits are important. Some habits, few habits, are surprisingly easy to form. In these rare cases, akrasia is distant, repetition is effortless, and you can't wait for the next time you can repeat the behavior to which you're committed. You're motivated by the satisfaction you receive by the doing of the behavior, less the having done it.
 
 One such habit for me is meditation. Another is exercise. I look forward to both of them. At times, I crave them. And this feeling began long before the 28-day trial required to form a habit.
 

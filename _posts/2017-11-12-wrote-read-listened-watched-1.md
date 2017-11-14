@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Wrote, Read, Listened, Watched #0"
-alias: /essais/2017-11-13-wrote-read-listened-watched-1
-excerpt: A new habit.  
+title: "Wrote, Read, Listened, Watched #1"
+alias: /essais/2017-11-12-wrote-read-listened-watched-1
+excerpt: Free Writing.  
 comments: true
 ---
 
 [Wrote](#wrote), [Read](#read), [Listened](#listened), [Watched](#watched) \#1
+
 ---
 
 # <a name="wrote">Free Writing at Matt's</a>
@@ -66,7 +67,7 @@ The thing about spelling bees is that I'm more interested in the meaning, not th
 ---
 # <a name="read">Read</a>
 
-[The War To Sell You A Mattress Is An Internet Nightmare](https://www.fastcompany.com/3065928/sleepopolis-casper-bloggers-lawsuits-underside-of-the-mattress-wars)  
+**[The War To Sell You A Mattress Is An Internet Nightmare](https://www.fastcompany.com/3065928/sleepopolis-casper-bloggers-lawsuits-underside-of-the-mattress-wars)**    
 Observations and deductions: 
 * I do not trust Sleepopolis.com and most product review sites. It's worth reading the article to understand why I came to this sentiment.  
 * Casper enjoys the upside of affiliate marketing, but sues affiliates who don't rate its products to their liking, such as Derek Hales.    
@@ -74,31 +75,31 @@ Observations and deductions:
 * Casper spends ~40% of revenue (sales) on marketing.    
 * Affiliate marketing accounts for at least 20% of Leesa's sales. Sleepolis.com alone accounts for 18% of sales.  
 
-[Models are Wrong](https://www.farnamstreetblog.com/2017/06/all-models-are-wrong/)  
+**[Models are Wrong](https://www.farnamstreetblog.com/2017/06/all-models-are-wrong/)**    
 Models are not perfect, and they never will be. That's fine as they need not be perfect to provide utility and surpass alternatives: limited knowledge, unstructured guesses, long and expensive cycles of due diligence, or nothing, for example.  
 
-[Enabling More High Quality Content for Users](https://webmasters.googleblog.com/2017/10/enabling-more-high-quality-content.html)  
+**[Enabling More High Quality Content for Users](https://webmasters.googleblog.com/2017/10/enabling-more-high-quality-content.html)**  
 Google empowers publishers to define the parameters of their sampling model, or the amount of free content they give away to users before introducing their paywall. If the publisher sets a high threshold (15 free articles per day), they maximize discovery and visitation at the cost of conversion (subscriptions). If they set a low threshold (2 free articles per month), they maximize conversion at the cost of discovery and visitation. Both options fall under the category of 'metering,' or limiting the quantity of content consumed. A second category is 'lead in,' where a publisher might offer the first three paragraphs of an article for free, but the user must purchase a subscription to read the article in full. I find the latter to be a frustrating experience as a user.  
 
-[Getting Nothing Done: A Misguided Quest for Productivity](https://robertheaton.com/2014/07/14/getting-nothing-done-a-misguided-quest-for-productivity/)  
+**[Getting Nothing Done: A Misguided Quest for Productivity](https://robertheaton.com/2014/07/14/getting-nothing-done-a-misguided-quest-for-productivity/)**    
 One of the big problems with the pursuit of life hacking is that it rarely has a clear destination – no final outcome, no point at which a person will say, 'Okay, this system works for me and now the process can take a backseat to the actual work or living to be done.' Systems like David Allen's Getting Things Done (GTD) can easily disguise the trap of life hacking while appealing to our desire to accomplish X more easily, more quickly, and more reliably. However, the pursuit of how best to do the work can sap time and energy, leaving no time to do any of the work. In such cases, usually the work to be done is less interesting than ideating and evaluating ways in which the work could be done.  
 
-[Stop Validating, Start Falsifying](https://medium.com/@rcauvin/stop-validating-and-start-falsifying-93e6e0bed08c)  
+**[Stop Validating, Start Falsifying](https://medium.com/@rcauvin/stop-validating-and-start-falsifying-93e6e0bed08c)**    
 Idea validation, or determining whether people are interested in what you have to offer, is flawed for a few reasons. It's extremely easy for a prospective customer to agree that they have a pain you aim to cure and that your product sounds like a great idea, yet have no intention of ever buying your product. There's often no clear and immediate cost to hasty agreement, unfortunately. Disagreement, on the other hand, requires courage and managing the reaction and emotions of the person pitching you the idea.  
 
-[IcoMoon](https://icomoon.io/)  
+**[IcoMoon](https://icomoon.io/)**    
 A solid library of icons, both free and premium.  
 
 ---
 
 # <a name="listened">Listened</a>
 
-[George Levin - I Got Somebody New ](https://www.youtube.com/watch?v=m2EaMLn9m-U)  
+**[George Levin - I Got Somebody New ](https://www.youtube.com/watch?v=m2EaMLn9m-U)**    
 
-[Doug Lazy - Let It Roll](https://www.youtube.com/watch?v=t7bx7xB4Dis)  
+**[Doug Lazy - Let It Roll](https://www.youtube.com/watch?v=t7bx7xB4Dis)**    
 
 ---
 # <a name="watched">Watched</a>
 
-[How to Measure How Much Pee Is in Your Pool](https://www.youtube.com/watch?v=S32y9aYEzzo)  
+**[How to Measure How Much Pee Is in Your Pool](https://www.youtube.com/watch?v=S32y9aYEzzo)**    
 What's responsible for that 'pool smell' and red, itchy eyes after swimming? It's not chlorine alone; chlorine is odorless.  

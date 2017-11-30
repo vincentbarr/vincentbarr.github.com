@@ -6,10 +6,14 @@ permalink: reading/
 
 ### Reading  
 
-[Porcelain: A Memoir](http://amzn.to/2kRXP5j)  
-Moby
+[Bowling Alone: The Collapse and Revival of American Community](http://amzn.to/2jzIXo9)  
+Robert D. Putnam  
+
 
 ### Read  
+
+[Porcelain: A Memoir](http://amzn.to/2kRXP5j)  
+Moby
 
 [The Course of Love](http://amzn.to/2t8MP3g)  
 Alain de Botton  

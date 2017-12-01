@@ -2,7 +2,7 @@
 layout: post
 title: "Wrote, Read, Listened, Watched #1"
 alias: /essais/2017-11-12-wrote-read-listened-watched-1
-excerpt: Free Writing.  
+excerpt: Free writing.  
 comments: true
 ---
 

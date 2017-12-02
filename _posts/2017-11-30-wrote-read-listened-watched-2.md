@@ -43,7 +43,7 @@ The optimal solution would be multi-pronged, of which (4) would be just one part
 <div id="mc_embed_signup">
 <form action="https://vincentbarr.us10.list-manage.com/subscribe/post?u=94da3ac3515f8fabefba65444&amp;id=54c2b2f6fc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Join my Newsletter</label>
+	<label for="mce-EMAIL">Join My Newsletter</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_94da3ac3515f8fabefba65444_54c2b2f6fc" tabindex="-1" value=""></div>
@@ -67,11 +67,11 @@ My job is a _______. I focus on _______, _______, and _______. I do this by ____
 **[Why Truly Sociable People Hate Parties](http://www.thebookoflife.org/why-truly-sociable-people-hate-parties/)**    
 > Firstly, true sociability – that is a real connection between two people – is almost never built up via anything cheerful. It is the result of making ourselves vulnerable before another person, by revealing some of is broken, lost, confused, lonely and in pain within us. We build genuine connections when we dare to exchange thoughts that might leave us open to humiliation and judgement; we make real friends through sharing in an uncensored and frank way a little of the agony and confusion of being alive ... The mark of a truly sociable person might, in many situations, simply be a strong desire to stay at home.
 
-[In the Future We Will All Fall Madly in Love with Our Toasters](http://tomcritchlow.com/2015/09/13/toasters/)  
+**[In the Future We Will All Fall Madly in Love with Our Toasters](http://tomcritchlow.com/2015/09/13/toasters/)**    
 The Internet of Things, or the networking all of our devices, may not evolve through more integration, data collection, and anticipation of needs, but rather by developing the quality of 'cuteness' that appeals to our empathy. 
 
 **[Porcelain: A Memoir](http://amzn.to/2kRXP5j)**    
-Moby wrote a memoir about his teenager years and life as a musician. You might wonder how a memoir differs from an auto-biography, as I did. A memoir depicts an epoch or dimension of one's life, whereas an autobiography tells the entire story of one's life. So, a memoir fits within an autobiography, but an autobiography does not fit within a memoir. 
+Moby wrote a memoir about his teenage years and rise (and fall) as a musician. You might wonder how a memoir differs from an auto-biography, as I did. A memoir depicts an epoch or dimension of one's life, whereas an autobiography tells the entire story of one's life. So, a memoir fits within an autobiography, but an autobiography does not fit within a memoir. 
 
 **[Prebid Adds Support for Mobile App Header Bidding](http://prebid.org/blog/prebid-adds-support-for-mobile-app-header-bidding)**    
 Prebid is now an open-source project providing a header bidding solution for mobile app publishers. 

@@ -16,7 +16,7 @@ I help companies grow through marketing, analytics, and structured experimentati
 
 **Consulting**: Marketing, analytics, and split testing.   
 
-Customers include: Oxo, Prudential Financial, top 5 technology company, Citi, Givewith, General Assemb.ly, CoinDesk, Finhabits, Code Climate, Descendant of Thieves, and more. 
+Customers include: Oxo, Prudential Financial, top 5 technology company, Citi, Givewith, CoinDesk, General Assemb.ly, Finhabits, Code Climate, Descendant of Thieves, and more. 
 
 **Jet.com**: Customer acquisition (social, programmatic display, etc.)  
 

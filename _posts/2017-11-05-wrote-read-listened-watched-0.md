@@ -2,61 +2,11 @@
 layout: post
 title: "Wrote, Read, Listened, Watched #0"
 alias: /essais/2017-05-11-wrote-read-listened-watched-0
-excerpt: A new habit.  
+excerpt: A potential habit.  
 comments: true
 ---
 
-[Wrote](#wrote), [Read](#read), [Listened](#listened), [Watched](#watched)
-
----
-
-# <a name="wrote">Habits</a>
-
-Habits are important. Some habits, few habits, are surprisingly easy to form. In these rare cases, akrasia is distant, repetition is effortless, and you can't wait for the next time you can repeat the behavior to which you're committed. You're motivated by the satisfaction you receive by the doing of the behavior, less the having done it.
-
-One such habit for me is meditation. Another is exercise. I look forward to both of them. At times, I crave them. And this feeling began long before the 28-day trial required to form a habit.
-
-Other habits, most habits, are difficult to form.
-
-This post marks the initiation of a difficult habit I'd like to earn: writing publicly, consistently.
-
-Writing publicly is challenging for reasons unique from those that make writing consistently difficult. Together, the two qualities of writing – consistency and publicity – pose a formidable test for me. This initiation will surely be the easiest step.
-
-For now, my weekly writing will follow a simple structure consisting of four sections:
-
-**Wrote**: The first section, which will include at least one post I've written over the past week. For now, the name of the piece will replace the section header 'Wrote.'
-
-**Read**: The most interesting section for the foreseeable future, which will highlight select media I've read over the course of the previous week and include either a quote from the article or my question, comment, summary, or reply.
-
-**Watched**: The most entertaining section for the lifespan of this project. It will include notable video I've watched over the course of the previous week.
-
-**Listened**: My favorite section. I love music; I love to dance; and I'd love to make you a playlist (just ask). This section will include select songs I've felt over the last week.
-
-
-You will find the remaining sections below. 
-
-Thanks for reading. 
-
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://vincentbarr.us10.list-manage.com/subscribe/post?u=94da3ac3515f8fabefba65444&amp;id=54c2b2f6fc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Join my Newsletter</label>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_94da3ac3515f8fabefba65444_54c2b2f6fc" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+[Read](#read), [Listened](#listened), [Watched](#watched)
 
 ---
 

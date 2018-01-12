@@ -8,7 +8,7 @@ permalink: about/
 
 Hi, I'm Vincent. You can reach me at vincentvbarr at gmail dot com. On Twitter, I'm [@VincentBarr](https://twitter.com/vincentbarr?lang=en), and on LinkedIn, I'm still [Vincent Barr](https://www.linkedin.com/in/vincentbarr/).  
 
-I built this site on Jekyll. This page will be receiving a necessary update by 2018.  
+I built this site on Jekyll. This page will be receiving a necessary in the first quarter of 2018.  
 
 ## Work  
 

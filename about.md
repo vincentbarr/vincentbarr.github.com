@@ -12,11 +12,11 @@ I built this site on Jekyll, and haven't made significant, necessary updates in 
 
 ## Work  
 
-I help companies grow through marketing, analytics, and structured experimentation. I work closely with marketing, engineering, design, and product management teams and leaders. 
+I help b2b and b2c companies – from Fortune 5s to startups – grow through marketing, analytics, and structured experimentation. I've led marketing, product, and web teams to become more effective and more efficient.
 
 **Consulting**
 
-Client includes  
+Clients include:  
 * Google  
 * Prudential Financial  
 * Tory Burch  
@@ -37,7 +37,8 @@ Client includes
 * Code Climate  
 * Givewith  
 
-More... 
+Among my previous expeirence, I've held marketing and product roles at MongoDB and Jet.com.  
+
 
 ##  Causes
 

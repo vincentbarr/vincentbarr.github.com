@@ -6,7 +6,7 @@ permalink: reading/
 
 ### Reading  
 
-[Built to Sell: Creating a Business That Can Thrive Without You](https://www.amazon.com/Built-Sell-Creating-Business-Without/dp/1591845823/ref=sr_1_2?keywords=built+to+sell&qid=1551233091&s=books&sr=1-2)  
+[Built to Sell: Creating a Business That Can Thrive Without You](https://www.amazon.com/Built-Sell-Creating-Business-Without/dp/1591845823/)  
 John Warrilow
 
 ### Read  

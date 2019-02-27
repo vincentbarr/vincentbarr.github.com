@@ -6,11 +6,13 @@ permalink: reading/
 
 ### Reading  
 
-[Bowling Alone: The Collapse and Revival of American Community](http://amzn.to/2jzIXo9)  
-Robert D. Putnam  
-
+[Built to Sell: Creating a Business That Can Thrive Without You](https://www.amazon.com/Built-Sell-Creating-Business-Without/dp/1591845823/ref=sr_1_2?keywords=built+to+sell&qid=1551233091&s=books&sr=1-2)  
+John Warrilow
 
 ### Read  
+
+[Crucial Conversations: Tools for Talking When Stakes Are High](http://amzn.to/2kRXP5j)  
+Kerry Patterson, Joseph Grenny, Al Switzler, and Laura Roppe  
 
 [Porcelain: A Memoir](http://amzn.to/2kRXP5j)  
 Moby

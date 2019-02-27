@@ -12,7 +12,7 @@ I built this site on Jekyll, and haven't made significant, necessary updates in 
 
 ## Work  
 
-I help b2b and b2c companies – from Fortune 5s to startups – grow through marketing, analytics, and structured experimentation. I've led marketing, product, and web teams to become more effective and more efficient.
+I help both B2B and B2C companies – from Fortune 5s to startups – to grow through marketing, analytics, and structured experimentation. I've led marketing, product, and web teams to become more effective and more efficient.
 
 **Consulting**
 

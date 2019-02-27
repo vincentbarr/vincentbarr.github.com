@@ -16,29 +16,32 @@ I help b2b and b2c companies – from Fortune 5s to startups – grow through ma
 
 **Consulting**
 
-Clients include:  
+Clients include (in no particular order):  
 * Google  
 * Prudential Financial  
 * Tory Burch  
 * Citibank  
-* Product School  
 * OXO  
 * Ueno  
+* Product School  
 * Noodle  
+* Thinkful  
 * Teladoc  
 * Amino  
+* Convene  
 * eConsultancy  
 * Behavior Gap  
-* Andela
+* SelfMade  
+* Andela  
 * Finhabits  
 * CoinDesk  
 * General Assemb.ly  
+* Hearth  
 * Handy  
 * Code Climate  
-* Givewith  
+* Givewith (CBS Interactive)  
 
-Among my previous expeirence, I've held marketing and product roles at MongoDB and Jet.com.  
-
+Currently, I'm an Advisor to Plug and Play Tech Center, an instructor for Product School, and among Distinguished Faculty for General Assemb.ly. Among my previous expeirence, I've held marketing and product roles at MongoDB and Jet.com.  
 
 ##  Causes
 

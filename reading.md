@@ -9,7 +9,10 @@ permalink: reading/
 [Built to Sell: Creating a Business That Can Thrive Without You](https://www.amazon.com/Built-Sell-Creating-Business-Without/dp/1591845823/)  
 John Warrilow
 
-### Read  
+### Read (Non-Exhaustive)
+
+[The Checklist Manifesto: How to Get Things Right](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)  
+Atul Gawande  
 
 [Crucial Conversations: Tools for Talking When Stakes Are High](http://amzn.to/2kRXP5j)  
 Kerry Patterson, Joseph Grenny, Al Switzler, and Laura Roppe  
@@ -43,8 +46,7 @@ Andrew Grove
 
 [The Art of Travel](http://amzn.to/20SioZ6)  
 Alain de Botton  
-
-
+  
 [Never Split the Difference](http://amzn.to/2auRQM4)  
 Chris Voss  
 

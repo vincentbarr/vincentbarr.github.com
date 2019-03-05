@@ -5,11 +5,14 @@ permalink: reading/
 ---
 
 ### Reading  
+[How to Actually Change Your Mind](https://www.amazon.com/How-Actually-Change-Your-Mind/dp/1939311179)  
+Eliezer Yudkowsky  
+
+
+### Read (Non-Exhaustive)  
 
 [Built to Sell: Creating a Business That Can Thrive Without You](https://www.amazon.com/Built-Sell-Creating-Business-Without/dp/1591845823/)  
-John Warrilow
-
-### Read (Non-Exhaustive)
+John Warrilow  
 
 [The Checklist Manifesto: How to Get Things Right](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)  
 Atul Gawande  

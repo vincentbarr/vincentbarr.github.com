@@ -49,6 +49,6 @@ Currently, I'm an Advisor to Plug and Play Tech Center, an instructor for Produc
 
 Co-Organizer of [House of Genius](http://houseofgenius.org/), an intimate, bi-monthly event uniting two entrepreneurs with a small, diverse group of panelists to think through a business or design challenge.  No professional information is disclosed until the end of the evening.  
 
-Advisor, former Co-Chair of the Mentor Leadership Council & Mentor-Coach at [America Needs You](http://www.americaneedsyou.org), a non-profit that helps first-generation college students recognize and pursue their aspirations, closing a considerable opportunity gap.  
+Advisor, former Co-Chair of the Mentor Leadership Council, and Mentor-Coach at [America Needs You](http://www.americaneedsyou.org), a non-profit that helps first-generation college students recognize and pursue their aspirations, closing a considerable opportunity gap.  
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

@@ -5,11 +5,12 @@ permalink: reading/
 ---
 
 ### Reading  
-[How to Actually Change Your Mind](https://www.amazon.com/How-Actually-Change-Your-Mind/dp/1939311179)  
-Eliezer Yudkowsky  
 
 
 ### Read (Non-Exhaustive)  
+
+[Ender's Game](https://amzn.to/2IvBTrR)  
+Orson Scott Card  
 
 [Built to Sell: Creating a Business That Can Thrive Without You](https://www.amazon.com/Built-Sell-Creating-Business-Without/dp/1591845823/)  
 John Warrilow  

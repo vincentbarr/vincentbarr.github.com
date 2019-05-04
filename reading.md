@@ -6,10 +6,13 @@ permalink: reading/
 
 ### Reading  
 
-[You Need a Budget: The Proven System for Breaking the Paycheck-to-Paycheck Cycle, Getting Out of Debt, and Living the Life You Want](https://amzn.to/2Iy1z78)   
-Jesse Mecham  
+[The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)  
+Michael Gerber  
 
 ### Read (Non-Exhaustive)  
+
+[You Need a Budget: The Proven System for Breaking the Paycheck-to-Paycheck Cycle, Getting Out of Debt, and Living the Life You Want](https://amzn.to/2Iy1z78)   
+Jesse Mecham  
 
 [Ender's Game](https://amzn.to/2IvBTrR)  
 Orson Scott Card  

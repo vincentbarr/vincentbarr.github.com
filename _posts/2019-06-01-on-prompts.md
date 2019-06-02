@@ -10,17 +10,17 @@ comments: true
 
 To prompt is to invite to dinner a guest that normally would not have a seat at the table. Ironically, this guest, and others like them, are the ones that we would most like to have join us. 
 
-Imagine this scenario. 
+Imagine that I ask you the following question.
 
-“Hey, how is your day going?” I ask you.  
+“Hey, how is your day going?”  
 
-Think about your answer.
+Think about your answer.  
 
-Your range of responses is likely limited. 
+How quickly did you respond? How limited was your range of potential answer?  
 
-We respond without reflecting on how our day has been (‘it’s fine, thank you’) or after dismissing the highs or lows that immediately come to mind (‘not too bad, you?’). 
+We often respond to this question _without_ reflecting on how our day has been (‘it’s fine, thank you’), or shortly after dismissing the highs or lows that immediately come to mind and opting for a more neutral answer (‘not too bad, you?’). 
 
-You could argue that people don’t actually care about how your day is going. It’s a social lubricant. It’s an insincere question with the good intention of making both people feel acknowledged, quickly. 
+You could argue that people asking this question don’t actually care about how your day is going. It’s a social lubricant. It’s an insincere question with the good intention of making both people feel acknowledged, quickly. 
 
 That’s fair. 
 

@@ -16,9 +16,9 @@ Imagine that I ask you the following question.
 
 Think about your answer.  
 
-How quickly did you respond? How limited was your range of potential answer?  
+How long did it take for you to respond? How many potential responses were within your likely range?  
 
-We often respond to this question _without_ reflecting on how our day has been (‘it’s fine, thank you’), or shortly after dismissing the highs or lows that immediately come to mind and opting for a more neutral answer (‘not too bad, you?’). 
+We often respond to this question _without_ reflecting on how our day has been (‘It’s fine, thank you’), or shortly after dismissing the highs or lows that immediately come to mind and opting for a more neutral answer (‘Not too bad, you?’). 
 
 You could argue that people asking this question don’t actually care about how your day is going. It’s a social lubricant. It’s an insincere question with the good intention of making both people feel acknowledged, quickly. 
 
@@ -26,9 +26,9 @@ That’s fair.
 
 But, in that case, why ask a question at all? Why not say, ‘Hi, have a good day,’ instead. 
 
-Let’s continue by assuming that you’d like to be the type of person who, more often than not, asks questions purposefully and intends to listen to answers. After much practice, you rarely ask, ‘how is your day going?’ without meaning it, and you rarely ask the question at all as you’ve found prompts more useful. 
+Let’s continue this discourse by assuming that you’d like to be the type of person who, more often than not, asks questions purposefully and intends to listen to answers. After much practice, you rarely ask, ‘how is your day going?’ without meaning it, and you rarely ask the question at all as you’ve found prompts more useful. 
 
-Imagine that, instead of asking you your how your day is going, I ask:  
+Now, imagine that, instead of asking you your how your day is going, I ask:  
 
 * What was the worst part of your day?
 
@@ -40,13 +40,13 @@ Imagine that, instead of asking you your how your day is going, I ask:
 
 You might need a second to think about your answer. 
 
-You might need to reflect on your day, and how it’s actually going, or, in talking through your answers, come to a general conclusion (‘my day is going fine’) with more context (‘But I keep replaying how I felt on Saturday when I tripped over my shoelaces, fell down three flights of stairs, and was then rescued by the man I would elope with two hours later’). 
+You might need, or choose, to reflect on your day, and how it’s actually going, or, in talking through your answers, come to a general conclusion (‘My day is going fine’) with more context (‘But I keep replaying how I felt on Saturday when I tripped over my shoelaces, fell down three flights of stairs, and was then rescued by my neighbor whom I would elope with two hours later’). 
 
 ‘How is your day going’ is a fair question, but it’s not a useful prompt for it does not invite under-exposed emotions, experiences, feelings, thoughts, or moods to the conversation like the prompts above do – and that’s what we’re after. 
 
 I believe that, for better or worse, people often need permission. Permission to share, permission to do, permission to adjust the temperature in the room. 
 
-If I ask you how your day is, you may not feel that you have permission to investigate the highs and lows of your day. If, instead, I ask you how bad your day was, then you can tell me precisely how bad it was and why without feeling like you’re burdening or oversharing. If I ask you how great your day was, then you can tell me how precisely how great your day is and why without feeling like you’re bragging.  
+If I ask you how your day is, you may not feel that you have permission to investigate the highs and lows of your day. If, instead, I ask you how bad your day was, then you can tell me precisely how bad it was and why without feeling like you’re burdening or oversharing. If I ask you how great your day was, then you can tell me how precisely how great your day is and why without feeling like you’re bragging. In the process, you may also realize that your day _wasn't_ so bad after all, but there were a few events that made it feel as such.   
 
 If we ask good questions, if we prompt people, then we will get better answers and have more intimate conversations more often.  
 

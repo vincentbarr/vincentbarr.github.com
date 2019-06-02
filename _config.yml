@@ -135,7 +135,7 @@ JB :
 
 # Pagination
 
-  gems: 
+  plugins: 
     - jekyll-paginate
     - jekyll-gist
     - jekyll-coffeescript

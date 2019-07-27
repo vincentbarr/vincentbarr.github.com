@@ -358,8 +358,8 @@ Ken Wilber
 [A Brave New World](http://amzn.to/1fvcweP)  
 Aldous Huxley  
 
-[The Complete Works of Shakespeare](http://amzn.to/Yzk9kk)
- by William Shakespeare  
+[The Complete Works of Shakespeare](http://amzn.to/Yzk9kk)  
+William Shakespeare  
 
 [The Essential Calvin and Hobbes](http://amzn.to/1qlAa97)  
 Bill Watterson

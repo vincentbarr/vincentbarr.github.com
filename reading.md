@@ -6,10 +6,13 @@ permalink: reading/
 
 ### Reading  
 
-[Thinking, Fast and Slow](https://amzn.to/2LFgJZV)  
-Daniel Kahneman  
+[The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science for Greater Mindfulness](https://amzn.to/2YMwe8x)  
+John Yates
 
 ### Read (Non-Exhaustive)  
+
+[Thinking, Fast and Slow](https://amzn.to/2LFgJZV)  
+Daniel Kahneman   
 
 [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)  
 Michael Gerber  

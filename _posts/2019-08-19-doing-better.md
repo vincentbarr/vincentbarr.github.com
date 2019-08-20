@@ -24,7 +24,7 @@ We ask low-effort questions because it’s easy. And we’re lazy.
 
 We expect others to interpret our implicit needs with little information, fill in the gaps, and then give us a solution.  
 
-‘Is everything okay?’ is a catch-all we may ask our loved ones to gauge how their day went, whether our behavior was appropriate, and if their love for us remains strong, among other things. 
+‘Is everything okay?’ is a catch-all we ask our loved ones to gauge how their day went, whether our behavior was appropriate, and if their love for us remains strong, among other things. 
 
 The first step to doing things better, or to doing better things, is to ask better questions. 
 

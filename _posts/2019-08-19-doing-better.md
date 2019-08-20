@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Can We Be Doing Better"
+title: "What Can We Be Doing Better?"
 alias: /essais/2019-08-19-doing-better
 excerpt: A question I'm frequently asked, and my response.  
 comments: true

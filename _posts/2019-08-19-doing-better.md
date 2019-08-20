@@ -59,7 +59,7 @@ Record your activities or your team’s activities for a week, categorize them (
 * Do you want to do X cheaper?  
 
 
-Now, let’s apply these questions to an imaginary scenario wherein I’m running a business and spending a 40% of my waking hours on bookkeeping, one of the most dreadful business operations activities I can think of. 
+Now, let’s apply these questions to an imaginary scenario wherein I’m running a business and spending 40% of my waking hours on bookkeeping, one of the most dreadful business operations activities I can think of. 
 
 **1. Do I want to bookkeep at all?**  
 No, but I must. And when it comes to the things that I don’t want to do, but must do, I have a simple formula: outsource them.  

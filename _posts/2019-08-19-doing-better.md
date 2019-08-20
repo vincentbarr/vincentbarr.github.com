@@ -22,7 +22,7 @@ This is a well-intentioned question, but a poor one.
 
 We ask low-effort questions because it’s easy. And we’re lazy.
 
-We expect others to interpret our implicit needs with little more information, fill in the gaps, and then give us a solution.  
+We expect others to interpret our implicit needs with little information, fill in the gaps, and then give us a solution.  
 
 ‘Is everything okay?’ is a catch-all we may ask our loved ones to gauge how their day went, whether our behavior was appropriate, and if their love for us remains strong, among other things. 
 
@@ -36,7 +36,7 @@ Most of us don’t know what we want for most of the time. People struggle to de
 
 One way to figure out what you want is to state what you don’t want, and reverse it. 
 
-Here are a few crude examples. 
+Here are a few examples. 
 
 | If you don’t want to                                                  | Then you may want to                                                                                                                                                                              |
 |-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -4,11 +4,18 @@ title: About
 permalink: about/
 ---
 
-![Calvin &amp; Hobbes Dinosaur](/assets/images/calvin-hobbes-dino.png){:width="950px"}
+![Calvin &amp; Hobbes Dinosaur](/assets/images/calvin-hobbes-dino.png){:width="950px"}  
 
-Hi, I'm Vincent. You can reach me at vincentvbarr at gmail dot com. On Twitter, I'm [@VincentBarr](https://twitter.com/vincentbarr?lang=en), and on LinkedIn, I'm still [Vincent Barr](https://www.linkedin.com/in/vincentbarr/).  
+> “We may not even notice that we have extinguished our own curiosity, just as we may forget we had something to say until we find someone who is willing to hear it.”  – Alain de Botton
 
-I built this website on Jekyll, and haven't made significant, necessary updates in a long time. 
+
+Hi, I'm Vincent. 
+
+I built this website on Jekyll, and my goal is to create a motley panoply of what has my attention – my thoughts, my experiences, my experiments, my work, and my hobbies – for readers to connect over, discuss, learn from, disagree with, or debunk.  
+
+Progress toward goal (as of 08/24/2019): F (2 / 100)  
+
+You can contact me at vincentvbarr at gmail dot com or on [Twitter](https://twitter.com/vincentbarr?lang=en).  
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
@@ -31,55 +38,33 @@ I built this website on Jekyll, and haven't made significant, necessary updates 
 
 <!--End mc_embed_signup-->
 
-
 ## Work  
 
 I help B2B and B2C companies – from Fortune 5s to startups – to grow through marketing, analytics, and structured experimentation. I've led marketing, product, and web teams to become more effective and more efficient.
 
-Additionally, I'm an Advisor to Plug and Play Tech Center, an instructor for Product School and Decoded, and among Distinguished Faculty for General Assemb.ly. Among my previous experience, I've held marketing and product roles at MongoDB and Jet.com.
+I'm an Advisor to Plug and Play Tech Center, an instructor and curriculum designer for Product School, Decoded, and among Distinguished Faculty for General Assemb.ly. Among my previous experience, I've held marketing and product roles at MongoDB and Jet.com.
 
-**Consulting**
-
-Clients include (in no particular order):  
-* Google  
-* Prudential Financial  
-* Tory Burch  
-* Citibank  
-* DigitalOcean  
-* The Farmer's Dog  
-* OXO   
-* Ueno  
-* Product School  
-* Noodle  
-* Thinkful  
-* Teladoc  
-* Amino  
-* Convene  
-* eConsultancy  
-* Behavior Gap  
-* SelfMade  
-* Andela  
-* Finhabits  
-* CoinDesk  
-* General Assemb.ly  
-* Hearth  
-* Handy  
-* Code Climate  
-* Givewith (CBS Interactive)  
+Clients include (in no particular order): Google; Prudential Financial; Tory Burch; Citibank; DigitalOcean; The Farmer's Dog; OXO; CoinDesk; Ueno; Product School; Noodle; Thinkful; Teladoc; Amino; Convene; eConsultancy; Behavior Gap; Andela; Finhabits; General Assemb.ly; Hearth; Handy; Code Climate; and Givewith (CBS).  
 
 ##  Causes  
 
-Co-Organizer of [House of Genius](http://houseofgenius.org/), an intimate, bi-monthly event uniting two entrepreneurs with a small, diverse group of panelists to think through a business or design challenge.  No professional information is disclosed until the end of the evening.  
+Formerly, Co-Organizer of [House of Genius](http://houseofgenius.org/), an bi-monthly event uniting two entrepreneurs with a small, diverse group of panelists to think through a business challenge. No professional information is disclosed until the end of the evening.  
 
-Advisor, former Co-Chair of the Mentor Leadership Council, and Mentor-Coach at [America Needs You](http://www.americaneedsyou.org), a non-profit that helps first-generation college students recognize and pursue their aspirations, closing a considerable opportunity gap.  
+Former Co-Chair of the Mentor Leadership Council and Mentor-Coach at [America Needs You](http://www.americaneedsyou.org), a non-profit that helps first-generation college students recognize and pursue their aspirations to closing the considerable opportunity gap.  
 
-##  You Can Talk to Me About  
+##  Talk to Me About  
 
-You can talk to me about most anything, but here are a few starter topics: 
-* 2600   
-* Meditation   
-* Mixed martial arts  
-* Quantified self  
-* Book recommendations  
+A secondary goal of mine is to meet, befriend, and collaborate with more interesting people. Here's a short, non-exhaustive list of topics I'm happy to discuss with you.  
+
+* 2600    
+* The ubiquity of double-speak  
+* Backpacking  
+* Meditation     
+* Mixed martial arts    
+* Quantified self   
+* Book recommendations   
+* Courses you've found invaluable as an adult  
+* What's been on your mind  
+* What's been on my mind  
 
 <a href="https://plus.google.com/+VincentBarr0?rel=author"></a>

@@ -11,9 +11,7 @@ permalink: about/
 
 Hi, I'm Vincent. 
 
-I built this website on Jekyll, and my goal is to create a motley panoply of what has my attention – my thoughts, my experiences, my experiments, my work, and my hobbies – for readers to connect over, discuss, learn from, disagree with, or debunk.  
-
-Progress toward goal (as of 08/24/2019): F (2 / 100)  
+My goal is to share what has my attention – my thoughts, my experiences, my experiments, my work, and my hobbies – for readers to connect over, discuss, learn from, disagree with, or debunk.  
 
 You can contact me at vincentvbarr at gmail dot com or on [Twitter](https://twitter.com/vincentbarr?lang=en).  
 

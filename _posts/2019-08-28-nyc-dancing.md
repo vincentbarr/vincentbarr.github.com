@@ -16,7 +16,8 @@ The extent of your bookmarking, skimming, and researching is limited only by the
 
 In contrast, curating experiences is inconvenient. 
 
-Finding great artists, venues, and events who reliably deliver both music and atmosphere for shameless dancing requires a different form of effort and coordination: putting clothes on, leaving the house, travel time, waiting for a specific day of the week and time of day, physical presence, and so forth. 
+Finding artists and venues who, together, reliably deliver both music and atmosphere for shameless dancing requires a different form of effort and coordination: putting clothes on, leaving the house, travel time, waiting for a specific day of the week and time of day, physical presence, and so forth. 
+
 
 After nine years of rhythmic trial and error, I will share my favorite places to dance in the city of New York. 
 

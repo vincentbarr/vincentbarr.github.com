@@ -6,10 +6,10 @@ permalink: reading/
 
 ### Reading  
 
-[Bulletproof Problem Solving: The One Skill That Changes Everything](https://amzn.to/2YMwe8x)  
+[Bulletproof Problem Solving: The One Skill That Changes Everything](https://amzn.to/2NEiV46)  
 Charles Conn, Robert McLean  
 
-[Finite and Infinite Games](https://amzn.to/2YMwe8x)  
+[Finite and Infinite Games](https://amzn.to/2MJw5wX)  
 James Carse  
 
 [The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science for Greater Mindfulness](https://amzn.to/2YMwe8x)  

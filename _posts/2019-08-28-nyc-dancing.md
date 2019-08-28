@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Five Places Where I Dress to Sweat in NYC?"
+title: "Five Places Where I Dress to Sweat in NYC"
 alias: /essais/2019-08-28-nyc-dancing
 excerpt: My favorite places to dance in NYC.  
 comments: true

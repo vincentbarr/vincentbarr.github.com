@@ -164,7 +164,7 @@ Peter Drucker
 [Go: A Kidd's Guide to Graphic Design](http://amzn.to/1hGqq4J)  
 Chip Kidd  
 
-[Nonviolent Communication: A Language of Life](http://amzn.to/1g0C1ck)  
+[Nonviolent Communication: A Language of Life](https://amzn.to/2NBNgjC)  
 Marshall Rosenberg  
 
 [Beyond Good and Evil](http://amzn.to/1e7pv9b)  

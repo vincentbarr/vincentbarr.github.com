@@ -12,6 +12,7 @@ tagline:             'Curious'
 url:                 http://www.vincentbarr.com
 baseurl:             '/'
 paginate:            8  
+paginate_path: "page:num"
 
 # We specify the directory for Jekyll so we can use @imports.
 sass:
@@ -20,7 +21,7 @@ sass:
 
 # Pagination
 plugins: [jekyll-paginate]
-paginate: 5
+paginate: 8
 paginate_path: "page:num"
 
 # About/contact
@@ -140,8 +141,8 @@ JB :
     - jekyll-gist
     - jekyll-coffeescript
 
-  paginate: 8
-  paginate_path: "page:num"
+  # paginate: 8
+  # paginate_path: "page:num"
   # Google Tag Manager
 
   # Settings for all other include helpers can be defined by creating

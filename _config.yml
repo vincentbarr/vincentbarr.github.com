@@ -140,7 +140,7 @@ JB :
     - jekyll-gist
     - jekyll-coffeescript
 
-  paginate: 5
+  paginate: 8
   paginate_path: "page:num"
   # Google Tag Manager
 

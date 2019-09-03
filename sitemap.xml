@@ -16,7 +16,7 @@
 {% for page in site.pages %}
 <url>
     <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
 </url>
 {% endfor %}
 </urlset>

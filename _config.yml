@@ -11,7 +11,7 @@ title:               Vincent Barr
 tagline:             'Curious'
 url:                 http://www.vincentbarr.com
 baseurl:             '/'
-paginate:            5
+paginate:            8  
 
 # We specify the directory for Jekyll so we can use @imports.
 sass:

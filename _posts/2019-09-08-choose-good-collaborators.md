@@ -6,7 +6,6 @@ excerpt: Why it's hard to select long-term work mates.
 comments: true
 ---
 
-On Selecting and Testing for Effective Collaborators Part 1 of N
 It was the year 2000, and the Y2K bug had failed to live up to its hype, which meant it had failed to provide clearance for me to hold late library books and Blockbuster rental videos indefinitely. Indeed, I would have to return to my routine of weekday manual labor during summer and winter breaks, as if nothing had ever happened. 
 
 On one such weekday, a friend inquired about coming to work with me, from 7am to 4pm, when we would dig trenches a few feet into the ground to lay electrical and utilities infrastructure. 

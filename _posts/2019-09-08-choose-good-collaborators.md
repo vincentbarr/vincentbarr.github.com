@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Choosing Good Collaborators (Part 1 of N"
+title: "On Choosing Good Collaborators (1 of N)"
 alias: /essais/2019-09-08-choose-good-collaborators
 excerpt: Why it's hard to select long-term work mates.  
 comments: true

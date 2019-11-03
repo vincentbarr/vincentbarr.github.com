@@ -1,0 +1,38 @@
+I"c<p>The latest release of Google Chrome (30.0.1599.69.) snuck frequently visited sites back into your new tabs. I imagine this could be a semi-traumatic experience for some.</p>
+
+<p><strong>Before</strong>
+<img src="http://www.vincentbarr.com/assets/images/chrome-homepage-before.png" alt="Chrome Homepage Before" /></p>
+
+<p><strong>After</strong>
+<img src="http://www.vincentbarr.com/assets/images/chrome-homepage-after.png" alt="Chrome Homepage After" /></p>
+
+<p>Take the following steps to drop your most frequently visited sites from new tabs.</p>
+
+<ol>
+  <li>
+    <p>Open Chrome</p>
+  </li>
+  <li>
+    <p>Enter ‘Chrome://flags’ in the address bar</p>
+  </li>
+  <li>
+    <p>Press ⌘F and look for ‘Enable Instant Extended’</p>
+  </li>
+</ol>
+
+<p><img src="http://www.vincentbarr.com/assets/images/chrome-extended-api.png" alt="Extended API" /></p>
+
+<ol>
+  <li>
+    <p>Disable ‘Instant Extended API’</p>
+  </li>
+  <li>
+    <p>Click ‘Ok’ when prompted to ‘Relaunch Now’</p>
+  </li>
+  <li>
+    <p>That’s better</p>
+  </li>
+</ol>
+
+<p><a href="https://plus.google.com/+VincentBarr0?rel=author"></a></p>
+:ET

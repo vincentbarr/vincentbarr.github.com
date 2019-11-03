@@ -6,13 +6,16 @@ permalink: reading/
 
 ### Reading  
 
+[Profit First](https://amzn.to/2C7j6xS)  
+Michael Michalowicz  
+
 [Bulletproof Problem Solving: The One Skill That Changes Everything](https://amzn.to/2NEiV46)  
 Charles Conn, Robert McLean  
 
+### Read (Non-Exhaustive)  
+
 [Finite and Infinite Games](https://amzn.to/2MJw5wX)  
 James Carse  
-
-### Read (Non-Exhaustive)  
 
 [Thinking, Fast and Slow](https://amzn.to/2LFgJZV)  
 Daniel Kahneman   
@@ -296,6 +299,9 @@ Rick Strassman
 [Influence: The Psychology of Persuasion](http://amzn.to/1sgiKeN)  
 Robert Cialdini  
 
+[I Will Teach You To Be Rich](https://amzn.to/36vEKth)  
+Ramit Sethi  
+
 [Invisible Man](http://amzn.to/1et8po7)  
 Ralph Ellison  
 
@@ -352,8 +358,6 @@ John Fowles
 
 [Breakfast of Champions](http://amzn.to/1nnCMhQ)  
 Kurt Vonnegut  
-
-
 
 [Howl and Other Poems](http://amzn.to/1hPPmRE)  
 Allen Ginsberg  

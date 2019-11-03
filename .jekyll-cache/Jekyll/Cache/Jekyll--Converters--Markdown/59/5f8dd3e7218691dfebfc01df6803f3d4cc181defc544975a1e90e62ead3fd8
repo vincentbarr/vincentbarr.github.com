@@ -1,0 +1,64 @@
+I"z
+<p>Today, I accidentally deleted my wishlist from Amazon.com.</p>
+
+<p>Born on April 23, 2010, my reading list disguised as a wishlist grew to 931 unread books. A few recommendations came from friends and coworkers, but the large majority were a byproduct of late nights spent scouring the corners of the Internet.</p>
+
+<p>Fortunately, Amazon’s customer support team was able to reverse my damage almost immediately.</p>
+
+<p>At this point, I realized <em>I</em> should own this data, not Amazon. Doing so would provide me with a backup of my reading list and the ability to sort, edit and prioritize my list quickly and easily.</p>
+
+<p>I saw three options:</p>
+<ol>
+  <li>Export my wish list as a PDF</li>
+  <li>(1), then copy and paste the PDF into Excel as text</li>
+  <li>Use a Web Query to import my wish list directly from Amazon.com to Excel</li>
+</ol>
+
+<p>I chose (3), for (1) didn’t meet my requirement to sort the list as desired and (2) required more steps (and memory usage) than (3).</p>
+
+<p>Here’s how to do it.</p>
+
+<h3 id="how-to-import-your-wish-list-from-amazoncom-to-excel-using-a-web-query">How to import your wish list from Amazon.com to Excel using a Web Query</h3>
+
+<p>Open your browser.</p>
+<ol>
+  <li>From Amazon.com, navigate to ‘Your Lists’</li>
+  <li>Click the printer icon</li>
+  <li>Copy the URL from the address bar</li>
+</ol>
+
+<p>Now, we will create a ‘Saved Query’ that Excel will run to pull-in the data. The example sets the minimum number of options for the sake of simplicity and our simple use-case.</p>
+
+<ol>
+  <li>Open a text editor</li>
+  <li>Write the query as follows</li>
+</ol>
+
+<p><code>  
+WEB 
+1  
+[http://www.amazon.com/gp/registry/wishlist/2YI7WESZHILRW?ie=UTF8&amp;disableNav=1&amp;layout=standard-print]</code></p>
+
+<p>Selection=EntirePage<br />
+&lt;/code&gt;</p>
+
+<p>Here’s an explanation of the query:  <br />
+Line 1: Query Type. Since this is a web query, we set this to Web.</p>
+
+<p>Line 2: Query version. Since we only have one version, we set this to 1.</p>
+
+<p>Line 3: URL (Uniform Resource Locator). Excel will run your query against this file.</p>
+
+<p>Lines 5 and beyond: Custom Parameters. Configure settings such as what data you would like to select for retrieval, data type, formatting, and so on.</p>
+
+<ol>
+  <li>Save the file as wishlistQuery.txt</li>
+  <li>Switch to Excel</li>
+  <li>⌘ + ⇧ + / to open the search prompt for Excel’s Menu Bar</li>
+  <li>Type and select ‘Run Saved Query’</li>
+  <li>Select and open wishlistQuery.txt</li>
+  <li>Choose your desired range</li>
+</ol>
+
+<p><img src="/assets/images/amazon-wishlist-export-excel.png" alt="Amazon Wishlist in Excel XLSX format" /></p>
+:ET

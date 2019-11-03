@@ -1,0 +1,75 @@
+I"�
+<p>First and foremost, make sure <a href="https://www.torproject.org/download/download-easy.html.en">Tor</a> is up-to-date.</p>
+
+<p>Now, if you’re running OS X Mavericks 10.9.4, you may find that after upgrading Tor your Bitcoin Core client you can no longer connect to a Bitcoin network.</p>
+
+<p>To fix the issue, I took the steps listed below, which take about 5-minutes to complete. Hopefully, this saves you some time crawling threads with many questions, no answers, and greedy pagination.</p>
+
+<h2 id="steps-to-repair-bitcoin-core-bitcoin-qts-network-connection">Steps to repair Bitcoin Core (Bitcoin-Qt)’s network connection</h2>
+
+<ol>
+  <li>
+    <p>Open Bitcoin-Qt. From the File menu, open Preferences and select the Network tab.</p>
+  </li>
+  <li>
+    <p>Check the two available radio boxes: one labeled Map port using UPnP, and one labeled Connect through SOCKS proxy (default proxy)</p>
+  </li>
+  <li>
+    <p>Set the Proxy IP to your localhost: 127.0.0.1</p>
+  </li>
+  <li>
+    <p>Set the port to 9051</p>
+  </li>
+  <li>
+    <p>Choose 5 for your SOCKS Version</p>
+  </li>
+  <li>
+    <p>Click Okay, and quit Bitcoin-Qt (required for changes to take effect)</p>
+  </li>
+  <li>
+    <p>Quit TorBrowser</p>
+  </li>
+  <li>
+    <p>Navigate to “~/library/application support/bitcoin” (<a href="#morehelp">read steps below for quick way to navigate to hidden files in Finder</a>?)</p>
+  </li>
+  <li>
+    <p>Open your text editor and create a new file, ‘bitcoin.conf’, in the /Bitcoin directory. Make sure that the file uses the extension .conf and does not simply have .conf in the filename.</p>
+  </li>
+  <li>
+    <p>Add the following text to bitcoin.conf and save the file in the current directory (the Bitcoin directory):</p>
+  </li>
+</ol>
+
+<blockquote>
+  <p>bind=127.0.0.1<br />
+listen=1<br />
+upnp=0<br />
+proxy=127.0.0.1:9150</p>
+</blockquote>
+
+<p>Voila!</p>
+
+<hr />
+
+<p><a id="morehelp"></a>&lt;h3&gt;Navigating for hidden files in Finder&lt;/h3&gt;</p>
+
+<p>First, I prefer using the CLI over Finder.</p>
+
+<p>That said if you’re using Finder and its default configuration, follow these steps to quickly jump to hidden folders.</p>
+
+<ol>
+  <li>
+    <p>Open a Finder window</p>
+  </li>
+  <li>
+    <p>Press and hold  <span style="font-weight:bold">⌘ + ⇧ + G</span>.</p>
+  </li>
+  <li>
+    <p>This will open a ‘Go to’ prompt that will allow you to enter your desired path. Copy and paste the path used in step 8, then press return.&lt;/p&gt;</p>
+  </li>
+</ol>
+
+<p>Also, you should <a href="http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/">un-hide your files</a>.</p>
+
+<p><a href="https://plus.google.com/+VincentBarr0?rel=author"></a></p>
+:ET

@@ -14,6 +14,9 @@ Charles Conn, Robert McLean
 
 ### Read (Non-Exhaustive)  
 
+[The Appearance of Power: How Masculinity is Expressed Through Aesthetics](https://amzn.to/2qdzkCJ)  
+Tanner Guzy  
+
 [Finite and Infinite Games](https://amzn.to/2MJw5wX)  
 James Carse  
 

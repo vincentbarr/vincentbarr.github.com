@@ -41,7 +41,7 @@ John Warrilow
 [The Checklist Manifesto: How to Get Things Right](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)  
 Atul Gawande  
 
-[Crucial Conversations: Tools for Talking When Stakes Are High](http://amzn.to/2kRXP5j)  
+[Crucial Conversations: Tools for Talking When Stakes Are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/ref=sr_1_2?keywords=crucial+conversations&qid=1573433592&sr=8-2)    
 Kerry Patterson, Joseph Grenny, Al Switzler, and Laura Roppe  
 
 [Porcelain: A Memoir](http://amzn.to/2kRXP5j)  

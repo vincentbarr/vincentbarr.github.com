@@ -40,7 +40,7 @@ You can contact me at vincentvbarr at gmail dot com or on [Twitter](https://twit
 
 I help B2B and B2C companies – from Fortune 5s to startups – to grow through marketing, analytics, and structured experimentation. I've led marketing, product, and web teams to become more effective and more efficient. Along the way, I dropped out of graduate school (MBA and Master's of Engineering Management at Kellogg).  
 
-My clients include (in no particular order): Google; Prudential Financial; Tory Burch; Citibank; DigitalOcean; The Farmer's Dog; OXO; Zeus Living; CoinDesk; Ueno; Product School; Retool; Noodle; Thinkful; Teladoc; Amino; Convene; eConsultancy; Behavior Gap; Andela; Finhabits; General Assemb.ly; Hearth; and Givewith (CBS).  
+My clients include (in no particular order): Google; Prudential Financial; Tory Burch; Citibank; DigitalOcean; The Farmer's Dog; OXO; Zeus Living; CoinDesk; Ueno; Product School; Retool; Noodle; Thinkful; Teladoc; Amino; Convene; eConsultancy; Behavior Gap; Andela; Finhabits; General Assemb.ly; Yum! Brands; Hearth; and Givewith (CBS).  
 
 Further, I'm an Advisor to Plug and Play Tech Center, an instructor and curriculum designer for Product School, Decoded, and among Distinguished Faculty for General Assemb.ly. Among my previous experience, I've held marketing and product roles at MongoDB (IPO, 2018) and Jet.com (Acquired, 2016).  
 

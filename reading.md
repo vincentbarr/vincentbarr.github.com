@@ -9,8 +9,8 @@ permalink: reading/
 [Profit First](https://amzn.to/2C7j6xS)  
 Michael Michalowicz  
 
-[Bulletproof Problem Solving: The One Skill That Changes Everything](https://amzn.to/2NEiV46)  
-Charles Conn, Robert McLean  
+[Atomic Habits](https://amzn.to/33PoRwd)  
+James Clear
 
 ### Read (Non-Exhaustive)  
 
@@ -26,7 +26,7 @@ Daniel Kahneman
 [The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science for Greater Mindfulness](https://amzn.to/2YMwe8x)  
 John Yates  
 
-[The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)  
+[The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://amzn.to/2XvcoeZ)  
 Michael Gerber  
 
 [You Need a Budget: The Proven System for Breaking the Paycheck-to-Paycheck Cycle, Getting Out of Debt, and Living the Life You Want](https://amzn.to/2Iy1z78)   
@@ -35,13 +35,13 @@ Jesse Mecham
 [Ender's Game](https://amzn.to/2IvBTrR)  
 Orson Scott Card  
 
-[Built to Sell: Creating a Business That Can Thrive Without You](https://www.amazon.com/Built-Sell-Creating-Business-Without/dp/1591845823/)  
+[Built to Sell: Creating a Business That Can Thrive Without You](https://amzn.to/359VVPE)  
 John Warrilow  
 
-[The Checklist Manifesto: How to Get Things Right](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)  
+[The Checklist Manifesto: How to Get Things Right](https://amzn.to/37f2C4M)  
 Atul Gawande  
 
-[Crucial Conversations: Tools for Talking When Stakes Are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/ref=sr_1_2?keywords=crucial+conversations&qid=1573433592&sr=8-2)    
+[Crucial Conversations: Tools for Talking When Stakes Are High](https://amzn.to/2Xi1nNU)    
 Kerry Patterson, Joseph Grenny, Al Switzler, and Laura Roppe  
 
 [Porcelain: A Memoir](http://amzn.to/2kRXP5j)  

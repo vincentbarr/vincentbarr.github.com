@@ -11,7 +11,7 @@ permalink: about/
 
 Hi, I'm Vincent. 
 
-My goal is to share what has my attention – my thoughts, my experiences, my experiments, my work, and my hobbies – for readers to connect over, discuss, learn from, disagree with, or debunk.  
+My goal is to share what has my attention – thoughts, experiences, experiments, books, work, and hobbies – for readers to connect over, discuss, learn from, disagree with, or debunk.  
 
 You can contact me at vincentvbarr at gmail dot com or on [Twitter](https://twitter.com/vincentbarr?lang=en).  
 
@@ -48,15 +48,16 @@ Further, I'm an Advisor to Plug and Play Tech Center, an instructor and curricul
 
 Formerly, Co-Organizer of [House of Genius](http://houseofgenius.org/), an bi-monthly event uniting two entrepreneurs with a small, diverse group of panelists to think through a business challenge. No professional information is disclosed until the end of the evening.  
 
-Former Co-Chair of the Mentor Leadership Council and Mentor-Coach at [America Needs You](http://www.americaneedsyou.org), a non-profit that helps first-generation college students recognize and pursue their aspirations to closing the considerable opportunity gap.  
+Formerly, Co-Chair of the Mentor Leadership Council and Mentor-Coach at [America Needs You](http://www.americaneedsyou.org), a non-profit that helps first-generation college students recognize and pursue their aspirations to closing the considerable opportunity gap.  
 
 ##  Talk to Me About  
 
 A secondary goal of mine is to meet, befriend, and collaborate with more interesting people. Here's a short, non-exhaustive list of topics I'm happy to discuss with you.  
 
+* Backpacking   
+* Psychology  
 * 2600    
 * The ubiquity of double-speak  
-* Backpacking  
 * Meditation     
 * Mixed martial arts    
 * Quantified self   

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Archive
-permalink: archive/
+title: Writing
+permalink: writing/
 ---
 
 {% for post in site.posts %}

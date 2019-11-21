@@ -57,7 +57,7 @@ production_url : www.vincentbarr.com
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 pages_list:       
-  Archive: '/archive/'
+  Writing: '/writing/'
   Reading: '/reading/'
   About: '/about/'
 

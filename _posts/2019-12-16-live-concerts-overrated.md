@@ -26,13 +26,13 @@ But, we all have so many great concert memories.
 
 In 1996, aged 11 years, I saw Soundgarden, Metallica, Ramones (or what remained of them), Wu-Tang Clan, and Shaolin monks share a small stage at Lollapalooza in a field in Upstate New York. In 2011, I saw Prince perform and physically remove Kim Kardashian from his stage at Madison Square Garden. Last year, I rode a Kawasaki Ninja 650 to a Jamiroquai concert in Queens, New York. 
 
-And the peak-end theory would explain why I tend reflect on some of my concert experiences with exaggerated positivity. I remember the climax and end of the concerts, and forget about all of the griping, waiting, and discomfort that comprises the majority of the rarena experience. That is until I began a rant-y post like this one. 
+And the peak-end theory would explain why I tend reflect on some of my concert experiences with exaggerated positivity. I remember the climax and end of the concerts, and forget about all of the griping, waiting, and discomfort that comprises the majority of the rarena experience. That is until I sit down to write a rant-y post like this one. 
 
-Live music in an intimate setting is magical.
+Live music in an intimate setting is charming, moving, and occasionally magical.
 
 'Shows' at arenas and stadiums are disappointing, frustrating, and easily rivaled by watching a music video playlist at home with friends. 
 
-Why?
+Why?  
 
 ## Stadiums are burden magnets. 
 

@@ -20,15 +20,17 @@ In 2018, indoor venues with 10,000+ seats accounted for 76% of gross ticket sale
 
 How?
 
-Partly by preying upon people who, clearly, have not invented a way to measure dopamine neurotransmission, installed it beneath their flesh, and collected the data required to prioritize their activities by entertainment utility (pleasure per minute present, pleasure per dollar spent) only to realize that experience blows. 
+Partly by preying upon people who, clearly, have not invented a way to measure dopamine neurotransmission, installed it beneath their flesh, and collected the data required to prioritize their activities by entertainment utility (pleasure per minute present, pleasure per dollar spent) only to realize that this experience blows. 
 
 But, we all have so many great concert memories. 
 
-In 1996, aged 11 years, I saw Soundgarden, Metallica, Ramones (or what remained of them), Wu-Tang Clan, and many others share a stage at Lollapalooza in a field in Upstate New York. In 2011, I saw Prince perform and physically remove Kim Kardashian from his stage at Madison Square Garden. Last year, I rode a Kawasaki Ninja 650 to a Jamiroquai concert in Queens, New York. 
+In 1996, aged 11 years, I saw Soundgarden, Metallica, Ramones (or what remained of them), Wu-Tang Clan, and Shaolin monks share a small stage at Lollapalooza in a field in Upstate New York. In 2011, I saw Prince perform and physically remove Kim Kardashian from his stage at Madison Square Garden. Last year, I rode a Kawasaki Ninja 650 to a Jamiroquai concert in Queens, New York. 
 
-And the peak-end theory would explain why I reflect on some of my concert experiences with exaggerated positivity. I reflect on the climax and end of the concerts, and forget all of the griping, waiting, and discomfort that comprises the majority of the experience.  
+And the peak-end theory would explain why I tend reflect on some of my concert experiences with exaggerated positivity. I remember the climax and end of the concerts, and forget about all of the griping, waiting, and discomfort that comprises the majority of the rarena experience. That is until I began a rant-y post like this one. 
 
-Other concert experiences, however, those held at arenas and stadiums are disappointing and downright frustrating. In fact, they’re easily rivaled by watching a music video playlist at home with friends. 
+Live music in an intimate setting is magical.
+
+'Shows' at arenas and stadiums are disappointing, frustrating, and easily rivaled by watching a music video playlist at home with friends. 
 
 Why?
 
@@ -38,7 +40,7 @@ Why?
 
 I hate waiting. 
 
-I’m impatient, and stadium concerts are filled with wait. 
+I’m moderately impatient, and stadium concerts are filled with wait. 
 
 You will wait for the date to arrive when you’re eligible to buy tickets before they sell out. You will wait for your friends to inform you whether they can join you on such and such date.
 

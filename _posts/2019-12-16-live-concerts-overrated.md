@@ -54,7 +54,7 @@ When you’re not waiting, you may just enjoy the show.
 
 At your seat, you may stand in physical discomfort, but in support of the artist, or you opt for physical ease, sit, and face the emotional discomfort of remaining calmly seated at Jimi Hendrix’s last performance. 
 
-When someone isn’t squeezing past you, spilling beer on your wife’s selfie stick, squeaking and squealing into your ear, or claiming you’re in their seat, you may make out shapes of the band from a distance (“I think he’s wearing a blue shirt;” “No, that’s definitely turquoise”), thanks to the stadium seating. You may hear a few of your favorite songs as you oscillate between a head nod, a 2-step, and a lot of text messaging. Now, you’ve grown a little chilly, hidden a few yawns, and could honestly just use a quick nap. 
+When someone isn’t squeezing past you, spilling beer on your wife’s selfie stick, squeaking and squealing into your ear, or claiming you’re in their seat, you may make out shapes of the band from a distance (“I think he’s wearing a blue shirt;” “No, that’s _definitely_ turquoise”), thanks to the stadium seating. You may hear a few of your favorite songs as you oscillate between a head nod, a 2-step, and a lot of text messaging. Now, you’ve grown a little chilly, masked a few yawns, and could honestly just use a quick nap. 
 
 For how much longer will this continue? 
 

@@ -6,10 +6,10 @@ excerpt: Stadiums, burden magnets, and concert pageantry.
 comments: true
 ---
 
-Them: Prince is coming to Madison Square Garden again. Want to go?  
-Me: No.  
-Them: But you love Prince.   
-Me: I do, but I learned my lesson the first time. Live concerts in stadiums and arenas are overrated. It’s an unmet obligation to have the time of your life.  
+**Them**: Prince is coming to Madison Square Garden again. Want to go?  
+**Me**: No.  
+**Them**: But you love Prince.   
+**Me**: I do, but I learned my lesson the first time. Live concerts in stadiums and arenas are overrated. It’s an unmet obligation to have the time of your life.  
 
 The live music industry earned $8.16 billion in ticket sales last year (2018), and is expected to grow at a rate of $0.5B per year through 2021 (source: Statista.com). 
 

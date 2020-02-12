@@ -9,10 +9,11 @@ permalink: reading/
 [Profit First](https://amzn.to/2C7j6xS)  
 Michael Michalowicz  
 
-[Atomic Habits](https://amzn.to/33PoRwd)  
-James Clear
 
 ### Read (Non-Exhaustive)  
+
+[Atomic Habits](https://amzn.to/33PoRwd)  
+James Clear  
 
 [The Appearance of Power: How Masculinity is Expressed Through Aesthetics](https://amzn.to/2qdzkCJ)  
 Tanner Guzy  

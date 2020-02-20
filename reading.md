@@ -9,7 +9,6 @@ permalink: reading/
 [Profit First](https://amzn.to/2C7j6xS)  
 Michael Michalowicz  
 
-
 ### Read (Non-Exhaustive)  
 
 [Atomic Habits](https://amzn.to/33PoRwd)  

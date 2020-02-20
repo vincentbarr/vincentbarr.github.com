@@ -114,9 +114,9 @@ If a concert sucks, say so.
 
 Last, and related, investigate what you actually enjoy. 
 
-![Abilene Paradox example](/assets/images/abilene-paradox.png)
-
 Perform less for others, perform more for yourself. 
+
+![Abilene Paradox example](/assets/images/abilene-paradox.png)  
 
 
 <!-- Begin MailChimp Signup Form -->

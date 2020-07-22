@@ -38,7 +38,7 @@ You can contact me at vincentvbarr at gmail dot com or on [Twitter](https://twit
 
 ## Work  
 
-I founded [Operator](www.yesoperator.com), a consultancy helping B2B and B2C companies – from Fortune 5s like Google to growth-stage startups like The Farmer's Dog – to grow through marketing, analytics, and structured experimentation. I am an Advisor to Plug and Play Tech Center, an instructor and curriculum designer for Product School, Decoded, and among Distinguished Faculty for General Assemb.ly. Along the way, I dropped out of graduate school (MBA and Master's of Engineering Management at Kellogg).   
+I founded [Operator](https://www.yesoperator.com), a consultancy helping B2B and B2C companies – from Fortune 5s like Google to growth-stage startups like The Farmer's Dog – to grow through marketing, analytics, and structured experimentation. I am an Advisor to Plug and Play Tech Center, an instructor and curriculum designer for Product School, Decoded, and among Distinguished Faculty for General Assemb.ly. Along the way, I dropped out of graduate school (MBA and Master's of Engineering Management at Kellogg).   
 
 
 Among my previous experience, I've held marketing and product roles at MongoDB (IPO, 2018), Jet.com (Acquired, 2016).  

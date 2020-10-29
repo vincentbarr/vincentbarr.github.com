@@ -5,11 +5,23 @@ permalink: reading/
 ---
 
 ### Reading  
-
 [Profit First](https://amzn.to/2C7j6xS)  
 Michael Michalowicz  
 
+
 ### Read (Non-Exhaustive)  
+
+[Traction: Get a Grip on Your Business](https://amzn.to/35GjlOF)   
+Gino Wickman  
+
+[Managing Oneself](https://amzn.to/37QtN8M)   
+Peter Drucker   
+
+[Too Soon Old, Too Late Smart: Thirty True Things You Need to Know Now](https://amzn.to/3jH4Xuh)  
+Gordon Livingston  
+
+[Profit First](https://amzn.to/2C7j6xS)  
+Michael Michalowicz  
 
 [Atomic Habits](https://amzn.to/33PoRwd)  
 James Clear  

@@ -269,6 +269,9 @@ Ben Greenman
 [The Candles of Your Eyes](http://amzn.to/13wXuWN)  
 James Purdy  
 
+[What We Talk About When We Talk About Love: Stories](https://amzn.to/2JwRQ36)  
+Raymond Carver  
+
 [Strategic Project Management Made Simple: Practical Tools for Leaders and Teams](http://amzn.to/14s5frV)  
 Terry Schmidt  
 

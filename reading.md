@@ -5,11 +5,21 @@ permalink: reading/
 ---
 
 ### Reading  
-[Profit First](https://amzn.to/2C7j6xS)  
-Michael Michalowicz  
 
+
+[Your Money or Your Life](https://amzn.to/2JD1Esm)  
+Vicki Robin  
+
+[Models](https://amzn.to/2X1H47S)   
+Mark Manson  
 
 ### Read (Non-Exhaustive)  
+
+[Delegation & Supervision](https://amzn.to/381rnUA)    
+Brian Tracy  
+
+[Profit First](https://amzn.to/2C7j6xS)  
+Michael Michalowicz  
 
 [Traction: Get a Grip on Your Business](https://amzn.to/35GjlOF)   
 Gino Wickman  
@@ -19,9 +29,6 @@ Peter Drucker
 
 [Too Soon Old, Too Late Smart: Thirty True Things You Need to Know Now](https://amzn.to/3jH4Xuh)  
 Gordon Livingston  
-
-[Profit First](https://amzn.to/2C7j6xS)  
-Michael Michalowicz  
 
 [Atomic Habits](https://amzn.to/33PoRwd)  
 James Clear  

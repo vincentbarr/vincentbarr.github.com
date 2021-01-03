@@ -6,14 +6,13 @@ permalink: reading/
 
 ### Reading  
 
-
 [Your Money or Your Life](https://amzn.to/2JD1Esm)  
 Vicki Robin  
 
+### Read (Non-Exhaustive)  
+
 [Models](https://amzn.to/2X1H47S)   
 Mark Manson  
-
-### Read (Non-Exhaustive)  
 
 [Delegation & Supervision](https://amzn.to/381rnUA)    
 Brian Tracy  

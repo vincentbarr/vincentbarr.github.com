@@ -11,6 +11,9 @@ Vicki Robin
 
 ### Read (Non-Exhaustive)  
 
+[The Ultimate Hiker's Gear Guide: Tools and Techniques to Hit the Trail](https://amzn.to/3rGcEoF)    
+Andrew Skurka  
+
 [Models](https://amzn.to/2X1H47S)   
 Mark Manson  
 

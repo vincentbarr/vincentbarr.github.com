@@ -11,6 +11,13 @@ Vicki Robin
 
 ### Read (Non-Exhaustive)  
 
+[Circling Europe SAS Curriculum](https://amzn.to/3fs4wHR)  
+Sean Wilkinson, John Thompson, Jordan Myska Allen  
+
+
+[House of Belonging](https://amzn.to/3DXFf2A)  
+David Whyte  
+
 [The Ultimate Hiker's Gear Guide: Tools and Techniques to Hit the Trail](https://amzn.to/3rGcEoF)    
 Andrew Skurka  
 

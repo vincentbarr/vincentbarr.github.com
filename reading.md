@@ -6,14 +6,20 @@ permalink: reading/
 
 ### Reading  
 
-[Your Money or Your Life](https://amzn.to/2JD1Esm)  
-Vicki Robin  
+[The Great CEO Within: The Tactical Guide to Company Building](https://www.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287/ref=sr_1_1?keywords=the+great+ceo+within+by+matt+mochary&qid=1675561303&sprefix=ceo+within%2Caps%2C83&sr=8-1)  
+Matt Mochary  
 
 ### Read (Non-Exhaustive)  
 
-[Circling Europe SAS Curriculum](https://amzn.to/3fs4wHR)  
-Sean Wilkinson, John Thompson, Jordan Myska Allen  
+[Your Money or Your Life](https://amzn.to/2JD1Esm)  
+Vicki Robin  
 
+[Anam Cara: A Book of Celtic Wisdom](https://www.amazon.com/Anam-Cara-Twenty-fifth-Anniversary-Celtic/dp/0063270587/ref=sr_1_1?keywords=anam+cara+by+john+o%27donohue&qid=1675561186&sprefix=anam+cara%2Caps%2C183&sr=8-1)  
+John O'Donohue  
+
+
+[Circling Europe SAS Curriculum](https://amzn.to/3fs4wHR)  
+Sean Wilkinson, John Thompson, Jordan Myska Allen   
 
 [House of Belonging](https://amzn.to/3DXFf2A)  
 David Whyte  

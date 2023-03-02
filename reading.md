@@ -6,8 +6,11 @@ permalink: reading/
 
 ### Reading  
 
-[The Great CEO Within: The Tactical Guide to Company Building](https://www.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287/ref=sr_1_1?keywords=the+great+ceo+within+by+matt+mochary&qid=1675561303&sprefix=ceo+within%2Caps%2C83&sr=8-1)  
+[The Great CEO Within: The Tactical Guide to Company Building](https://www.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287/ref=sr_1_1)  
 Matt Mochary  
+
+[Healing Developmental Trauma: How Early Trauma Affects Self-Regulation, Self-Image, and the Capacity for Relationship](https://www.amazon.com/gp/product/1583944893/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  
+Laurence Heller, Aline LaPierre  
 
 ### Read (Non-Exhaustive)  
 
@@ -16,7 +19,6 @@ Vicki Robin
 
 [Anam Cara: A Book of Celtic Wisdom](https://www.amazon.com/Anam-Cara-Twenty-fifth-Anniversary-Celtic/dp/0063270587/ref=sr_1_1?keywords=anam+cara+by+john+o%27donohue&qid=1675561186&sprefix=anam+cara%2Caps%2C183&sr=8-1)  
 John O'Donohue  
-
 
 [Circling Europe SAS Curriculum](https://amzn.to/3fs4wHR)  
 Sean Wilkinson, John Thompson, Jordan Myska Allen   

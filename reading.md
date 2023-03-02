@@ -9,8 +9,8 @@ permalink: reading/
 [The Great CEO Within: The Tactical Guide to Company Building](https://www.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287/ref=sr_1_1)  
 Matt Mochary  
 
-[Healing Developmental Trauma: How Early Trauma Affects Self-Regulation, Self-Image, and the Capacity for Relationship](https://www.amazon.com/gp/product/1583944893/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  
-Laurence Heller, Aline LaPierre  
+[Getting Our Bodies Back: Recovery, Healing, and Transformation through Body-Centered Psychotherapy](https://www.amazon.com/Getting-Bodies-Back-Transformation-Body-Centered/dp/1570621497)    
+Christine Caldwell  
 
 ### Read (Non-Exhaustive)  
 

@@ -9,10 +9,13 @@ permalink: reading/
 [The Great CEO Within: The Tactical Guide to Company Building](https://www.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287/ref=sr_1_1)  
 Matt Mochary  
 
-[Getting Our Bodies Back: Recovery, Healing, and Transformation through Body-Centered Psychotherapy](https://www.amazon.com/Getting-Bodies-Back-Transformation-Body-Centered/dp/1570621497)    
-Christine Caldwell  
+[The Book of Disquiet](https://www.amazon.com/dp/0141183047?psc=1&amp;ref=ppx_yo2ov_dt_b_product_details&_encoding=UTF8&tag=vincentcom-20&linkCode=ur2&linkId=9021cf64d77fabe6ca9d9faab2f7174a&camp=1789&creative=9325)  
+Fernando Pessoa
 
 ### Read (Non-Exhaustive)  
+
+[Getting Our Bodies Back: Recovery, Healing, and Transformation through Body-Centered Psychotherapy](https://www.amazon.com/Getting-Bodies-Back-Transformation-Body-Centered/dp/1570621497)    
+Christine Caldwell  
 
 [Your Money or Your Life](https://amzn.to/2JD1Esm)  
 Vicki Robin  

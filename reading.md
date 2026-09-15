@@ -7,14 +7,39 @@ permalink: reading/
 ### Reading  
 
 
-Matt Mochary  
+[Founding Sales: The Early Stage Go-to-Market Handbook](https://www.amazon.ca/Founding-Sales-Go-Market-Handbook-ebook/dp/B08PMK17Z1)  
+Peter Kazanjy
 
-[The Book of Disquiet](https://www.amazon.com/dp/0141183047?psc=1&amp;ref=ppx_yo2ov_dt_b_product_details&_encoding=UTF8&tag=vincentcom-20&linkCode=ur2&linkId=9021cf64d77fabe6ca9d9faab2f7174a&camp=1789&creative=9325)  
-Fernando Pessoa
+
+[A Walk in the Woods: Rediscovering America on the Appalachian Trail](https://www.amazon.com/Walk-Woods-Rediscovering-America-Appalachian/dp/0307279464)  
+Bill Bryson
+
+
+[Is This Anything?](https://www.amazon.com/This-Anything-Jerry-Seinfeld/dp/1643587293)  
+Jerry Seinfeld  
 
 ### Read (Non-Exhaustive)  
 
+[The Overstory: A Novel](https://www.amazon.com/Overstory-Novel-Richard-Powers/dp/039363552X)  
+Richard Powers  
+
+[The Book of Disquiet](https://www.amazon.com/dp/0141183047?psc=1&amp;ref=ppx_yo2ov_dt_b_product_details&_encoding=UTF8&tag=vincentcom-20&linkCode=ur2&linkId=9021cf64d77fabe6ca9d9faab2f7174a&camp=1789&creative=9325)  
+Fernando Pessoa  
+
+[Pleased but Not Satisfied](https://www.amazon.com/Pleased-But-Not-Satisfied-Sokol/dp/B0017OFXOQ/ref=sr_1_1?crid=OH57MUJBC4GD&dib=eyJ2IjoiMSJ9.ZZylYd1e1gTOY_8CXi6QI-2w6U6XlMM0Nge3I3oQF_8Hadn-Tx6roJB4fPjNbcSXQJre6XRrQrABpoKSFy1y35MyQ8T3MEhmocSf8GGvcYOnoS6o-e_Hd-85brR-Z3eUOJ_mQ_62GhdIjo7GGt0pSW325Va6OjlrBFdQMHtadag5SvXIMJ7DftjodKoQiv3JT6579jUMBrnSYPT6IU6AAi7cUBCMVAcIBXDK7do_m10.79LGb5jv9rG_cDFOFf6gUyWrblCP9p-x_rN17D2mHq0&dib_tag=se&keywords=pleased+but+not+satisfied&qid=1714685107&s=books&sprefix=pleased+but+not+satisfie%2Cstripbooks%2C100&sr=1-1)  
+D.L. Sokol    
+
+[Selling Your Marketing Agency: Making the Most of Your Most Important Deal](https://www.amazon.com/Selling-Your-Marketing-Agency-Important/dp/B0CGHNMFL2/ref=sr_1_1?crid=WZPCJTJ5XI2L&dib=eyJ2IjoiMSJ9._CCMteksbdWOpOxDfD7eGPYl4DZfR_JPR-hLkzDQ0Fu3DIfVso5H3GoOlmxYYHDgOq5GtsCczASpEH5F7_osBEKYUtYm92aXwDmClTL9AlE8AWoaWyvJ8V2NnKcLuefcr4NjJClFhKvXOglFTggayvu93EqGSqOtlhnOBMAy3MsLDxmhhUTVzc3MiywR1Y5Y2uWeNYJWu1UEjHMItE99qVS47-kU0jzfFkmgGHcfYHA.Adi_t4VKFwJYnN6Eet2d6GsMm5YSeYExHy72XlNoTGA&dib_tag=se&keywords=selling+your+marketing+agency&qid=1718913995&sprefix=selling+your+marketing+agency%2Caps%2C87&sr=8-1)   
+David Rodnitzky, Robert Glazer  
+
+[The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness/dp/1544514212/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)   
+Eric Jorgenson  
+
+[Mister Fred](https://www.amazon.com/Mister-Fred-Jill-Pinkwater/dp/0525447784)   
+Jill Pinkwater  
+
 [The Great CEO Within: The Tactical Guide to Company Building](https://www.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287/ref=sr_1_1)  
+Matt Mochary
 
 [Getting Our Bodies Back: Recovery, Healing, and Transformation through Body-Centered Psychotherapy](https://www.amazon.com/Getting-Bodies-Back-Transformation-Body-Centered/dp/1570621497)    
 Christine Caldwell  
